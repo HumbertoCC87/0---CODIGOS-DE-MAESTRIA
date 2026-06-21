@@ -1,0 +1,19 @@
+# Entornos virtuales
+env/
+venv/
+.env/
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de datos (Nunca subir datasets completos a GitHub)
+*.csv
+*.tsv
+*.json
+*.pkl
+*.h5
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
