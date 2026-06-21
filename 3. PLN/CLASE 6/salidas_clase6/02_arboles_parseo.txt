@@ -1,0 +1,183 @@
+==========================================================================================
+ID: 1
+Texto: El profesor explica el tema
+Tokens: el profesor explica el tema
+Parseos encontrados: 1
+
+Árbol 1:
+(S
+  (SN (Det el) (N profesor))
+  (SV (V explica) (SN (Det el) (N tema))))
+==========================================================================================
+ID: 2
+Texto: La plataforma rechaza el archivo
+Tokens: la plataforma rechaza el archivo
+Parseos encontrados: 1
+
+Árbol 1:
+(S
+  (SN (Det la) (N plataforma))
+  (SV (V rechaza) (SN (Det el) (N archivo))))
+==========================================================================================
+ID: 3
+Texto: Los estudiantes revisan el proyecto en la clase
+Tokens: los estudiantes revisan el proyecto en la clase
+Parseos encontrados: 2
+
+Árbol 1:
+(S
+  (SN (Det los) (N estudiantes))
+  (SV
+    (V revisan)
+    (SN (Det el) (N proyecto))
+    (SP (Prep en) (SN (Det la) (N clase)))))
+
+Árbol 2:
+(S
+  (SN (Det los) (N estudiantes))
+  (SV
+    (V revisan)
+    (SN
+      (SN (Det el) (N proyecto))
+      (SP (Prep en) (SN (Det la) (N clase))))))
+==========================================================================================
+ID: 4
+Texto: El sistema detecta errores con reglas
+Tokens: el sistema detecta errores con reglas
+Parseos encontrados: 0
+==========================================================================================
+ID: 5
+Texto: El profesor explica el tema con ejemplos
+Tokens: el profesor explica el tema con ejemplos
+Parseos encontrados: 0
+==========================================================================================
+ID: 6
+Texto: La alumna observa al estudiante con el telescopio
+Tokens: la alumna observa a el estudiante con el telescopio
+Parseos encontrados: 1
+
+Árbol 1:
+(S
+  (SN (Det la) (N alumna))
+  (SV
+    (V observa)
+    (SP
+      (Prep a)
+      (SN
+        (SN (Det el) (N estudiante))
+        (SP (Prep con) (SN (Det el) (N telescopio)))))))
+==========================================================================================
+ID: 7
+Texto: El modelo clasifica noticias rapidamente
+Tokens: el modelo clasifica noticias rapidamente
+Parseos encontrados: 0
+==========================================================================================
+ID: 8
+Texto: La docente revisa el proyecto dificil
+Tokens: la docente revisa el proyecto dificil
+Parseos encontrados: 1
+
+Árbol 1:
+(S
+  (SN (Det la) (N docente))
+  (SV (V revisa) (SN (Det el) (N proyecto) (Adj dificil))))
+==========================================================================================
+ID: 9
+Texto: El estudiante entrega la evidencia
+Tokens: el estudiante entrega la evidencia
+Parseos encontrados: 1
+
+Árbol 1:
+(S
+  (SN (Det el) (N estudiante))
+  (SV (V entrega) (SN (Det la) (N evidencia))))
+==========================================================================================
+ID: 10
+Texto: El equipo analiza los datos con pandas
+Tokens: el equipo analiza los datos con pandas
+Parseos encontrados: 2
+
+Árbol 1:
+(S
+  (SN (Det el) (N equipo))
+  (SV
+    (V analiza)
+    (SN (Det los) (N datos))
+    (SP (Prep con) (SN (NProp pandas)))))
+
+Árbol 2:
+(S
+  (SN (Det el) (N equipo))
+  (SV
+    (V analiza)
+    (SN (SN (Det los) (N datos)) (SP (Prep con) (SN (NProp pandas))))))
+==========================================================================================
+ID: 11
+Texto: El chatbot responde preguntas frecuentes
+Tokens: el chatbot responde preguntas frecuentes
+Parseos encontrados: 0
+==========================================================================================
+ID: 12
+Texto: La universidad publica noticias
+Tokens: la universidad publica noticias
+Parseos encontrados: 0
+==========================================================================================
+ID: 13
+Texto: El algoritmo procesa texto en español
+Tokens: el algoritmo procesa texto en espanol
+Parseos encontrados: 0
+==========================================================================================
+ID: 14
+Texto: La clase práctica mejora habilidades
+Tokens: la clase practica mejora habilidades
+Parseos encontrados: 0
+==========================================================================================
+ID: 15
+Texto: El estudiante compara modelos con metricas
+Tokens: el estudiante compara modelos con metricas
+Parseos encontrados: 0
+==========================================================================================
+ID: 16
+Texto: Los docentes explican conceptos complejos
+Tokens: los docentes explican conceptos complejos
+Parseos encontrados: 0
+==========================================================================================
+ID: 17
+Texto: El sistema responde con evidencia
+Tokens: el sistema responde con evidencia
+Parseos encontrados: 0
+==========================================================================================
+ID: 18
+Texto: La aplicación genera reportes automaticamente
+Tokens: la aplicacion genera reportes automaticamente
+Parseos encontrados: 0
+==========================================================================================
+ID: 19
+Texto: El modelo aprende patrones linguisticos
+Tokens: el modelo aprende patrones linguisticos
+Parseos encontrados: 0
+==========================================================================================
+ID: 20
+Texto: El alumno depura errores en clase
+Tokens: el alumno depura errores en clase
+Parseos encontrados: 0
+==========================================================================================
+ID: 21
+Texto: El rector anunció nuevas becas
+Tokens: el rector anuncio nuevas becas
+Parseos encontrados: 0
+==========================================================================================
+ID: 22
+Texto: La plataforma sube archivos correctamente
+Tokens: la plataforma sube archivos correctamente
+Parseos encontrados: 0
+==========================================================================================
+ID: 23
+Texto: El profesor y la alumna revisan el proyecto
+Tokens: el profesor y la alumna revisan el proyecto
+Parseos encontrados: 0
+==========================================================================================
+ID: 24
+Texto: Los estudiantes entregan evidencias en classroom
+Tokens: los estudiantes entregan evidencias en classroom
+Parseos encontrados: 0

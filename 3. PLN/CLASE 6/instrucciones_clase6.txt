@@ -1,0 +1,31 @@
+UPMH - Procesamiento de Lenguaje Natural
+Clase 6 - Gramáticas libres de contexto, reglas y parsing básico
+Autoría: M.C. Pablo Ricardo Sánchez Gómez
+
+Procedimiento de ejecución:
+
+1. Abrir Visual Studio Code en la carpeta de la práctica.
+2. Activar el ambiente de trabajo:
+   conda activate pln311
+
+3. Instalar dependencias si no están instaladas:
+   python -m pip install -r requirements_clase6.txt
+
+4. Ejecutar el programa:
+   python parser_cfg_clase6.py
+
+5. Revisar la carpeta salidas_clase6.
+
+Archivos esperados:
+- 01_parseos_resumen.csv
+- 02_arboles_parseo.txt
+- 03_tokens_fuera_gramatica.csv
+- 04_oraciones_ambiguas.csv
+
+Para el mini-reto:
+- Ejecutar el script base.
+- Revisar 8 oraciones.
+- Explicar 2 árboles válidos.
+- Explicar 1 oración ambigua.
+- Modificar la gramática agregando al menos 2 palabras y 1 regla.
+- Ejecutar nuevamente y documentar el cambio.

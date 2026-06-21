@@ -1,0 +1,29 @@
+UPMH · Procesamiento de Lenguaje Natural · Clase 5
+Instrucciones de ejecución
+
+1. Abrir la carpeta de la práctica en Visual Studio Code o línea de comandos.
+2. Activar el ambiente de Miniconda:
+   conda activate pln311
+
+3. Instalar dependencias si aún no están instaladas:
+   python -m pip install -r requirements_clase5.txt
+
+4. Descargar el modelo de español de spaCy:
+   python -m spacy download es_core_news_sm
+
+5. Ejecutar la práctica:
+   python analisis_sintactico_clase5.py --input datos/oraciones_clase5.csv --output-dir salidas_clase5
+
+6. Revisar los archivos generados:
+   salidas_clase5/01_tokens_analizados.csv
+   salidas_clase5/02_resumen_oraciones.csv
+   salidas_clase5/03_dependencias.csv
+   salidas_clase5/04_candidatos_ambiguedad.csv
+
+7. Para la evidencia de desempeño, documentar:
+   - Captura de ejecución.
+   - Archivos generados.
+   - Análisis de dependencias y resumen de oraciones.
+   - Interpretación de 3 oraciones.
+   - Análisis de 2 oraciones ambiguas.
+   - Error o ajuste realizado, si existió.
