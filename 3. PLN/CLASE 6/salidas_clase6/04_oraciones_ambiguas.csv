@@ -1,0 +1,3 @@
+﻿id,texto,tokens,num_parseos,observacion
+3,Los estudiantes revisan el proyecto en la clase,los estudiantes revisan el proyecto en la clase,2,la_gramatica_genero_mas_de_un_arbol
+10,El equipo analiza los datos con pandas,el equipo analiza los datos con pandas,2,la_gramatica_genero_mas_de_un_arbol

@@ -1,0 +1,13 @@
+﻿id,texto,token_fuera,observacion
+5,El profesor explica el tema con ejemplos,ejemplos,token_no_definido_en_lexico
+13,El algoritmo procesa texto en español,espanol,token_no_definido_en_lexico
+21,El rector anunció nuevas becas,rector,token_no_definido_en_lexico
+21,El rector anunció nuevas becas,anuncio,token_no_definido_en_lexico
+21,El rector anunció nuevas becas,becas,token_no_definido_en_lexico
+22,La plataforma sube archivos correctamente,sube,token_no_definido_en_lexico
+22,La plataforma sube archivos correctamente,archivos,token_no_definido_en_lexico
+22,La plataforma sube archivos correctamente,correctamente,token_no_definido_en_lexico
+23,El profesor y la alumna revisan el proyecto,y,token_no_definido_en_lexico
+24,Los estudiantes entregan evidencias en classroom,entregan,token_no_definido_en_lexico
+24,Los estudiantes entregan evidencias en classroom,evidencias,token_no_definido_en_lexico
+24,Los estudiantes entregan evidencias en classroom,classroom,token_no_definido_en_lexico

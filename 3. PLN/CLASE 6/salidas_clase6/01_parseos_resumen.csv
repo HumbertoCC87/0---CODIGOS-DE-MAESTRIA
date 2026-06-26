@@ -1,0 +1,25 @@
+﻿id,texto_original,texto_limpio,tokens,tipo_esperado,valida,num_parseos,observacion
+1,El profesor explica el tema,el profesor explica el tema,el profesor explica el tema,valida_simple,si,1,parseo_unico
+2,La plataforma rechaza el archivo,la plataforma rechaza el archivo,la plataforma rechaza el archivo,valida_simple,si,1,parseo_unico
+3,Los estudiantes revisan el proyecto en la clase,los estudiantes revisan el proyecto en la clase,los estudiantes revisan el proyecto en la clase,valida_pp,si,2,ambigua_multiples_parseos
+4,El sistema detecta errores con reglas,el sistema detecta errores con reglas,el sistema detecta errores con reglas,valida_pp,no,0,sin_parseo_por_regla_faltante
+5,El profesor explica el tema con ejemplos,el profesor explica el tema con ejemplos,el profesor explica el tema con ejemplos,ambigua_pp,no,0,fuera_de_gramatica_por_lexico
+6,La alumna observa al estudiante con el telescopio,la alumna observa a el estudiante con el telescopio,la alumna observa a el estudiante con el telescopio,ambigua_pp,si,1,parseo_unico
+7,El modelo clasifica noticias rapidamente,el modelo clasifica noticias rapidamente,el modelo clasifica noticias rapidamente,valida_adv,no,0,sin_parseo_por_regla_faltante
+8,La docente revisa el proyecto dificil,la docente revisa el proyecto dificil,la docente revisa el proyecto dificil,valida_adj,si,1,parseo_unico
+9,El estudiante entrega la evidencia,el estudiante entrega la evidencia,el estudiante entrega la evidencia,valida_simple,si,1,parseo_unico
+10,El equipo analiza los datos con pandas,el equipo analiza los datos con pandas,el equipo analiza los datos con pandas,valida_pp,si,2,ambigua_multiples_parseos
+11,El chatbot responde preguntas frecuentes,el chatbot responde preguntas frecuentes,el chatbot responde preguntas frecuentes,valida_adj,no,0,sin_parseo_por_regla_faltante
+12,La universidad publica noticias,la universidad publica noticias,la universidad publica noticias,valida_simple,no,0,sin_parseo_por_regla_faltante
+13,El algoritmo procesa texto en español,el algoritmo procesa texto en espanol,el algoritmo procesa texto en espanol,valida_pp,no,0,fuera_de_gramatica_por_lexico
+14,La clase práctica mejora habilidades,la clase practica mejora habilidades,la clase practica mejora habilidades,valida_adj,no,0,sin_parseo_por_regla_faltante
+15,El estudiante compara modelos con metricas,el estudiante compara modelos con metricas,el estudiante compara modelos con metricas,valida_pp,no,0,sin_parseo_por_regla_faltante
+16,Los docentes explican conceptos complejos,los docentes explican conceptos complejos,los docentes explican conceptos complejos,valida_adj,no,0,sin_parseo_por_regla_faltante
+17,El sistema responde con evidencia,el sistema responde con evidencia,el sistema responde con evidencia,valida_pp,no,0,sin_parseo_por_regla_faltante
+18,La aplicación genera reportes automaticamente,la aplicacion genera reportes automaticamente,la aplicacion genera reportes automaticamente,valida_adv,no,0,sin_parseo_por_regla_faltante
+19,El modelo aprende patrones linguisticos,el modelo aprende patrones linguisticos,el modelo aprende patrones linguisticos,valida_adj,no,0,sin_parseo_por_regla_faltante
+20,El alumno depura errores en clase,el alumno depura errores en clase,el alumno depura errores en clase,valida_pp,no,0,sin_parseo_por_regla_faltante
+21,El rector anunció nuevas becas,el rector anuncio nuevas becas,el rector anuncio nuevas becas,fuera_cobertura,no,0,fuera_de_gramatica_por_lexico
+22,La plataforma sube archivos correctamente,la plataforma sube archivos correctamente,la plataforma sube archivos correctamente,fuera_cobertura,no,0,fuera_de_gramatica_por_lexico
+23,El profesor y la alumna revisan el proyecto,el profesor y la alumna revisan el proyecto,el profesor y la alumna revisan el proyecto,fuera_cobertura,no,0,fuera_de_gramatica_por_lexico
+24,Los estudiantes entregan evidencias en classroom,los estudiantes entregan evidencias en classroom,los estudiantes entregan evidencias en classroom,fuera_cobertura,no,0,fuera_de_gramatica_por_lexico

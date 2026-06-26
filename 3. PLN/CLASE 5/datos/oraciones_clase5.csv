@@ -1,0 +1,21 @@
+﻿id,texto,dominio
+1,El docente explicó el modelo de clasificación con claridad.,academico
+2,La plataforma rechazó el archivo durante la entrega.,plataforma
+3,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,academico
+4,El sistema clasificó noticias de tecnología con errores razonables.,tecnologia
+5,La universidad publicó nuevas reglas para la evaluación.,institucional
+6,El profesor revisó el proyecto difícil en la plataforma.,ambiguo
+7,Vi al estudiante con el telescopio durante la práctica.,ambiguo
+8,La alumna corrigió el código con ayuda de la documentación.,academico
+9,El modelo confundió educación con tecnología por vocabulario compartido.,tecnologia
+10,El examen práctico evaluó matrices de confusión y métricas.,evaluacion
+11,La noticia sobre inversión en hospitales mezcló economía y salud.,noticias
+12,El gobierno anunció becas para estudiantes de ingeniería.,noticias
+13,Los deportistas celebraron el campeonato en el estadio principal.,deportes
+14,La aplicación detectó errores sintácticos en comentarios breves.,tecnologia
+15,La serie ganó premios después de su estreno internacional.,entretenimiento
+16,El algoritmo analizó dependencias gramaticales en español.,tecnologia
+17,El estudiante entregó la evidencia con retraso justificado.,academico
+18,La policía investigó el robo reportado por vecinos.,seguridad
+19,El hospital recibió nuevos equipos para atención de pacientes.,salud
+20,La inflación afectó el costo de los servicios educativos.,economia

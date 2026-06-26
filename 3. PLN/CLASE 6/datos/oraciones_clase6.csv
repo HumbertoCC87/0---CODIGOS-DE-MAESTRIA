@@ -1,0 +1,25 @@
+﻿id,texto,tipo_esperado
+1,El profesor explica el tema,valida_simple
+2,La plataforma rechaza el archivo,valida_simple
+3,Los estudiantes revisan el proyecto en la clase,valida_pp
+4,El sistema detecta errores con reglas,valida_pp
+5,El profesor explica el tema con ejemplos,ambigua_pp
+6,La alumna observa al estudiante con el telescopio,ambigua_pp
+7,El modelo clasifica noticias rapidamente,valida_adv
+8,La docente revisa el proyecto dificil,valida_adj
+9,El estudiante entrega la evidencia,valida_simple
+10,El equipo analiza los datos con pandas,valida_pp
+11,El chatbot responde preguntas frecuentes,valida_adj
+12,La universidad publica noticias,valida_simple
+13,El algoritmo procesa texto en español,valida_pp
+14,La clase práctica mejora habilidades,valida_adj
+15,El estudiante compara modelos con metricas,valida_pp
+16,Los docentes explican conceptos complejos,valida_adj
+17,El sistema responde con evidencia,valida_pp
+18,La aplicación genera reportes automaticamente,valida_adv
+19,El modelo aprende patrones linguisticos,valida_adj
+20,El alumno depura errores en clase,valida_pp
+21,El rector anunció nuevas becas,fuera_cobertura
+22,La plataforma sube archivos correctamente,fuera_cobertura
+23,El profesor y la alumna revisan el proyecto,fuera_cobertura
+24,Los estudiantes entregan evidencias en classroom,fuera_cobertura

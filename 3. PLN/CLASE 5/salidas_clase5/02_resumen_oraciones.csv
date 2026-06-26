@@ -1,0 +1,21 @@
+﻿id_oracion,dominio,texto,raiz,sujetos,objetos,complementos,total_tokens
+1,academico,El docente explicó el modelo de clasificación con claridad.,explicó,docente,modelo,"clasificación, claridad",10
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,rechazó,plataforma,archivo,entrega,9
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,resolvieron,estudiantes,dudas,"TF-IDF, clase",9
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,clasificó,sistema,noticias,"tecnología, errores, razonables",10
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,publicó,universidad,reglas,"nuevas, evaluación",9
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,revisó,profesor,proyecto,"difícil, plataforma",10
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,Vi,sin_sujeto_detectado,estudiante,"telescopio, práctica",10
+8,academico,La alumna corrigió el código con ayuda de la documentación.,corrigió,alumna,código,"ayuda, documentación",11
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,confundió,modelo,educación,"tecnología, vocabulario, compartido",10
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,evaluó,examen,matrices,"práctico, confusión",10
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,noticia,sin_sujeto_detectado,sin_objeto_detectado,"inversión, hospitales, mezcló",11
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,anunció,gobierno,becas,"estudiantes, ingeniería",9
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,celebraron,deportistas,campeonato,"estadio, principal",10
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,detectó,aplicación,errores,"sintácticos, comentarios, breves",9
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,ganó,serie,premios,"después, estreno, internacional",10
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,analizó,"algoritmo, dependencias",sin_objeto_detectado,"gramaticales, español",8
+17,academico,El estudiante entregó la evidencia con retraso justificado.,entregó,estudiante,evidencia,"retraso, justificado",9
+18,seguridad,La policía investigó el robo reportado por vecinos.,investigó,policía,"robo, vecinos",reportado,9
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,recibió,hospital,equipos,"nuevos, atención, pacientes",10
+20,economia,La inflación afectó el costo de los servicios educativos.,afectó,inflación,costo,"servicios, educativos",10

@@ -1,0 +1,194 @@
+﻿id_oracion,dominio,texto_oracion,indice_token,token,lema,pos,tag,dependencia,cabeza,indice_cabeza,es_stopword,es_alfabetico
+1,academico,El docente explicó el modelo de clasificación con claridad.,0,El,el,DET,DET,det,docente,1,True,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,1,docente,docente,ADJ,ADJ,nsubj,explicó,2,False,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,2,explicó,explicar,VERB,VERB,ROOT,explicó,2,True,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,3,el,el,DET,DET,det,modelo,4,True,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,4,modelo,modelo,NOUN,NOUN,obj,explicó,2,False,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,5,de,de,ADP,ADP,case,clasificación,6,True,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,6,clasificación,clasificación,NOUN,NOUN,nmod,modelo,4,False,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,7,con,con,ADP,ADP,case,claridad,8,True,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,8,claridad,claridad,NOUN,NOUN,nmod,modelo,4,False,True
+1,academico,El docente explicó el modelo de clasificación con claridad.,9,.,.,PUNCT,PUNCT,punct,explicó,2,False,False
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,0,La,el,DET,DET,det,plataforma,1,True,True
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,1,plataforma,plataforma,NOUN,NOUN,nsubj,rechazó,2,False,True
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,2,rechazó,rechazar,VERB,VERB,ROOT,rechazó,2,False,True
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,3,el,el,DET,DET,det,archivo,4,True,True
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,4,archivo,archivo,NOUN,NOUN,obj,rechazó,2,False,True
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,5,durante,durante,ADP,ADP,case,entrega,7,True,True
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,6,la,el,DET,DET,det,entrega,7,True,True
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,7,entrega,entrega,NOUN,NOUN,obl,rechazó,2,False,True
+2,plataforma,La plataforma rechazó el archivo durante la entrega.,8,.,.,PUNCT,PUNCT,punct,rechazó,2,False,False
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,0,Los,el,DET,DET,det,estudiantes,1,True,True
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,1,estudiantes,estudiante,NOUN,NOUN,nsubj,resolvieron,2,False,True
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,2,resolvieron,resolver,VERB,VERB,ROOT,resolvieron,2,False,True
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,3,dudas,duda,NOUN,NOUN,obj,resolvieron,2,False,True
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,4,sobre,sobre,ADP,ADP,case,TF-IDF,5,True,True
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,5,TF-IDF,TF-IDF,PROPN,PROPN,nmod,dudas,3,False,False
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,6,en,en,ADP,ADP,case,clase,7,True,True
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,7,clase,clase,NOUN,NOUN,obl,resolvieron,2,False,True
+3,academico,Los estudiantes resolvieron dudas sobre TF-IDF en clase.,8,.,.,PUNCT,PUNCT,punct,resolvieron,2,False,False
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,0,El,el,DET,DET,det,sistema,1,True,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,1,sistema,sistema,NOUN,NOUN,nsubj,clasificó,2,False,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,2,clasificó,clasificar,VERB,VERB,ROOT,clasificó,2,False,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,3,noticias,noticia,NOUN,NOUN,obj,clasificó,2,False,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,4,de,de,ADP,ADP,case,tecnología,5,True,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,5,tecnología,tecnología,NOUN,NOUN,nmod,noticias,3,False,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,6,con,con,ADP,ADP,case,errores,7,True,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,7,errores,error,NOUN,NOUN,nmod,noticias,3,False,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,8,razonables,razonable,ADJ,ADJ,amod,errores,7,False,True
+4,tecnologia,El sistema clasificó noticias de tecnología con errores razonables.,9,.,.,PUNCT,PUNCT,punct,clasificó,2,False,False
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,0,La,el,DET,DET,det,universidad,1,True,True
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,1,universidad,universidad,PROPN,PROPN,nsubj,publicó,2,False,True
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,2,publicó,publicar,VERB,VERB,ROOT,publicó,2,False,True
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,3,nuevas,nuevo,ADJ,ADJ,amod,reglas,4,True,True
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,4,reglas,regla,NOUN,NOUN,obj,publicó,2,False,True
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,5,para,para,ADP,ADP,case,evaluación,7,True,True
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,6,la,el,DET,DET,det,evaluación,7,True,True
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,7,evaluación,evaluación,NOUN,NOUN,nmod,reglas,4,False,True
+5,institucional,La universidad publicó nuevas reglas para la evaluación.,8,.,.,PUNCT,PUNCT,punct,publicó,2,False,False
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,0,El,el,DET,DET,det,profesor,1,True,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,1,profesor,profesor,NOUN,NOUN,nsubj,revisó,2,False,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,2,revisó,revisar,VERB,VERB,ROOT,revisó,2,False,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,3,el,el,DET,DET,det,proyecto,4,True,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,4,proyecto,proyecto,NOUN,NOUN,obj,revisó,2,False,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,5,difícil,difícil,ADJ,ADJ,amod,proyecto,4,False,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,6,en,en,ADP,ADP,case,plataforma,8,True,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,7,la,el,DET,DET,det,plataforma,8,True,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,8,plataforma,plataforma,NOUN,NOUN,nmod,proyecto,4,False,True
+6,ambiguo,El profesor revisó el proyecto difícil en la plataforma.,9,.,.,PUNCT,PUNCT,punct,revisó,2,False,False
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,0,Vi,ver,VERB,VERB,ROOT,Vi,0,False,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,1,al,al,ADP,ADP,case,estudiante,2,True,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,2,estudiante,estudiante,NOUN,NOUN,obj,Vi,0,False,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,3,con,con,ADP,ADP,case,telescopio,5,True,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,4,el,el,DET,DET,det,telescopio,5,True,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,5,telescopio,telescopio,NOUN,NOUN,obl,Vi,0,False,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,6,durante,durante,ADP,ADP,case,práctica,8,True,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,7,la,el,DET,DET,det,práctica,8,True,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,8,práctica,práctica,NOUN,NOUN,obl,Vi,0,False,True
+7,ambiguo,Vi al estudiante con el telescopio durante la práctica.,9,.,.,PUNCT,PUNCT,punct,Vi,0,False,False
+8,academico,La alumna corrigió el código con ayuda de la documentación.,0,La,el,DET,DET,det,alumna,1,True,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,1,alumna,alumna,NOUN,NOUN,nsubj,corrigió,2,False,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,2,corrigió,corregir,VERB,VERB,ROOT,corrigió,2,False,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,3,el,el,DET,DET,det,código,4,True,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,4,código,código,NOUN,NOUN,obj,corrigió,2,False,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,5,con,con,ADP,ADP,case,ayuda,6,True,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,6,ayuda,ayuda,NOUN,NOUN,obl,corrigió,2,False,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,7,de,de,ADP,ADP,case,documentación,9,True,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,8,la,el,DET,DET,det,documentación,9,True,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,9,documentación,documentación,NOUN,NOUN,nmod,ayuda,6,False,True
+8,academico,La alumna corrigió el código con ayuda de la documentación.,10,.,.,PUNCT,PUNCT,punct,corrigió,2,False,False
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,0,El,el,DET,DET,det,modelo,1,True,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,1,modelo,modelo,NOUN,NOUN,nsubj,confundió,2,False,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,2,confundió,confundir,VERB,VERB,ROOT,confundió,2,False,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,3,educación,educación,NOUN,NOUN,obj,confundió,2,False,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,4,con,con,ADP,ADP,case,tecnología,5,True,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,5,tecnología,tecnología,NOUN,NOUN,nmod,educación,3,False,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,6,por,por,ADP,ADP,case,vocabulario,7,True,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,7,vocabulario,vocabulario,NOUN,NOUN,nmod,tecnología,5,False,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,8,compartido,compartido,ADJ,ADJ,amod,vocabulario,7,False,True
+9,tecnologia,El modelo confundió educación con tecnología por vocabulario compartido.,9,.,.,PUNCT,PUNCT,punct,confundió,2,False,False
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,0,El,el,DET,DET,det,examen,1,True,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,1,examen,examen,NOUN,NOUN,nsubj,evaluó,3,False,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,2,práctico,práctico,ADJ,ADJ,amod,examen,1,False,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,3,evaluó,evaluó,VERB,VERB,ROOT,evaluó,3,False,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,4,matrices,matriz,NOUN,NOUN,obj,evaluó,3,False,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,5,de,de,ADP,ADP,case,confusión,6,True,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,6,confusión,confusión,NOUN,NOUN,nmod,matrices,4,False,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,7,y,y,CCONJ,CCONJ,cc,métricas,8,True,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,8,métricas,métrica,ADJ,ADJ,conj,confusión,6,False,True
+10,evaluacion,El examen práctico evaluó matrices de confusión y métricas.,9,.,.,PUNCT,PUNCT,punct,evaluó,3,False,False
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,0,La,el,DET,DET,det,noticia,1,True,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,1,noticia,noticia,NOUN,NOUN,ROOT,noticia,1,False,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,2,sobre,sobre,ADP,ADP,case,inversión,3,True,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,3,inversión,inversión,NOUN,NOUN,nmod,noticia,1,False,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,4,en,en,ADP,ADP,case,hospitales,5,True,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,5,hospitales,hospital,NOUN,NOUN,nmod,inversión,3,False,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,6,mezcló,mezcló,NOUN,NOUN,nmod,noticia,1,False,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,7,economía,economía,PROPN,PROPN,flat,noticia,1,False,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,8,y,y,CCONJ,CCONJ,cc,salud,9,True,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,9,salud,salud,NOUN,NOUN,conj,economía,7,False,True
+11,noticias,La noticia sobre inversión en hospitales mezcló economía y salud.,10,.,.,PUNCT,PUNCT,punct,noticia,1,False,False
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,0,El,el,DET,DET,det,gobierno,1,True,True
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,1,gobierno,gobierno,NOUN,NOUN,nsubj,anunció,2,False,True
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,2,anunció,anunciar,VERB,VERB,ROOT,anunció,2,False,True
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,3,becas,beca,NOUN,NOUN,obj,anunció,2,False,True
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,4,para,para,ADP,ADP,case,estudiantes,5,True,True
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,5,estudiantes,estudiante,NOUN,NOUN,nmod,becas,3,False,True
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,6,de,de,ADP,ADP,case,ingeniería,7,True,True
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,7,ingeniería,ingeniería,NOUN,NOUN,nmod,estudiantes,5,False,True
+12,noticias,El gobierno anunció becas para estudiantes de ingeniería.,8,.,.,PUNCT,PUNCT,punct,anunció,2,False,False
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,0,Los,el,DET,DET,det,deportistas,1,True,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,1,deportistas,deportista,NOUN,NOUN,nsubj,celebraron,2,False,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,2,celebraron,celebrar,VERB,VERB,ROOT,celebraron,2,False,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,3,el,el,DET,DET,det,campeonato,4,True,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,4,campeonato,campeonato,NOUN,NOUN,obj,celebraron,2,False,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,5,en,en,ADP,ADP,case,estadio,7,True,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,6,el,el,DET,DET,det,estadio,7,True,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,7,estadio,estadio,NOUN,NOUN,obl,celebraron,2,False,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,8,principal,principal,ADJ,ADJ,amod,estadio,7,False,True
+13,deportes,Los deportistas celebraron el campeonato en el estadio principal.,9,.,.,PUNCT,PUNCT,punct,celebraron,2,False,False
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,0,La,el,DET,DET,det,aplicación,1,True,True
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,1,aplicación,aplicación,NOUN,NOUN,nsubj,detectó,2,False,True
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,2,detectó,detectar,VERB,VERB,ROOT,detectó,2,False,True
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,3,errores,error,NOUN,NOUN,obj,detectó,2,False,True
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,4,sintácticos,sintáctico,ADJ,ADJ,amod,errores,3,False,True
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,5,en,en,ADP,ADP,case,comentarios,6,True,True
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,6,comentarios,comentario,NOUN,NOUN,obl,detectó,2,False,True
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,7,breves,breve,ADJ,ADJ,amod,comentarios,6,False,True
+14,tecnologia,La aplicación detectó errores sintácticos en comentarios breves.,8,.,.,PUNCT,PUNCT,punct,detectó,2,False,False
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,0,La,el,DET,DET,det,serie,1,True,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,1,serie,serie,NOUN,NOUN,nsubj,ganó,2,False,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,2,ganó,ganar,VERB,VERB,ROOT,ganó,2,False,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,3,premios,premio,NOUN,NOUN,obj,ganó,2,False,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,4,después,después,ADV,ADV,advmod,ganó,2,True,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,5,de,de,ADP,ADP,case,estreno,7,True,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,6,su,su,DET,DET,det,estreno,7,True,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,7,estreno,estreno,NOUN,NOUN,obl,después,4,False,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,8,internacional,internacional,ADJ,ADJ,amod,estreno,7,False,True
+15,entretenimiento,La serie ganó premios después de su estreno internacional.,9,.,.,PUNCT,PUNCT,punct,ganó,2,False,False
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,0,El,el,DET,DET,det,algoritmo,1,True,True
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,1,algoritmo,algoritmo,NOUN,NOUN,nsubj,analizó,2,False,True
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,2,analizó,analizar,VERB,VERB,ROOT,analizó,2,False,True
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,3,dependencias,dependencia,NOUN,NOUN,nsubj,analizó,2,False,True
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,4,gramaticales,gramatical,ADJ,ADJ,amod,dependencias,3,False,True
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,5,en,en,ADP,ADP,case,español,6,True,True
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,6,español,español,NOUN,NOUN,nmod,dependencias,3,False,True
+16,tecnologia,El algoritmo analizó dependencias gramaticales en español.,7,.,.,PUNCT,PUNCT,punct,analizó,2,False,False
+17,academico,El estudiante entregó la evidencia con retraso justificado.,0,El,el,DET,DET,det,estudiante,1,True,True
+17,academico,El estudiante entregó la evidencia con retraso justificado.,1,estudiante,estudiante,NOUN,NOUN,nsubj,entregó,2,False,True
+17,academico,El estudiante entregó la evidencia con retraso justificado.,2,entregó,entregar,VERB,VERB,ROOT,entregó,2,False,True
+17,academico,El estudiante entregó la evidencia con retraso justificado.,3,la,el,DET,DET,det,evidencia,4,True,True
+17,academico,El estudiante entregó la evidencia con retraso justificado.,4,evidencia,evidencia,NOUN,NOUN,obj,entregó,2,False,True
+17,academico,El estudiante entregó la evidencia con retraso justificado.,5,con,con,ADP,ADP,case,retraso,6,True,True
+17,academico,El estudiante entregó la evidencia con retraso justificado.,6,retraso,retraso,NOUN,NOUN,nmod,evidencia,4,False,True
+17,academico,El estudiante entregó la evidencia con retraso justificado.,7,justificado,justificado,ADJ,ADJ,amod,retraso,6,False,True
+17,academico,El estudiante entregó la evidencia con retraso justificado.,8,.,.,PUNCT,PUNCT,punct,entregó,2,False,False
+18,seguridad,La policía investigó el robo reportado por vecinos.,0,La,el,DET,DET,det,policía,1,True,True
+18,seguridad,La policía investigó el robo reportado por vecinos.,1,policía,policía,NOUN,NOUN,nsubj,investigó,2,False,True
+18,seguridad,La policía investigó el robo reportado por vecinos.,2,investigó,investigar,VERB,VERB,ROOT,investigó,2,False,True
+18,seguridad,La policía investigó el robo reportado por vecinos.,3,el,el,DET,DET,det,robo,4,True,True
+18,seguridad,La policía investigó el robo reportado por vecinos.,4,robo,robo,NOUN,NOUN,obj,investigó,2,False,True
+18,seguridad,La policía investigó el robo reportado por vecinos.,5,reportado,reportado,ADJ,ADJ,amod,robo,4,False,True
+18,seguridad,La policía investigó el robo reportado por vecinos.,6,por,por,ADP,ADP,case,vecinos,7,True,True
+18,seguridad,La policía investigó el robo reportado por vecinos.,7,vecinos,vecino,NOUN,NOUN,obj,reportado,5,False,True
+18,seguridad,La policía investigó el robo reportado por vecinos.,8,.,.,PUNCT,PUNCT,punct,investigó,2,False,False
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,0,El,el,DET,DET,det,hospital,1,True,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,1,hospital,hospital,PROPN,PROPN,nsubj,recibió,2,False,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,2,recibió,recibir,VERB,VERB,ROOT,recibió,2,False,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,3,nuevos,nuevo,ADJ,ADJ,amod,equipos,4,True,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,4,equipos,equipo,NOUN,NOUN,obj,recibió,2,False,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,5,para,para,ADP,ADP,case,atención,6,True,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,6,atención,atención,NOUN,NOUN,nmod,equipos,4,False,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,7,de,de,ADP,ADP,case,pacientes,8,True,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,8,pacientes,paciente,NOUN,NOUN,nmod,atención,6,False,True
+19,salud,El hospital recibió nuevos equipos para atención de pacientes.,9,.,.,PUNCT,PUNCT,punct,recibió,2,False,False
+20,economia,La inflación afectó el costo de los servicios educativos.,0,La,el,DET,DET,det,inflación,1,True,True
+20,economia,La inflación afectó el costo de los servicios educativos.,1,inflación,inflación,NOUN,NOUN,nsubj,afectó,2,False,True
+20,economia,La inflación afectó el costo de los servicios educativos.,2,afectó,afectar,VERB,VERB,ROOT,afectó,2,False,True
+20,economia,La inflación afectó el costo de los servicios educativos.,3,el,el,DET,DET,det,costo,4,True,True
+20,economia,La inflación afectó el costo de los servicios educativos.,4,costo,costo,NOUN,NOUN,obj,afectó,2,False,True
+20,economia,La inflación afectó el costo de los servicios educativos.,5,de,de,ADP,ADP,case,servicios,7,True,True
+20,economia,La inflación afectó el costo de los servicios educativos.,6,los,el,DET,DET,det,servicios,7,True,True
+20,economia,La inflación afectó el costo de los servicios educativos.,7,servicios,servicio,NOUN,NOUN,nmod,costo,4,False,True
+20,economia,La inflación afectó el costo de los servicios educativos.,8,educativos,educativo,ADJ,ADJ,amod,servicios,7,False,True
+20,economia,La inflación afectó el costo de los servicios educativos.,9,.,.,PUNCT,PUNCT,punct,afectó,2,False,False
