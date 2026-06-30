@@ -1,0 +1,51 @@
+﻿id,texto,tipo
+1,El estudiante analiza el texto,simple
+2,La profesora revisa la evidencia,simple
+3,El parser genera un árbol,simple
+4,El modelo procesa la oración,simple
+5,La alumna identifica la raíz,simple
+6,El sistema clasifica el documento,simple
+7,La herramienta detecta el sujeto,simple
+8,El algoritmo compara resultados,simple
+9,La gramática reconoce la estructura,simple
+10,El programa exporta la tabla,simple
+11,La clase revisa el ejemplo,simple
+12,El docente explica el concepto,simple
+13,El equipo entrega el reporte,simple
+14,El estudiante analiza el texto con el programa,sintagma_preposicional
+15,La profesora revisa la evidencia en la plataforma,sintagma_preposicional
+16,El modelo clasificó noticias de tecnología con errores razonables,sintagma_preposicional
+17,El parser generó un árbol con varias ramas,sintagma_preposicional
+18,La alumna comparó resultados en la tabla,sintagma_preposicional
+19,El sistema detectó patrones en los documentos,sintagma_preposicional
+20,El algoritmo procesó oraciones con estructuras simples,sintagma_preposicional
+21,La herramienta identificó dependencias en la oración,sintagma_preposicional
+22,El docente explicó el tema con ejemplos claros,sintagma_preposicional
+23,El equipo revisó el análisis durante la clase,sintagma_preposicional
+24,La gramática aceptó la oración con sintagma preposicional,sintagma_preposicional
+25,El programa guardó los resultados en el archivo,sintagma_preposicional
+26,La clase comparó modelos con criterios técnicos,sintagma_preposicional
+27,Vi al estudiante con el telescopio,ambigua
+28,El profesor calificó el proyecto difícil,ambigua
+29,El gobierno anunció inversión en hospitales,ambigua
+30,La alumna observó al investigador con la cámara,ambigua
+31,El docente revisó el reporte con errores,ambigua
+32,El sistema analizó documentos de alumnos avanzados,ambigua
+33,La profesora explicó la práctica con ejemplos complejos,ambigua
+34,El estudiante presentó el análisis del modelo nuevo,ambigua
+35,El parser procesó la oración con la herramienta,ambigua
+36,El equipo evaluó el resultado del programa automático,ambigua
+37,La universidad publicó resultados de estudiantes sobresalientes,ambigua
+38,El algoritmo detectó relaciones entre textos similares,ambigua
+39,Los alumnos que llegaron tarde entregaron el análisis después de clase,dificil_para_reglas
+40,El sistema detectó inconsistencias cuando el archivo tenía columnas incompletas,dificil_para_reglas
+41,La interpretación automática falló porque el contexto era insuficiente,dificil_para_reglas
+42,El modelo que fue entrenado con pocos datos produjo resultados inestables,dificil_para_reglas
+43,La oración que parecía simple contenía una estructura subordinada,dificil_para_reglas
+44,El reporte fue rechazado porque no incluía evidencia técnica suficiente,dificil_para_reglas
+45,La herramienta identificó una raíz incorrecta cuando la oración tenía varios verbos,dificil_para_reglas
+46,Los documentos que fueron procesados durante la práctica tenían formatos distintos,dificil_para_reglas
+47,El análisis falló aunque la oración era correcta en español,dificil_para_reglas
+48,El parser no reconoció la estructura porque faltaba una regla de producción,dificil_para_reglas
+49,La salida automática parecía válida aunque la interpretación humana era diferente,dificil_para_reglas
+50,El sistema generó una relación sintáctica incorrecta porque el contexto no era explícito,dificil_para_reglas

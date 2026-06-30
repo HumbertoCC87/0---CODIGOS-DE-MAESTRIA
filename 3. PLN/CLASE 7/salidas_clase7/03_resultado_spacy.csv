@@ -1,0 +1,51 @@
+﻿id,raiz_spacy,sujeto_spacy,objeto_spacy,dependencias_principales
+1,analiza,estudiante,texto,estudiante->El:det; analiza->estudiante:nsubj; analiza->analiza:ROOT; texto->el:det; analiza->texto:obj
+2,evidencia,profesora,,profesora->La:det; evidencia->profesora:nsubj; profesora->revisa:amod; evidencia->la:det; evidencia->evidencia:ROOT
+3,genera,parser,árbol,parser->El:det; genera->parser:nsubj; genera->genera:ROOT; árbol->un:det; genera->árbol:obj
+4,modelo,,,modelo->El:det; modelo->modelo:ROOT; modelo->procesa:amod; oración->la:det; modelo->oración:appos
+5,identifica,alumna,raíz,alumna->La:det; identifica->alumna:nsubj; identifica->identifica:ROOT; raíz->la:det; identifica->raíz:obj
+6,clasifica,sistema,documento,sistema->El:det; clasifica->sistema:nsubj; clasifica->clasifica:ROOT; documento->el:det; clasifica->documento:obj
+7,herramienta,,,herramienta->La:det; herramienta->herramienta:ROOT; herramienta->detecta:amod; sujeto->el:det; herramienta->sujeto:appos
+8,compara,algoritmo,resultados,algoritmo->El:det; compara->algoritmo:nsubj; compara->compara:ROOT; compara->resultados:obj
+9,reconoce,gramática,estructura,gramática->La:det; reconoce->gramática:nsubj; reconoce->reconoce:ROOT; estructura->la:det; reconoce->estructura:obj
+10,exporta,programa,tabla,programa->El:det; exporta->programa:nsubj; exporta->exporta:ROOT; tabla->la:det; exporta->tabla:obj
+11,revisa,clase,ejemplo,clase->La:det; revisa->clase:nsubj; revisa->revisa:ROOT; ejemplo->el:det; revisa->ejemplo:obj
+12,explica,docente,concepto,docente->El:det; explica->docente:nsubj; explica->explica:ROOT; concepto->el:det; explica->concepto:obj
+13,entrega,equipo,reporte,equipo->El:det; entrega->equipo:nsubj; entrega->entrega:ROOT; reporte->el:det; entrega->reporte:obj
+14,analiza,estudiante,texto,estudiante->El:det; analiza->estudiante:nsubj; analiza->analiza:ROOT; texto->el:det; analiza->texto:obj; programa->con:case; programa->el:det; analiza->programa:obl
+15,revisa,profesora,evidencia,profesora->La:det; revisa->profesora:nsubj; revisa->revisa:ROOT; evidencia->la:det; revisa->evidencia:obj; plataforma->en:case; plataforma->la:det; revisa->plataforma:obl
+16,clasificó,modelo,noticias,modelo->El:det; clasificó->modelo:nsubj; clasificó->clasificó:ROOT; clasificó->noticias:obj; tecnología->de:case; noticias->tecnología:nmod; errores->con:case; noticias->errores:nmod; errores->razonables:amod
+17,generó,parser,árbol,parser->El:det; generó->parser:nsubj; generó->generó:ROOT; árbol->un:det; generó->árbol:obj; ramas->con:case; ramas->varias:det; generó->ramas:obl
+18,comparó,alumna,resultados,alumna->La:det; comparó->alumna:nsubj; comparó->comparó:ROOT; comparó->resultados:obj; tabla->en:case; tabla->la:det; comparó->tabla:obl
+19,detectó,sistema,patrones,sistema->El:det; detectó->sistema:nsubj; detectó->detectó:ROOT; detectó->patrones:obj; documentos->en:case; documentos->los:det; detectó->documentos:obl
+20,procesó,algoritmo,oraciones,algoritmo->El:det; procesó->algoritmo:nsubj; procesó->procesó:ROOT; procesó->oraciones:obj; estructuras->con:case; oraciones->estructuras:nmod; estructuras->simples:amod
+21,identificó,herramienta,dependencias,herramienta->La:det; identificó->herramienta:nsubj; identificó->identificó:ROOT; identificó->dependencias:obj; oración->en:case; oración->la:det; identificó->oración:obl
+22,explicó,docente,tema,docente->El:det; explicó->docente:nsubj; explicó->explicó:ROOT; tema->el:det; explicó->tema:obj; ejemplos->con:case; explicó->ejemplos:obl; ejemplos->claros:amod
+23,revisó,equipo,análisis,equipo->El:det; revisó->equipo:nsubj; revisó->revisó:ROOT; análisis->el:det; revisó->análisis:obj; clase->durante:case; clase->la:det; revisó->clase:obl
+24,aceptó,gramática,oración,gramática->La:det; aceptó->gramática:nsubj; aceptó->aceptó:ROOT; oración->la:det; aceptó->oración:obj; sintagma->con:case; oración->sintagma:nmod; sintagma->preposicional:amod
+25,guardó,programa,resultados,programa->El:det; guardó->programa:nsubj; guardó->guardó:ROOT; resultados->los:det; guardó->resultados:obj; archivo->en:case; archivo->el:det; guardó->archivo:obl
+26,comparó,clase,modelos,clase->La:det; comparó->clase:nsubj; comparó->comparó:ROOT; comparó->modelos:obj; criterios->con:case; modelos->criterios:nmod; criterios->técnicos:amod
+27,Vi,,estudiante,Vi->Vi:ROOT; estudiante->al:case; Vi->estudiante:obj; telescopio->con:case; telescopio->el:det; Vi->telescopio:obl
+28,calificó,profesor,proyecto,profesor->El:det; calificó->profesor:nsubj; calificó->calificó:ROOT; proyecto->el:det; calificó->proyecto:obj; proyecto->difícil:amod
+29,anunció,gobierno,inversión,gobierno->El:det; anunció->gobierno:nsubj; anunció->anunció:ROOT; anunció->inversión:obj; hospitales->en:case; anunció->hospitales:obl
+30,observó,alumna,investigador,alumna->La:det; observó->alumna:nsubj; observó->observó:ROOT; investigador->al:case; observó->investigador:obj; cámara->con:case; cámara->la:det; observó->cámara:obl
+31,revisó,docente,reporte,docente->El:det; revisó->docente:nsubj; revisó->revisó:ROOT; reporte->el:det; revisó->reporte:obj; errores->con:case; revisó->errores:obl
+32,analizó,sistema,documentos,sistema->El:det; analizó->sistema:nsubj; analizó->analizó:ROOT; analizó->documentos:obj; alumnos->de:case; documentos->alumnos:nmod; alumnos->avanzados:amod
+33,explicó,profesora,práctica|complejos,profesora->La:det; explicó->profesora:nsubj; explicó->explicó:ROOT; práctica->la:det; explicó->práctica:obj; ejemplos->con:case; explicó->ejemplos:obl; explicó->complejos:obj
+34,presentó,estudiante,análisis,estudiante->El:det; presentó->estudiante:nsubj; presentó->presentó:ROOT; análisis->el:det; presentó->análisis:obj; modelo->del:case; análisis->modelo:nmod; modelo->nuevo:amod
+35,procesó,parser,oración,parser->El:det; procesó->parser:nsubj; procesó->procesó:ROOT; oración->la:det; procesó->oración:obj; herramienta->con:case; herramienta->la:det; procesó->herramienta:obl
+36,evaluó,equipo,resultado,equipo->El:det; evaluó->equipo:nsubj; evaluó->evaluó:ROOT; resultado->el:det; evaluó->resultado:obj; programa->del:case; resultado->programa:nmod; programa->automático:amod
+37,publicó,universidad,resultados,universidad->La:det; publicó->universidad:nsubj; publicó->publicó:ROOT; publicó->resultados:obj; estudiantes->de:case; resultados->estudiantes:nmod; estudiantes->sobresalientes:amod
+38,detectó,algoritmo,relaciones,algoritmo->El:det; detectó->algoritmo:nsubj; detectó->detectó:ROOT; detectó->relaciones:obj; textos->entre:case; relaciones->textos:nmod; textos->similares:amod
+39,entregaron,alumnos|que,análisis,alumnos->Los:det; entregaron->alumnos:nsubj; llegaron->que:nsubj; alumnos->llegaron:acl; llegaron->tarde:advmod; entregaron->entregaron:ROOT; análisis->el:det; entregaron->análisis:obj; análisis->después:advmod; clase->de:case; después->clase:obl
+40,detectó,sistema|archivo,inconsistencias|columnas,sistema->El:det; detectó->sistema:nsubj; detectó->detectó:ROOT; detectó->inconsistencias:obj; tenía->cuando:mark; archivo->el:det; tenía->archivo:nsubj; detectó->tenía:advcl; tenía->columnas:obj; columnas->incompletas:amod
+41,falló,interpretación|contexto,,interpretación->La:det; falló->interpretación:nsubj; interpretación->automática:amod; falló->falló:ROOT; insuficiente->porque:mark; contexto->el:det; insuficiente->contexto:nsubj; insuficiente->era:cop; falló->insuficiente:advcl
+42,produjo,modelo|que,resultados,modelo->El:det; produjo->modelo:nsubj; entrenado->que:nsubj; entrenado->fue:aux; modelo->entrenado:acl; datos->con:case; datos->pocos:det; entrenado->datos:obl; produjo->produjo:ROOT; produjo->resultados:obj; resultados->inestables:amod
+43,oración,,que|contenía|estructura,oración->La:det; oración->oración:ROOT; parecía->que:obj; oración->parecía:acl; contenía->simple:amod; parecía->contenía:obj; estructura->una:det; parecía->estructura:obj; estructura->subordinada:amod
+44,rechazado,reporte,técnica,reporte->El:det; rechazado->reporte:nsubj; rechazado->fue:aux; rechazado->rechazado:ROOT; incluía->porque:mark; incluía->no:advmod; rechazado->incluía:advcl; incluía->evidencia:ccomp; evidencia->técnica:obj; rechazado->suficiente:advmod
+45,identificó,herramienta|oración,raíz|verbos,herramienta->La:det; identificó->herramienta:nsubj; identificó->identificó:ROOT; raíz->una:det; identificó->raíz:obj; raíz->incorrecta:amod; tenía->cuando:mark; oración->la:det; tenía->oración:nsubj; identificó->tenía:advcl; verbos->varios:det; tenía->verbos:obj
+46,tenían,documentos|que,formatos,documentos->Los:det; tenían->documentos:nsubj; procesados->que:nsubj; procesados->fueron:aux; documentos->procesados:acl; práctica->durante:case; práctica->la:det; procesados->práctica:obl; tenían->tenían:ROOT; tenían->formatos:obj; formatos->distintos:amod
+47,falló,análisis|oración,,análisis->El:det; falló->análisis:nsubj; falló->falló:ROOT; correcta->aunque:mark; oración->la:det; correcta->oración:nsubj; correcta->era:cop; falló->correcta:ccomp; español->en:case; correcta->español:nmod
+48,reconoció,parser,estructura|regla,parser->El:det; reconoció->parser:nsubj; reconoció->no:advmod; reconoció->reconoció:ROOT; estructura->la:det; reconoció->estructura:obj; faltaba->porque:mark; reconoció->faltaba:advcl; regla->una:det; faltaba->regla:obj; producción->de:case; regla->producción:nmod
+49,parecía,salida|interpretación,válida,salida->La:det; parecía->salida:nsubj; salida->automática:amod; parecía->parecía:ROOT; parecía->válida:obj; diferente->aunque:mark; interpretación->la:det; diferente->interpretación:nsubj; interpretación->humana:amod; diferente->era:cop; parecía->diferente:advcl
+50,generó,sistema|contexto,relación,sistema->El:det; generó->sistema:nsubj; generó->generó:ROOT; relación->una:det; generó->relación:obj; relación->sintáctica:amod; relación->incorrecta:amod; era->porque:mark; contexto->el:det; era->contexto:nsubj; era->no:advmod; generó->era:advcl; generó->explícito:advcl

@@ -1,0 +1,51 @@
+﻿id,texto_original,texto_limpio,tokens,tipo
+1,El estudiante analiza el texto,el estudiante analiza el texto,el | estudiante | analiza | el | texto,simple
+2,La profesora revisa la evidencia,la profesora revisa la evidencia,la | profesora | revisa | la | evidencia,simple
+3,El parser genera un árbol,el parser genera un arbol,el | parser | genera | un | arbol,simple
+4,El modelo procesa la oración,el modelo procesa la oracion,el | modelo | procesa | la | oracion,simple
+5,La alumna identifica la raíz,la alumna identifica la raiz,la | alumna | identifica | la | raiz,simple
+6,El sistema clasifica el documento,el sistema clasifica el documento,el | sistema | clasifica | el | documento,simple
+7,La herramienta detecta el sujeto,la herramienta detecta el sujeto,la | herramienta | detecta | el | sujeto,simple
+8,El algoritmo compara resultados,el algoritmo compara resultados,el | algoritmo | compara | resultados,simple
+9,La gramática reconoce la estructura,la gramatica reconoce la estructura,la | gramatica | reconoce | la | estructura,simple
+10,El programa exporta la tabla,el programa exporta la tabla,el | programa | exporta | la | tabla,simple
+11,La clase revisa el ejemplo,la clase revisa el ejemplo,la | clase | revisa | el | ejemplo,simple
+12,El docente explica el concepto,el docente explica el concepto,el | docente | explica | el | concepto,simple
+13,El equipo entrega el reporte,el equipo entrega el reporte,el | equipo | entrega | el | reporte,simple
+14,El estudiante analiza el texto con el programa,el estudiante analiza el texto con el programa,el | estudiante | analiza | el | texto | con | el | programa,sintagma_preposicional
+15,La profesora revisa la evidencia en la plataforma,la profesora revisa la evidencia en la plataforma,la | profesora | revisa | la | evidencia | en | la | plataforma,sintagma_preposicional
+16,El modelo clasificó noticias de tecnología con errores razonables,el modelo clasifico noticias de tecnologia con errores razonables,el | modelo | clasifico | noticias | de | tecnologia | con | errores | razonables,sintagma_preposicional
+17,El parser generó un árbol con varias ramas,el parser genero un arbol con varias ramas,el | parser | genero | un | arbol | con | varias | ramas,sintagma_preposicional
+18,La alumna comparó resultados en la tabla,la alumna comparo resultados en la tabla,la | alumna | comparo | resultados | en | la | tabla,sintagma_preposicional
+19,El sistema detectó patrones en los documentos,el sistema detecto patrones en los documentos,el | sistema | detecto | patrones | en | los | documentos,sintagma_preposicional
+20,El algoritmo procesó oraciones con estructuras simples,el algoritmo proceso oraciones con estructuras simples,el | algoritmo | proceso | oraciones | con | estructuras | simples,sintagma_preposicional
+21,La herramienta identificó dependencias en la oración,la herramienta identifico dependencias en la oracion,la | herramienta | identifico | dependencias | en | la | oracion,sintagma_preposicional
+22,El docente explicó el tema con ejemplos claros,el docente explico el tema con ejemplos claros,el | docente | explico | el | tema | con | ejemplos | claros,sintagma_preposicional
+23,El equipo revisó el análisis durante la clase,el equipo reviso el analisis durante la clase,el | equipo | reviso | el | analisis | durante | la | clase,sintagma_preposicional
+24,La gramática aceptó la oración con sintagma preposicional,la gramatica acepto la oracion con sintagma preposicional,la | gramatica | acepto | la | oracion | con | sintagma | preposicional,sintagma_preposicional
+25,El programa guardó los resultados en el archivo,el programa guardo los resultados en el archivo,el | programa | guardo | los | resultados | en | el | archivo,sintagma_preposicional
+26,La clase comparó modelos con criterios técnicos,la clase comparo modelos con criterios tecnicos,la | clase | comparo | modelos | con | criterios | tecnicos,sintagma_preposicional
+27,Vi al estudiante con el telescopio,vi al estudiante con el telescopio,vi | al | estudiante | con | el | telescopio,ambigua
+28,El profesor calificó el proyecto difícil,el profesor califico el proyecto dificil,el | profesor | califico | el | proyecto | dificil,ambigua
+29,El gobierno anunció inversión en hospitales,el gobierno anuncio inversion en hospitales,el | gobierno | anuncio | inversion | en | hospitales,ambigua
+30,La alumna observó al investigador con la cámara,la alumna observo al investigador con la camara,la | alumna | observo | al | investigador | con | la | camara,ambigua
+31,El docente revisó el reporte con errores,el docente reviso el reporte con errores,el | docente | reviso | el | reporte | con | errores,ambigua
+32,El sistema analizó documentos de alumnos avanzados,el sistema analizo documentos de alumnos avanzados,el | sistema | analizo | documentos | de | alumnos | avanzados,ambigua
+33,La profesora explicó la práctica con ejemplos complejos,la profesora explico la practica con ejemplos complejos,la | profesora | explico | la | practica | con | ejemplos | complejos,ambigua
+34,El estudiante presentó el análisis del modelo nuevo,el estudiante presento el analisis del modelo nuevo,el | estudiante | presento | el | analisis | del | modelo | nuevo,ambigua
+35,El parser procesó la oración con la herramienta,el parser proceso la oracion con la herramienta,el | parser | proceso | la | oracion | con | la | herramienta,ambigua
+36,El equipo evaluó el resultado del programa automático,el equipo evaluo el resultado del programa automatico,el | equipo | evaluo | el | resultado | del | programa | automatico,ambigua
+37,La universidad publicó resultados de estudiantes sobresalientes,la universidad publico resultados de estudiantes sobresalientes,la | universidad | publico | resultados | de | estudiantes | sobresalientes,ambigua
+38,El algoritmo detectó relaciones entre textos similares,el algoritmo detecto relaciones entre textos similares,el | algoritmo | detecto | relaciones | entre | textos | similares,ambigua
+39,Los alumnos que llegaron tarde entregaron el análisis después de clase,los alumnos que llegaron tarde entregaron el analisis despues de clase,los | alumnos | que | llegaron | tarde | entregaron | el | analisis | despues | de | clase,dificil_para_reglas
+40,El sistema detectó inconsistencias cuando el archivo tenía columnas incompletas,el sistema detecto inconsistencias cuando el archivo tenia columnas incompletas,el | sistema | detecto | inconsistencias | cuando | el | archivo | tenia | columnas | incompletas,dificil_para_reglas
+41,La interpretación automática falló porque el contexto era insuficiente,la interpretacion automatica fallo porque el contexto era insuficiente,la | interpretacion | automatica | fallo | porque | el | contexto | era | insuficiente,dificil_para_reglas
+42,El modelo que fue entrenado con pocos datos produjo resultados inestables,el modelo que fue entrenado con pocos datos produjo resultados inestables,el | modelo | que | fue | entrenado | con | pocos | datos | produjo | resultados | inestables,dificil_para_reglas
+43,La oración que parecía simple contenía una estructura subordinada,la oracion que parecia simple contenia una estructura subordinada,la | oracion | que | parecia | simple | contenia | una | estructura | subordinada,dificil_para_reglas
+44,El reporte fue rechazado porque no incluía evidencia técnica suficiente,el reporte fue rechazado porque no incluia evidencia tecnica suficiente,el | reporte | fue | rechazado | porque | no | incluia | evidencia | tecnica | suficiente,dificil_para_reglas
+45,La herramienta identificó una raíz incorrecta cuando la oración tenía varios verbos,la herramienta identifico una raiz incorrecta cuando la oracion tenia varios verbos,la | herramienta | identifico | una | raiz | incorrecta | cuando | la | oracion | tenia | varios | verbos,dificil_para_reglas
+46,Los documentos que fueron procesados durante la práctica tenían formatos distintos,los documentos que fueron procesados durante la practica tenian formatos distintos,los | documentos | que | fueron | procesados | durante | la | practica | tenian | formatos | distintos,dificil_para_reglas
+47,El análisis falló aunque la oración era correcta en español,el analisis fallo aunque la oracion era correcta en espanol,el | analisis | fallo | aunque | la | oracion | era | correcta | en | espanol,dificil_para_reglas
+48,El parser no reconoció la estructura porque faltaba una regla de producción,el parser no reconocio la estructura porque faltaba una regla de produccion,el | parser | no | reconocio | la | estructura | porque | faltaba | una | regla | de | produccion,dificil_para_reglas
+49,La salida automática parecía válida aunque la interpretación humana era diferente,la salida automatica parecia valida aunque la interpretacion humana era diferente,la | salida | automatica | parecia | valida | aunque | la | interpretacion | humana | era | diferente,dificil_para_reglas
+50,El sistema generó una relación sintáctica incorrecta porque el contexto no era explícito,el sistema genero una relacion sintactica incorrecta porque el contexto no era explicito,el | sistema | genero | una | relacion | sintactica | incorrecta | porque | el | contexto | no | era | explicito,dificil_para_reglas
