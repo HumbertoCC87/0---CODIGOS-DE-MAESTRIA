@@ -1,0 +1,39 @@
+﻿id,texto,preposiciones_detectadas,num_preposiciones,tipo_esperado,posible_problema
+5,El cura habló con los vecinos,con,1,lexica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+8,El capital de la empresa aumentó,de,1,lexica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+9,El ratón dejó de funcionar en la laptop,de | en,2,lexica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+10,El ratón salió de la bodega,de,1,lexica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+12,El gato durmió sobre la silla,sobre,1,lexica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+18,El río cambió su curso después de la tormenta,de,1,lexica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+19,La red presentó fallas de conexión,de,1,lexica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+21,La copa quedó sobre la mesa,sobre,1,lexica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+25,Vi al estudiante con el telescopio,con,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+26,La alumna observó al investigador con la cámara,con,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+28,El docente revisó el reporte con errores,con,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+29,El sistema analizó documentos de alumnos avanzados,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+30,La profesora explicó la práctica con ejemplos complejos,con,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+31,El parser procesó la oración con la herramienta,con,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+33,La universidad publicó resultados de estudiantes sobresalientes,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+34,El algoritmo detectó relaciones entre textos similares,entre,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+35,El gobierno anunció inversión en hospitales,en,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+36,El estudiante guardó el archivo en la carpeta equivocada,en,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+37,La aplicación mostró mensajes de usuarios molestos,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+38,El médico atendió al paciente con fiebre,con,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+39,El analista comparó reportes de modelos recientes,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+40,El juez escuchó al testigo con atención,con,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+41,La alumna entregó el análisis en la plataforma institucional,en,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+42,El sistema clasificó noticias de tecnología con errores razonables,de | con,2,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+43,El profesor observó a la estudiante con lentes,con,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+44,La coordinación revisó solicitudes de alumnos pendientes,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+45,El investigador analizó muestras de pacientes jóvenes,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+46,El programa exportó tablas de resultados incompletos,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+47,La comisión evaluó proyectos de docentes externos,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+48,El director presentó informes de áreas críticas,de,1,sintactica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+50,La profesora habló con la alumna porque ella tenía dudas,con,1,semantica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+52,La empresa contrató a los técnicos antes de capacitarse,de,1,semantica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+56,El modelo corrigió el error con el dato nuevo,con,1,semantica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+57,La aplicación falló después de actualizarla,de,1,semantica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+61,El hospital atendió a la paciente antes de trasladarla,de,1,semantica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+62,La policía detuvo al sospechoso después de perseguirlo,de,1,semantica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+66,La empresa revisó los contratos después de firmarlos,de,1,semantica,Adjunción de sintagma preposicional o complemento con más de una lectura.
+70,La herramienta recomendó cambios antes de ejecutarlos,de,1,semantica,Adjunción de sintagma preposicional o complemento con más de una lectura.

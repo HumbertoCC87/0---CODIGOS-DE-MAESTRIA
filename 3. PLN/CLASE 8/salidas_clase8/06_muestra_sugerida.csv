@@ -1,0 +1,73 @@
+﻿id,texto,tipo_ambiguedad,fenomeno,puntaje_revision,uso_sugerido
+8,El capital de la empresa aumentó,lexica,capital,5,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+9,El ratón dejó de funcionar en la laptop,lexica,raton,5,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+10,El ratón salió de la bodega,lexica,raton,5,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+12,El gato durmió sobre la silla,lexica,gato,5,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+18,El río cambió su curso después de la tormenta,lexica,curso,5,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+19,La red presentó fallas de conexión,lexica,red,5,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+21,La copa quedó sobre la mesa,lexica,copa,5,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+3,La planta requiere agua cada mañana,lexica,planta,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+4,La planta industrial cerró temprano,lexica,planta,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+5,El cura habló con los vecinos,lexica,cura,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+6,La cura redujo el dolor del paciente,lexica,cura,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+7,La capital recibió inversión extranjera,lexica,capital,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+13,La sierra cortó la madera,lexica,sierra,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+14,La sierra recibió nieve durante la noche,lexica,sierra,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+15,La vela iluminó la habitación,lexica,vela,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+16,El barco ajustó la vela principal,lexica,vela,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+20,La red atrapó varios peces,lexica,red,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+22,La copa reunió a varios equipos,lexica,copa,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+23,La columna sostiene el techo,lexica,columna,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+24,La columna del periódico criticó la reforma,lexica,columna,4,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+1,El banco aprobó el crédito,lexica,banco,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+2,El banco del parque estaba mojado,lexica,banco,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+11,El gato levantó el automóvil,lexica,gato,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+17,El curso inicia el sábado,lexica,curso,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+50,La profesora habló con la alumna porque ella tenía dudas,semantica,anáfora,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+52,La empresa contrató a los técnicos antes de capacitarse,semantica,referencia implícita,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+57,La aplicación falló después de actualizarla,semantica,referencia pronominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+61,El hospital atendió a la paciente antes de trasladarla,semantica,referencia pronominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+62,La policía detuvo al sospechoso después de perseguirlo,semantica,referencia pronominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+66,La empresa revisó los contratos después de firmarlos,semantica,referencia pronominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+70,La herramienta recomendó cambios antes de ejecutarlos,semantica,referencia pronominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+49,Todos los alumnos no entregaron la evidencia,semantica,alcance de negación,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+51,El estudiante no resolvió todos los ejercicios,semantica,alcance de cuantificador,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+53,El sistema rechazó el archivo porque estaba incompleto,semantica,anáfora,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+54,La universidad informó a los docentes que ellos debían registrarse,semantica,anáfora plural,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+55,Pocos estudiantes no aprobaron el examen,semantica,alcance de negación,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+56,El modelo corrigió el error con el dato nuevo,semantica,rol semántico,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+58,La coordinación avisó a los alumnos cuando terminó la reunión,semantica,referencia temporal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+59,El docente pidió al estudiante revisar su reporte,semantica,posesión/reflexividad,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+60,La directora felicitó a la profesora porque ganó el concurso,semantica,anáfora causal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+63,El comité sancionó al equipo porque incumplió el reglamento,semantica,referencia causal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+64,La plataforma notificó al usuario cuando bloqueó la cuenta,semantica,agente implícito,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+65,El profesor recomendó al alumno consultar su calificación,semantica,posesión pronominal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+67,El sistema no detectó muchas inconsistencias,semantica,alcance de negación/cantidad,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+68,La alumna explicó a la docente que estaba confundida,semantica,anáfora/adjetivo,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+69,El reporte contradijo la evidencia aunque parecía correcto,semantica,referencia de evaluación,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+71,El equipo aprobó el plan sin revisar todos los riesgos,semantica,alcance de cuantificador,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+72,La noticia afirmó que el funcionario negó la acusación falsa,semantica,alcance de modificación,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+26,La alumna observó al investigador con la cámara,sintactica,adjunción preposicional,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+30,La profesora explicó la práctica con ejemplos complejos,sintactica,adjunción preposicional,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+31,El parser procesó la oración con la herramienta,sintactica,adjunción preposicional,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+33,La universidad publicó resultados de estudiantes sobresalientes,sintactica,modificación nominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+36,El estudiante guardó el archivo en la carpeta equivocada,sintactica,adjunción preposicional,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+37,La aplicación mostró mensajes de usuarios molestos,sintactica,modificación nominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+41,La alumna entregó el análisis en la plataforma institucional,sintactica,adjunción preposicional,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+43,El profesor observó a la estudiante con lentes,sintactica,adjunción preposicional,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+44,La coordinación revisó solicitudes de alumnos pendientes,sintactica,modificación nominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+47,La comisión evaluó proyectos de docentes externos,sintactica,modificación nominal,3,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+25,Vi al estudiante con el telescopio,sintactica,adjunción preposicional,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+28,El docente revisó el reporte con errores,sintactica,adjunción preposicional,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+29,El sistema analizó documentos de alumnos avanzados,sintactica,modificación nominal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+34,El algoritmo detectó relaciones entre textos similares,sintactica,modificación nominal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+35,El gobierno anunció inversión en hospitales,sintactica,adjunción preposicional,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+38,El médico atendió al paciente con fiebre,sintactica,adjunción preposicional,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+39,El analista comparó reportes de modelos recientes,sintactica,modificación nominal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+40,El juez escuchó al testigo con atención,sintactica,adjunción preposicional,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+42,El sistema clasificó noticias de tecnología con errores razonables,sintactica,adjunción preposicional,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+45,El investigador analizó muestras de pacientes jóvenes,sintactica,modificación nominal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+46,El programa exportó tablas de resultados incompletos,sintactica,modificación nominal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+48,El director presentó informes de áreas críticas,sintactica,modificación nominal,2,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+27,El profesor calificó el proyecto difícil,sintactica,modificación adjetival,1,Seleccionar para muestra si representa claramente el tipo de ambigüedad.
+32,El equipo evaluó el resultado del programa automático,sintactica,modificación nominal,1,Seleccionar para muestra si representa claramente el tipo de ambigüedad.

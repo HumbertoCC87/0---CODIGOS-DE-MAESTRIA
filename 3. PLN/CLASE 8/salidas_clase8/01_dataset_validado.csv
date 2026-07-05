@@ -1,0 +1,73 @@
+﻿id,texto_original,texto_limpio,tokens,tipo_ambiguedad,fenomeno,dominio
+1,El banco aprobó el crédito,el banco aprobo el credito,el | banco | aprobo | el | credito,lexica,banco,economía
+2,El banco del parque estaba mojado,el banco del parque estaba mojado,el | banco | del | parque | estaba | mojado,lexica,banco,vida cotidiana
+3,La planta requiere agua cada mañana,la planta requiere agua cada manana,la | planta | requiere | agua | cada | manana,lexica,planta,biología
+4,La planta industrial cerró temprano,la planta industrial cerro temprano,la | planta | industrial | cerro | temprano,lexica,planta,economía
+5,El cura habló con los vecinos,el cura hablo con los vecinos,el | cura | hablo | con | los | vecinos,lexica,cura,social
+6,La cura redujo el dolor del paciente,la cura redujo el dolor del paciente,la | cura | redujo | el | dolor | del | paciente,lexica,cura,salud
+7,La capital recibió inversión extranjera,la capital recibio inversion extranjera,la | capital | recibio | inversion | extranjera,lexica,capital,economía
+8,El capital de la empresa aumentó,el capital de la empresa aumento,el | capital | de | la | empresa | aumento,lexica,capital,economía
+9,El ratón dejó de funcionar en la laptop,el raton dejo de funcionar en la laptop,el | raton | dejo | de | funcionar | en | la | laptop,lexica,raton,tecnología
+10,El ratón salió de la bodega,el raton salio de la bodega,el | raton | salio | de | la | bodega,lexica,raton,vida cotidiana
+11,El gato levantó el automóvil,el gato levanto el automovil,el | gato | levanto | el | automovil,lexica,gato,mecánica
+12,El gato durmió sobre la silla,el gato durmio sobre la silla,el | gato | durmio | sobre | la | silla,lexica,gato,vida cotidiana
+13,La sierra cortó la madera,la sierra corto la madera,la | sierra | corto | la | madera,lexica,sierra,herramientas
+14,La sierra recibió nieve durante la noche,la sierra recibio nieve durante la noche,la | sierra | recibio | nieve | durante | la | noche,lexica,sierra,geografía
+15,La vela iluminó la habitación,la vela ilumino la habitacion,la | vela | ilumino | la | habitacion,lexica,vela,vida cotidiana
+16,El barco ajustó la vela principal,el barco ajusto la vela principal,el | barco | ajusto | la | vela | principal,lexica,vela,náutica
+17,El curso inicia el sábado,el curso inicia el sabado,el | curso | inicia | el | sabado,lexica,curso,educación
+18,El río cambió su curso después de la tormenta,el rio cambio su curso despues de la tormenta,el | rio | cambio | su | curso | despues | de | la | tormenta,lexica,curso,geografía
+19,La red presentó fallas de conexión,la red presento fallas de conexion,la | red | presento | fallas | de | conexion,lexica,red,tecnología
+20,La red atrapó varios peces,la red atrapo varios peces,la | red | atrapo | varios | peces,lexica,red,pesca
+21,La copa quedó sobre la mesa,la copa quedo sobre la mesa,la | copa | quedo | sobre | la | mesa,lexica,copa,vida cotidiana
+22,La copa reunió a varios equipos,la copa reunio a varios equipos,la | copa | reunio | a | varios | equipos,lexica,copa,deportes
+23,La columna sostiene el techo,la columna sostiene el techo,la | columna | sostiene | el | techo,lexica,columna,arquitectura
+24,La columna del periódico criticó la reforma,la columna del periodico critico la reforma,la | columna | del | periodico | critico | la | reforma,lexica,columna,comunicación
+25,Vi al estudiante con el telescopio,vi al estudiante con el telescopio,vi | al | estudiante | con | el | telescopio,sintactica,adjunción preposicional,educación
+26,La alumna observó al investigador con la cámara,la alumna observo al investigador con la camara,la | alumna | observo | al | investigador | con | la | camara,sintactica,adjunción preposicional,investigación
+27,El profesor calificó el proyecto difícil,el profesor califico el proyecto dificil,el | profesor | califico | el | proyecto | dificil,sintactica,modificación adjetival,educación
+28,El docente revisó el reporte con errores,el docente reviso el reporte con errores,el | docente | reviso | el | reporte | con | errores,sintactica,adjunción preposicional,educación
+29,El sistema analizó documentos de alumnos avanzados,el sistema analizo documentos de alumnos avanzados,el | sistema | analizo | documentos | de | alumnos | avanzados,sintactica,modificación nominal,educación
+30,La profesora explicó la práctica con ejemplos complejos,la profesora explico la practica con ejemplos complejos,la | profesora | explico | la | practica | con | ejemplos | complejos,sintactica,adjunción preposicional,educación
+31,El parser procesó la oración con la herramienta,el parser proceso la oracion con la herramienta,el | parser | proceso | la | oracion | con | la | herramienta,sintactica,adjunción preposicional,PLN
+32,El equipo evaluó el resultado del programa automático,el equipo evaluo el resultado del programa automatico,el | equipo | evaluo | el | resultado | del | programa | automatico,sintactica,modificación nominal,tecnología
+33,La universidad publicó resultados de estudiantes sobresalientes,la universidad publico resultados de estudiantes sobresalientes,la | universidad | publico | resultados | de | estudiantes | sobresalientes,sintactica,modificación nominal,educación
+34,El algoritmo detectó relaciones entre textos similares,el algoritmo detecto relaciones entre textos similares,el | algoritmo | detecto | relaciones | entre | textos | similares,sintactica,modificación nominal,PLN
+35,El gobierno anunció inversión en hospitales,el gobierno anuncio inversion en hospitales,el | gobierno | anuncio | inversion | en | hospitales,sintactica,adjunción preposicional,política
+36,El estudiante guardó el archivo en la carpeta equivocada,el estudiante guardo el archivo en la carpeta equivocada,el | estudiante | guardo | el | archivo | en | la | carpeta | equivocada,sintactica,adjunción preposicional,tecnología
+37,La aplicación mostró mensajes de usuarios molestos,la aplicacion mostro mensajes de usuarios molestos,la | aplicacion | mostro | mensajes | de | usuarios | molestos,sintactica,modificación nominal,tecnología
+38,El médico atendió al paciente con fiebre,el medico atendio al paciente con fiebre,el | medico | atendio | al | paciente | con | fiebre,sintactica,adjunción preposicional,salud
+39,El analista comparó reportes de modelos recientes,el analista comparo reportes de modelos recientes,el | analista | comparo | reportes | de | modelos | recientes,sintactica,modificación nominal,datos
+40,El juez escuchó al testigo con atención,el juez escucho al testigo con atencion,el | juez | escucho | al | testigo | con | atencion,sintactica,adjunción preposicional,legal
+41,La alumna entregó el análisis en la plataforma institucional,la alumna entrego el analisis en la plataforma institucional,la | alumna | entrego | el | analisis | en | la | plataforma | institucional,sintactica,adjunción preposicional,educación
+42,El sistema clasificó noticias de tecnología con errores razonables,el sistema clasifico noticias de tecnologia con errores razonables,el | sistema | clasifico | noticias | de | tecnologia | con | errores | razonables,sintactica,adjunción preposicional,PLN
+43,El profesor observó a la estudiante con lentes,el profesor observo a la estudiante con lentes,el | profesor | observo | a | la | estudiante | con | lentes,sintactica,adjunción preposicional,educación
+44,La coordinación revisó solicitudes de alumnos pendientes,la coordinacion reviso solicitudes de alumnos pendientes,la | coordinacion | reviso | solicitudes | de | alumnos | pendientes,sintactica,modificación nominal,administración
+45,El investigador analizó muestras de pacientes jóvenes,el investigador analizo muestras de pacientes jovenes,el | investigador | analizo | muestras | de | pacientes | jovenes,sintactica,modificación nominal,salud
+46,El programa exportó tablas de resultados incompletos,el programa exporto tablas de resultados incompletos,el | programa | exporto | tablas | de | resultados | incompletos,sintactica,modificación nominal,tecnología
+47,La comisión evaluó proyectos de docentes externos,la comision evaluo proyectos de docentes externos,la | comision | evaluo | proyectos | de | docentes | externos,sintactica,modificación nominal,institucional
+48,El director presentó informes de áreas críticas,el director presento informes de areas criticas,el | director | presento | informes | de | areas | criticas,sintactica,modificación nominal,administración
+49,Todos los alumnos no entregaron la evidencia,todos los alumnos no entregaron la evidencia,todos | los | alumnos | no | entregaron | la | evidencia,semantica,alcance de negación,educación
+50,La profesora habló con la alumna porque ella tenía dudas,la profesora hablo con la alumna porque ella tenia dudas,la | profesora | hablo | con | la | alumna | porque | ella | tenia | dudas,semantica,anáfora,educación
+51,El estudiante no resolvió todos los ejercicios,el estudiante no resolvio todos los ejercicios,el | estudiante | no | resolvio | todos | los | ejercicios,semantica,alcance de cuantificador,educación
+52,La empresa contrató a los técnicos antes de capacitarse,la empresa contrato a los tecnicos antes de capacitarse,la | empresa | contrato | a | los | tecnicos | antes | de | capacitarse,semantica,referencia implícita,economía
+53,El sistema rechazó el archivo porque estaba incompleto,el sistema rechazo el archivo porque estaba incompleto,el | sistema | rechazo | el | archivo | porque | estaba | incompleto,semantica,anáfora,tecnología
+54,La universidad informó a los docentes que ellos debían registrarse,la universidad informo a los docentes que ellos debian registrarse,la | universidad | informo | a | los | docentes | que | ellos | debian | registrarse,semantica,anáfora plural,educación
+55,Pocos estudiantes no aprobaron el examen,pocos estudiantes no aprobaron el examen,pocos | estudiantes | no | aprobaron | el | examen,semantica,alcance de negación,educación
+56,El modelo corrigió el error con el dato nuevo,el modelo corrigio el error con el dato nuevo,el | modelo | corrigio | el | error | con | el | dato | nuevo,semantica,rol semántico,datos
+57,La aplicación falló después de actualizarla,la aplicacion fallo despues de actualizarla,la | aplicacion | fallo | despues | de | actualizarla,semantica,referencia pronominal,tecnología
+58,La coordinación avisó a los alumnos cuando terminó la reunión,la coordinacion aviso a los alumnos cuando termino la reunion,la | coordinacion | aviso | a | los | alumnos | cuando | termino | la | reunion,semantica,referencia temporal,administración
+59,El docente pidió al estudiante revisar su reporte,el docente pidio al estudiante revisar su reporte,el | docente | pidio | al | estudiante | revisar | su | reporte,semantica,posesión/reflexividad,educación
+60,La directora felicitó a la profesora porque ganó el concurso,la directora felicito a la profesora porque gano el concurso,la | directora | felicito | a | la | profesora | porque | gano | el | concurso,semantica,anáfora causal,educación
+61,El hospital atendió a la paciente antes de trasladarla,el hospital atendio a la paciente antes de trasladarla,el | hospital | atendio | a | la | paciente | antes | de | trasladarla,semantica,referencia pronominal,salud
+62,La policía detuvo al sospechoso después de perseguirlo,la policia detuvo al sospechoso despues de perseguirlo,la | policia | detuvo | al | sospechoso | despues | de | perseguirlo,semantica,referencia pronominal,seguridad
+63,El comité sancionó al equipo porque incumplió el reglamento,el comite sanciono al equipo porque incumplio el reglamento,el | comite | sanciono | al | equipo | porque | incumplio | el | reglamento,semantica,referencia causal,institucional
+64,La plataforma notificó al usuario cuando bloqueó la cuenta,la plataforma notifico al usuario cuando bloqueo la cuenta,la | plataforma | notifico | al | usuario | cuando | bloqueo | la | cuenta,semantica,agente implícito,tecnología
+65,El profesor recomendó al alumno consultar su calificación,el profesor recomendo al alumno consultar su calificacion,el | profesor | recomendo | al | alumno | consultar | su | calificacion,semantica,posesión pronominal,educación
+66,La empresa revisó los contratos después de firmarlos,la empresa reviso los contratos despues de firmarlos,la | empresa | reviso | los | contratos | despues | de | firmarlos,semantica,referencia pronominal,economía
+67,El sistema no detectó muchas inconsistencias,el sistema no detecto muchas inconsistencias,el | sistema | no | detecto | muchas | inconsistencias,semantica,alcance de negación/cantidad,datos
+68,La alumna explicó a la docente que estaba confundida,la alumna explico a la docente que estaba confundida,la | alumna | explico | a | la | docente | que | estaba | confundida,semantica,anáfora/adjetivo,educación
+69,El reporte contradijo la evidencia aunque parecía correcto,el reporte contradijo la evidencia aunque parecia correcto,el | reporte | contradijo | la | evidencia | aunque | parecia | correcto,semantica,referencia de evaluación,investigación
+70,La herramienta recomendó cambios antes de ejecutarlos,la herramienta recomendo cambios antes de ejecutarlos,la | herramienta | recomendo | cambios | antes | de | ejecutarlos,semantica,referencia pronominal,tecnología
+71,El equipo aprobó el plan sin revisar todos los riesgos,el equipo aprobo el plan sin revisar todos los riesgos,el | equipo | aprobo | el | plan | sin | revisar | todos | los | riesgos,semantica,alcance de cuantificador,administración
+72,La noticia afirmó que el funcionario negó la acusación falsa,la noticia afirmo que el funcionario nego la acusacion falsa,la | noticia | afirmo | que | el | funcionario | nego | la | acusacion | falsa,semantica,alcance de modificación,política

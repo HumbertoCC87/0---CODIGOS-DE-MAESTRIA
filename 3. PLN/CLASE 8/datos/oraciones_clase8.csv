@@ -1,0 +1,73 @@
+﻿id,texto,tipo_ambiguedad,fenomeno,dominio,objetivo_didactico
+1,El banco aprobó el crédito,lexica,banco,economía,Distinguir institución financiera de asiento.
+2,El banco del parque estaba mojado,lexica,banco,vida cotidiana,Distinguir asiento de institución financiera.
+3,La planta requiere agua cada mañana,lexica,planta,biología,Distinguir organismo vegetal de instalación.
+4,La planta industrial cerró temprano,lexica,planta,economía,Distinguir instalación industrial de organismo vegetal.
+5,El cura habló con los vecinos,lexica,cura,social,Distinguir sacerdote de tratamiento.
+6,La cura redujo el dolor del paciente,lexica,cura,salud,Distinguir tratamiento de sacerdote.
+7,La capital recibió inversión extranjera,lexica,capital,economía,Distinguir ciudad de recursos financieros.
+8,El capital de la empresa aumentó,lexica,capital,economía,Distinguir recursos financieros de ciudad.
+9,El ratón dejó de funcionar en la laptop,lexica,raton,tecnología,Distinguir dispositivo de animal.
+10,El ratón salió de la bodega,lexica,raton,vida cotidiana,Distinguir animal de dispositivo.
+11,El gato levantó el automóvil,lexica,gato,mecánica,Distinguir herramienta de animal.
+12,El gato durmió sobre la silla,lexica,gato,vida cotidiana,Distinguir animal de herramienta.
+13,La sierra cortó la madera,lexica,sierra,herramientas,Distinguir herramienta de montaña.
+14,La sierra recibió nieve durante la noche,lexica,sierra,geografía,Distinguir región montañosa de herramienta.
+15,La vela iluminó la habitación,lexica,vela,vida cotidiana,Distinguir objeto de cera de vela náutica.
+16,El barco ajustó la vela principal,lexica,vela,náutica,Distinguir pieza náutica de objeto de cera.
+17,El curso inicia el sábado,lexica,curso,educación,Distinguir asignatura de trayectoria.
+18,El río cambió su curso después de la tormenta,lexica,curso,geografía,Distinguir trayectoria de asignatura.
+19,La red presentó fallas de conexión,lexica,red,tecnología,Distinguir infraestructura informática de red física.
+20,La red atrapó varios peces,lexica,red,pesca,Distinguir objeto físico de red digital.
+21,La copa quedó sobre la mesa,lexica,copa,vida cotidiana,Distinguir recipiente de torneo.
+22,La copa reunió a varios equipos,lexica,copa,deportes,Distinguir torneo de recipiente.
+23,La columna sostiene el techo,lexica,columna,arquitectura,Distinguir soporte físico de sección textual.
+24,La columna del periódico criticó la reforma,lexica,columna,comunicación,Distinguir texto periodístico de soporte físico.
+25,Vi al estudiante con el telescopio,sintactica,adjunción preposicional,educación,Decidir si el telescopio modifica la acción o al estudiante.
+26,La alumna observó al investigador con la cámara,sintactica,adjunción preposicional,investigación,Decidir quién tiene o usa la cámara.
+27,El profesor calificó el proyecto difícil,sintactica,modificación adjetival,educación,Decidir si difícil modifica proyecto o acción.
+28,El docente revisó el reporte con errores,sintactica,adjunción preposicional,educación,Decidir si los errores son del reporte o de la revisión.
+29,El sistema analizó documentos de alumnos avanzados,sintactica,modificación nominal,educación,Decidir si avanzados modifica alumnos o documentos.
+30,La profesora explicó la práctica con ejemplos complejos,sintactica,adjunción preposicional,educación,Decidir si los ejemplos son medio o parte de la práctica.
+31,El parser procesó la oración con la herramienta,sintactica,adjunción preposicional,PLN,Decidir si herramienta procesó o acompaña la oración.
+32,El equipo evaluó el resultado del programa automático,sintactica,modificación nominal,tecnología,Decidir si automático modifica programa o resultado.
+33,La universidad publicó resultados de estudiantes sobresalientes,sintactica,modificación nominal,educación,Decidir si sobresalientes modifica estudiantes o resultados.
+34,El algoritmo detectó relaciones entre textos similares,sintactica,modificación nominal,PLN,Decidir si similares modifica textos o relaciones.
+35,El gobierno anunció inversión en hospitales,sintactica,adjunción preposicional,política,Decidir si inversión ocurre en hospitales o está destinada a hospitales.
+36,El estudiante guardó el archivo en la carpeta equivocada,sintactica,adjunción preposicional,tecnología,Decidir si la ubicación modifica la acción o el archivo.
+37,La aplicación mostró mensajes de usuarios molestos,sintactica,modificación nominal,tecnología,Decidir si molestos modifica mensajes o usuarios.
+38,El médico atendió al paciente con fiebre,sintactica,adjunción preposicional,salud,Decidir si fiebre pertenece al paciente o al evento.
+39,El analista comparó reportes de modelos recientes,sintactica,modificación nominal,datos,Decidir si recientes modifica modelos o reportes.
+40,El juez escuchó al testigo con atención,sintactica,adjunción preposicional,legal,Decidir si atención describe escuchar o al testigo.
+41,La alumna entregó el análisis en la plataforma institucional,sintactica,adjunción preposicional,educación,Decidir si plataforma modifica entrega o análisis.
+42,El sistema clasificó noticias de tecnología con errores razonables,sintactica,adjunción preposicional,PLN,Decidir si errores son del sistema o de las noticias.
+43,El profesor observó a la estudiante con lentes,sintactica,adjunción preposicional,educación,Decidir quién tiene lentes.
+44,La coordinación revisó solicitudes de alumnos pendientes,sintactica,modificación nominal,administración,Decidir si pendientes modifica solicitudes o alumnos.
+45,El investigador analizó muestras de pacientes jóvenes,sintactica,modificación nominal,salud,Decidir si jóvenes modifica pacientes o muestras.
+46,El programa exportó tablas de resultados incompletos,sintactica,modificación nominal,tecnología,Decidir si incompletos modifica resultados o tablas.
+47,La comisión evaluó proyectos de docentes externos,sintactica,modificación nominal,institucional,Decidir si externos modifica docentes o proyectos.
+48,El director presentó informes de áreas críticas,sintactica,modificación nominal,administración,Decidir si críticas modifica áreas o informes.
+49,Todos los alumnos no entregaron la evidencia,semantica,alcance de negación,educación,Distinguir ninguno entregó vs no todos entregaron.
+50,La profesora habló con la alumna porque ella tenía dudas,semantica,anáfora,educación,Resolver a quién refiere ella.
+51,El estudiante no resolvió todos los ejercicios,semantica,alcance de cuantificador,educación,Distinguir negación total o parcial.
+52,La empresa contrató a los técnicos antes de capacitarse,semantica,referencia implícita,economía,Determinar quién se capacita.
+53,El sistema rechazó el archivo porque estaba incompleto,semantica,anáfora,tecnología,Resolver si incompleto es archivo o sistema.
+54,La universidad informó a los docentes que ellos debían registrarse,semantica,anáfora plural,educación,Resolver a quién refiere ellos.
+55,Pocos estudiantes no aprobaron el examen,semantica,alcance de negación,educación,Interpretar relación entre pocos y no aprobaron.
+56,El modelo corrigió el error con el dato nuevo,semantica,rol semántico,datos,Decidir si el dato nuevo es instrumento o causa.
+57,La aplicación falló después de actualizarla,semantica,referencia pronominal,tecnología,Resolver qué fue actualizado.
+58,La coordinación avisó a los alumnos cuando terminó la reunión,semantica,referencia temporal,administración,Determinar qué evento terminó.
+59,El docente pidió al estudiante revisar su reporte,semantica,posesión/reflexividad,educación,Resolver de quién es el reporte.
+60,La directora felicitó a la profesora porque ganó el concurso,semantica,anáfora causal,educación,Resolver quién ganó el concurso.
+61,El hospital atendió a la paciente antes de trasladarla,semantica,referencia pronominal,salud,Resolver quién fue trasladada.
+62,La policía detuvo al sospechoso después de perseguirlo,semantica,referencia pronominal,seguridad,Resolver quién persiguió a quién.
+63,El comité sancionó al equipo porque incumplió el reglamento,semantica,referencia causal,institucional,Determinar si incumplió el comité o el equipo.
+64,La plataforma notificó al usuario cuando bloqueó la cuenta,semantica,agente implícito,tecnología,Determinar quién bloqueó la cuenta.
+65,El profesor recomendó al alumno consultar su calificación,semantica,posesión pronominal,educación,Resolver de quién es la calificación.
+66,La empresa revisó los contratos después de firmarlos,semantica,referencia pronominal,economía,Resolver qué fue firmado.
+67,El sistema no detectó muchas inconsistencias,semantica,alcance de negación/cantidad,datos,Distinguir pocas detectadas vs muchas no detectadas.
+68,La alumna explicó a la docente que estaba confundida,semantica,anáfora/adjetivo,educación,Resolver quién estaba confundida.
+69,El reporte contradijo la evidencia aunque parecía correcto,semantica,referencia de evaluación,investigación,Determinar qué parecía correcto.
+70,La herramienta recomendó cambios antes de ejecutarlos,semantica,referencia pronominal,tecnología,Resolver qué se ejecuta.
+71,El equipo aprobó el plan sin revisar todos los riesgos,semantica,alcance de cuantificador,administración,Determinar si revisó algunos riesgos o ninguno.
+72,La noticia afirmó que el funcionario negó la acusación falsa,semantica,alcance de modificación,política,Determinar si falsa modifica acusación o negación.

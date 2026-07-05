@@ -1,0 +1,25 @@
+﻿id,texto,palabra_ambigua,contexto_local,tipo_esperado,interpretacion_requerida
+1,El banco aprobó el crédito,banco,el banco aprobo el credito,lexica,Seleccionar sentido con base en contexto y dominio.
+2,El banco del parque estaba mojado,banco,el banco del parque estaba,lexica,Seleccionar sentido con base en contexto y dominio.
+3,La planta requiere agua cada mañana,planta,la planta requiere agua cada,lexica,Seleccionar sentido con base en contexto y dominio.
+4,La planta industrial cerró temprano,planta,la planta industrial cerro temprano,lexica,Seleccionar sentido con base en contexto y dominio.
+5,El cura habló con los vecinos,cura,el cura hablo con los,lexica,Seleccionar sentido con base en contexto y dominio.
+6,La cura redujo el dolor del paciente,cura,la cura redujo el dolor,lexica,Seleccionar sentido con base en contexto y dominio.
+7,La capital recibió inversión extranjera,capital,la capital recibio inversion extranjera,lexica,Seleccionar sentido con base en contexto y dominio.
+8,El capital de la empresa aumentó,capital,el capital de la empresa,lexica,Seleccionar sentido con base en contexto y dominio.
+9,El ratón dejó de funcionar en la laptop,raton,el raton dejo de funcionar,lexica,Seleccionar sentido con base en contexto y dominio.
+10,El ratón salió de la bodega,raton,el raton salio de la,lexica,Seleccionar sentido con base en contexto y dominio.
+11,El gato levantó el automóvil,gato,el gato levanto el automovil,lexica,Seleccionar sentido con base en contexto y dominio.
+12,El gato durmió sobre la silla,gato,el gato durmio sobre la,lexica,Seleccionar sentido con base en contexto y dominio.
+13,La sierra cortó la madera,sierra,la sierra corto la madera,lexica,Seleccionar sentido con base en contexto y dominio.
+14,La sierra recibió nieve durante la noche,sierra,la sierra recibio nieve durante,lexica,Seleccionar sentido con base en contexto y dominio.
+15,La vela iluminó la habitación,vela,la vela ilumino la habitacion,lexica,Seleccionar sentido con base en contexto y dominio.
+16,El barco ajustó la vela principal,vela,barco ajusto la vela principal,lexica,Seleccionar sentido con base en contexto y dominio.
+17,El curso inicia el sábado,curso,el curso inicia el sabado,lexica,Seleccionar sentido con base en contexto y dominio.
+18,El río cambió su curso después de la tormenta,curso,rio cambio su curso despues de la,lexica,Seleccionar sentido con base en contexto y dominio.
+19,La red presentó fallas de conexión,red,la red presento fallas de,lexica,Seleccionar sentido con base en contexto y dominio.
+20,La red atrapó varios peces,red,la red atrapo varios peces,lexica,Seleccionar sentido con base en contexto y dominio.
+21,La copa quedó sobre la mesa,copa,la copa quedo sobre la,lexica,Seleccionar sentido con base en contexto y dominio.
+22,La copa reunió a varios equipos,copa,la copa reunio a varios,lexica,Seleccionar sentido con base en contexto y dominio.
+23,La columna sostiene el techo,columna,la columna sostiene el techo,lexica,Seleccionar sentido con base en contexto y dominio.
+24,La columna del periódico criticó la reforma,columna,la columna del periodico critico,lexica,Seleccionar sentido con base en contexto y dominio.
