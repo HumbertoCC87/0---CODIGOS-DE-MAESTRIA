@@ -1,0 +1,5 @@
+Ejecutar desde la carpeta codigo_datos_clase8:
+
+python analisis_ambiguedad_clase8.py
+
+El script lee datos/oraciones_clase8.csv y genera salidas en salidas_clase8.
