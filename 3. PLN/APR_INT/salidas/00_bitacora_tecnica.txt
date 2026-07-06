@@ -1,0 +1,92 @@
+﻿================================================================================
+BITÁCORA TÉCNICA - PROYECTO INTEGRADOR PLN
+================================================================================
+
+1. INFORMACIÓN DE EJECUCIÓN
+--------------------------------------------------------------------------------
+   Fecha y hora: 2026-07-05 17:49:30
+   Tiempo de ejecución: 53.48 segundos
+   Python version: 3.11.15 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:12:15) [MSC v.1942 64 bit (AMD64)]
+
+2. INFORMACIÓN DEL CORPUS
+--------------------------------------------------------------------------------
+   Registros originales: 10058
+   Registros después de filtrar: 9489
+   Géneros encontrados: ['Accion', 'Aventura', 'Ciencia Ficcion', 'Comedia', 'Drama', 'Romance', 'Terror']
+
+   Distribución de géneros:
+      Drama: 2595 (27.3%)
+      Accion: 2261 (23.8%)
+      Comedia: 1786 (18.8%)
+      Terror: 1114 (11.7%)
+      Aventura: 953 (10.0%)
+      Ciencia Ficcion: 771 (8.1%)
+      Romance: 9 (0.1%)
+
+3. PREPROCESAMIENTO APLICADO
+--------------------------------------------------------------------------------
+   - Eliminación de acentos
+   - Conversión a minúsculas
+   - Eliminación de URLs y caracteres especiales
+   - Eliminación de stopwords en español
+   - Normalización de espacios
+
+4. REPRESENTACIONES NUMÉRICAS
+--------------------------------------------------------------------------------
+   Técnicas implementadas:
+   - Bag of Words (CountVectorizer)
+   - Matriz TF
+   - Matriz TF-IDF
+   - Similitud de documentos
+   - Configuración: max_features=1000, ngram_range=(1,2)
+
+5. RESULTADOS DE MODELOS
+--------------------------------------------------------------------------------
+   Naive Bayes: 0.6517
+   SVM Lineal: 0.7092
+   Regresión Logística: 0.6955
+
+   🏆 Mejor modelo: SVM Lineal (Accuracy: 0.7092)
+
+6. ANÁLISIS DE ERRORES
+--------------------------------------------------------------------------------
+
+   Modelo: Naive Bayes
+   --------------------------------------------------
+      Terror: 155/223 errores (69.51%)
+      Accion: 69/452 errores (15.27%)
+      Drama: 77/519 errores (14.84%)
+      Aventura: 131/191 errores (68.59%)
+      Comedia: 139/357 errores (38.94%)
+      Ciencia Ficcion: 88/154 errores (57.14%)
+      Romance: 2/2 errores (100.00%)
+
+   Modelo: SVM Lineal
+   --------------------------------------------------
+      Terror: 88/223 errores (39.46%)
+      Accion: 106/452 errores (23.45%)
+      Drama: 131/519 errores (25.24%)
+      Aventura: 63/191 errores (32.98%)
+      Comedia: 102/357 errores (28.57%)
+      Ciencia Ficcion: 60/154 errores (38.96%)
+      Romance: 2/2 errores (100.00%)
+
+   Modelo: Regresión Logística
+   --------------------------------------------------
+      Terror: 114/223 errores (51.12%)
+      Accion: 93/452 errores (20.58%)
+      Drama: 93/519 errores (17.92%)
+      Aventura: 94/191 errores (49.21%)
+      Comedia: 107/357 errores (29.97%)
+      Ciencia Ficcion: 75/154 errores (48.70%)
+      Romance: 2/2 errores (100.00%)
+
+7. OBSERVACIONES
+--------------------------------------------------------------------------------
+   - El corpus presenta desbalanceo en algunas clases
+   - Los modelos muestran mejor rendimiento en clases con más datos
+   - Las confusiones ocurren entre géneros similares
+
+================================================================================
+FIN DE BITÁCORA
+================================================================================
