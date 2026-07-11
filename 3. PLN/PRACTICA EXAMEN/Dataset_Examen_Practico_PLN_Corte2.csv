@@ -1,0 +1,101 @@
+id,texto,tipo_esperado
+1,El estudiante analiza el texto,simple
+2,La profesora revisa la evidencia,simple
+3,El parser genera un árbol,simple
+4,El modelo procesa la oración,simple
+5,La alumna identifica la raíz,simple
+6,El sistema clasifica el documento,simple
+7,La herramienta detecta el sujeto,simple
+8,El algoritmo compara resultados,simple
+9,La gramática reconoce la estructura,simple
+10,El programa exporta la tabla,simple
+11,La clase revisa el ejemplo,simple
+12,El docente explica el concepto,simple
+13,El equipo entrega el reporte,simple
+14,La función limpia el texto,simple
+15,El análisis muestra dependencias,simple
+16,La matriz organiza resultados,simple
+17,El script valida columnas,simple
+18,La oración contiene sujeto,simple
+19,El verbo dirige la estructura,simple
+20,La salida resume relaciones,simple
+21,El alumno interpreta tokens,simple
+22,El modelo predice etiquetas,simple
+23,La regla produce sintagmas,simple
+24,El archivo conserva registros,simple
+25,El núcleo organiza la frase,simple
+26,El estudiante analiza el texto con el programa,sintagma_preposicional
+27,La profesora revisa la evidencia en la plataforma,sintagma_preposicional
+28,El modelo clasificó noticias de tecnología con errores razonables,sintagma_preposicional
+29,El parser generó un árbol con varias ramas,sintagma_preposicional
+30,La alumna comparó resultados en la tabla,sintagma_preposicional
+31,El sistema detectó patrones en los documentos,sintagma_preposicional
+32,El algoritmo procesó oraciones con estructuras simples,sintagma_preposicional
+33,La herramienta identificó dependencias en la oración,sintagma_preposicional
+34,El docente explicó el tema con ejemplos claros,sintagma_preposicional
+35,El equipo revisó el análisis durante la clase,sintagma_preposicional
+36,La gramática aceptó la oración con sintagma preposicional,sintagma_preposicional
+37,El programa guardó los resultados en el archivo,sintagma_preposicional
+38,La clase comparó modelos con criterios técnicos,sintagma_preposicional
+39,El alumno ejecutó el script en el ambiente conda,sintagma_preposicional
+40,La salida mostró relaciones entre palabras,sintagma_preposicional
+41,El reporte incluyó capturas de ejecución en terminal,sintagma_preposicional
+42,La función extrajo sujetos de las oraciones,sintagma_preposicional
+43,El modelo trabajó con datos del corpus,sintagma_preposicional
+44,La tabla mostró errores en algunas filas,sintagma_preposicional
+45,El parser conectó tokens con etiquetas gramaticales,sintagma_preposicional
+46,La revisión encontró diferencias entre enfoques,sintagma_preposicional
+47,El análisis se realizó sobre un dataset amplio,sintagma_preposicional
+48,La evidencia se organizó en un documento PDF,sintagma_preposicional
+49,El código generó archivos en la carpeta de salida,sintagma_preposicional
+50,La interpretación se apoyó en resultados automáticos,sintagma_preposicional
+51,Vi al estudiante con el telescopio,ambigua
+52,El profesor calificó el proyecto difícil,ambigua
+53,El gobierno anunció inversión en hospitales,ambigua
+54,La alumna observó al investigador con la cámara,ambigua
+55,El docente revisó el reporte con errores,ambigua
+56,El sistema analizó documentos de alumnos avanzados,ambigua
+57,La profesora explicó la práctica con ejemplos complejos,ambigua
+58,El estudiante presentó el análisis del modelo nuevo,ambigua
+59,El parser procesó la oración con la herramienta,ambigua
+60,El equipo evaluó el resultado del programa automático,ambigua
+61,La universidad publicó resultados de estudiantes sobresalientes,ambigua
+62,El algoritmo detectó relaciones entre textos similares,ambigua
+63,El alumno revisó el archivo con la profesora,ambigua
+64,La investigadora describió el experimento con precisión,ambigua
+65,El sistema clasificó noticias sobre estudiantes destacados,ambigua
+66,La docente observó al grupo con atención,ambigua
+67,El programa analizó la oración del alumno nuevo,ambigua
+68,El reporte mostró resultados de modelos recientes,ambigua
+69,La coordinación publicó avisos para alumnos inscritos,ambigua
+70,El profesor explicó reglas para estudiantes avanzados,ambigua
+71,La herramienta detectó errores con el módulo nuevo,ambigua
+72,El alumno entregó el documento del proyecto final,ambigua
+73,El modelo revisó textos de noticias locales,ambigua
+74,La plataforma mostró respuestas de estudiantes activos,ambigua
+75,El equipo comparó ejemplos con estructuras ambiguas,ambigua
+76,Los alumnos que llegaron tarde entregaron el análisis después de clase,dificil_para_reglas
+77,El sistema detectó inconsistencias cuando el archivo tenía columnas incompletas,dificil_para_reglas
+78,La interpretación automática falló porque el contexto era insuficiente,dificil_para_reglas
+79,El modelo que fue entrenado con pocos datos produjo resultados inestables,dificil_para_reglas
+80,La oración que parecía simple contenía una estructura subordinada,dificil_para_reglas
+81,El reporte fue rechazado porque no incluía evidencia técnica suficiente,dificil_para_reglas
+82,La herramienta identificó una raíz incorrecta cuando la oración tenía varios verbos,dificil_para_reglas
+83,Los documentos que fueron procesados durante la práctica tenían formatos distintos,dificil_para_reglas
+84,El análisis falló aunque la oración era correcta en español,dificil_para_reglas
+85,El parser no reconoció la estructura porque faltaba una regla de producción,dificil_para_reglas
+86,La salida automática parecía válida aunque la interpretación humana era diferente,dificil_para_reglas
+87,El sistema generó una relación sintáctica incorrecta porque el contexto no era explícito,dificil_para_reglas
+88,El alumno explicó que el parser falló cuando apareció una subordinada relativa,dificil_para_reglas
+89,La oración incluía una construcción que la gramática simple no contemplaba,dificil_para_reglas
+90,El resultado cambió porque el texto contenía una frase preposicional extensa,dificil_para_reglas
+91,El análisis automático asignó una raíz discutible aunque el verbo principal era evidente,dificil_para_reglas
+92,La comparación mostró diferencias cuando la oración tenía más de un complemento,dificil_para_reglas
+93,El script procesó el dataset completo aunque algunas relaciones requerían revisión,dificil_para_reglas
+94,El parser produjo una salida parcial porque varias palabras no estaban en el vocabulario,dificil_para_reglas
+95,El modelo asignó dependencias razonables pero no resolvió la ambigüedad contextual,dificil_para_reglas
+96,La estructura esperada no coincidió con la salida porque había coordinación verbal,dificil_para_reglas
+97,El análisis por reglas rechazó casos que el parser moderno sí pudo procesar,dificil_para_reglas
+98,La explicación fue necesaria porque el resultado automático no justificaba la interpretación,dificil_para_reglas
+99,El corpus contenía oraciones largas que exigían revisar sujeto objeto y complemento,dificil_para_reglas
+100,La revisión humana permitió distinguir interpretaciones que el algoritmo no separó,dificil_para_reglas
