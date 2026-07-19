@@ -1,0 +1,8 @@
+﻿tipo,total,correctos,sin_cobertura,accuracy_tipo
+antonimia,20,12,8,0.6
+hiperonimia,20,12,8,0.6
+meronimia,20,12,8,0.6
+relacion_contextual,20,12,8,0.6
+sin_relacion_clara,20,0,20,0.0
+sinonimia,20,12,8,0.6
+TOTAL,120,60,60,0.5

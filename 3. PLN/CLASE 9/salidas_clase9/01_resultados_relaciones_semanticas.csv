@@ -1,0 +1,121 @@
+﻿id,termino_1,termino_2,dominio,tipo_esperado,tipo_detectado,similitud_jaccard_caracteres,coincide_con_esperado,observacion
+1,alumno,estudiante,academico,sinonimia,sinonimia,0.273,si,Relación detectada por recurso léxico inicial.
+2,docente,profesor,academico,sinonimia,sinonimia,0.2,si,Relación detectada por recurso léxico inicial.
+3,coche,automovil,general,sinonimia,sinonimia,0.091,si,Relación detectada por recurso léxico inicial.
+4,computadora,ordenador,tecnologia,sinonimia,sinonimia,0.364,si,Relación detectada por recurso léxico inicial.
+5,evidencia,prueba,academico,sinonimia,sinonimia,0.182,si,Relación detectada por recurso léxico inicial.
+6,error,fallo,tecnologia,sinonimia,sinonimia,0.167,si,Relación detectada por recurso léxico inicial.
+7,rapido,veloz,general,sinonimia,sinonimia,0.1,si,Relación detectada por recurso léxico inicial.
+8,analizar,examinar,general,sinonimia,sinonimia,0.444,si,Relación detectada por recurso léxico inicial.
+9,resultado,salida,tecnologia,sinonimia,sinonimia,0.4,si,Relación detectada por recurso léxico inicial.
+10,archivo,documento,tecnologia,sinonimia,sinonimia,0.154,si,Relación detectada por recurso léxico inicial.
+11,modelo,sistema,tecnologia,sinonimia,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+12,clase,sesion,academico,sinonimia,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+13,tarea,actividad,academico,sinonimia,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+14,evaluacion,examen,academico,sinonimia,sin_cobertura_lexica,0.273,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+15,categoria,clase,pln,sinonimia,sin_cobertura_lexica,0.3,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+16,oracion,frase,pln,sinonimia,sinonimia,0.222,si,Relación detectada por recurso léxico inicial.
+17,token,unidad,pln,sinonimia,sin_cobertura_lexica,0.111,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+18,diccionario,lexico,pln,sinonimia,sin_cobertura_lexica,0.3,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+19,sentido,significado,pln,sinonimia,sinonimia,0.455,si,Relación detectada por recurso léxico inicial.
+20,consulta,busqueda,tecnologia,sinonimia,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+21,animal,perro,general,hiperonimia,hiperonimia,0.0,si,Relación detectada por recurso léxico inicial.
+22,vehiculo,automovil,general,hiperonimia,hiperonimia,0.455,si,Relación detectada por recurso léxico inicial.
+23,institucion,universidad,academico,hiperonimia,hiperonimia,0.333,si,Relación detectada por recurso léxico inicial.
+24,herramienta,parser,pln,hiperonimia,hiperonimia,0.3,si,Relación detectada por recurso léxico inicial.
+25,modelo,clasificador,pln,hiperonimia,hiperonimia,0.273,si,Relación detectada por recurso léxico inicial.
+26,lenguaje,espanol,pln,hiperonimia,hiperonimia,0.4,si,Relación detectada por recurso léxico inicial.
+27,archivo,csv,tecnologia,hiperonimia,hiperonimia,0.25,si,Relación detectada por recurso léxico inicial.
+28,documento,pdf,tecnologia,hiperonimia,hiperonimia,0.1,si,Relación detectada por recurso léxico inicial.
+29,persona,alumno,academico,hiperonimia,hiperonimia,0.3,si,Relación detectada por recurso léxico inicial.
+30,profesionista,ingeniero,academico,hiperonimia,sin_cobertura_lexica,0.455,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+31,tecnica,tokenizacion,pln,hiperonimia,hiperonimia,0.667,si,La similitud superficial es alta; revisar si existe relación semántica no cubierta por el tipo detectado.
+32,metrica,precision,pln,hiperonimia,hiperonimia,0.364,si,Relación detectada por recurso léxico inicial.
+33,algoritmo,svm,pln,hiperonimia,hiperonimia,0.1,si,Relación detectada por recurso léxico inicial.
+34,categoria,sustantivo,pln,hiperonimia,sin_cobertura_lexica,0.333,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+35,relacion,sinonimia,pln,hiperonimia,sin_cobertura_lexica,0.4,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+36,estructura,arbol,pln,hiperonimia,sin_cobertura_lexica,0.2,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+37,recurso,diccionario,pln,hiperonimia,sin_cobertura_lexica,0.3,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+38,texto,noticia,pln,hiperonimia,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+39,evento,entrega,academico,hiperonimia,sin_cobertura_lexica,0.375,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+40,sistema,plataforma,tecnologia,hiperonimia,sin_cobertura_lexica,0.273,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+41,automovil,motor,general,meronimia,meronimia,0.333,si,Relación detectada por recurso léxico inicial.
+42,computadora,teclado,tecnologia,meronimia,meronimia,0.455,si,Relación detectada por recurso léxico inicial.
+43,oracion,sujeto,pln,meronimia,meronimia,0.091,si,Relación detectada por recurso léxico inicial.
+44,oracion,predicado,pln,meronimia,meronimia,0.556,si,Relación detectada por recurso léxico inicial.
+45,arbol,rama,general,meronimia,sin_cobertura_lexica,0.333,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+46,universidad,aula,academico,meronimia,sin_cobertura_lexica,0.2,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+47,documento,pagina,tecnologia,meronimia,meronimia,0.083,si,Relación detectada por recurso léxico inicial.
+48,archivo,encabezado,tecnologia,meronimia,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+49,texto,parrafo,pln,meronimia,meronimia,0.125,si,Relación detectada por recurso léxico inicial.
+50,parrafo,oracion,pln,meronimia,meronimia,0.375,si,Relación detectada por recurso léxico inicial.
+51,dataset,registro,datos,meronimia,meronimia,0.333,si,Relación detectada por recurso léxico inicial.
+52,tabla,columna,datos,meronimia,meronimia,0.222,si,Relación detectada por recurso léxico inicial.
+53,codigo,funcion,tecnologia,meronimia,meronimia,0.375,si,Relación detectada por recurso léxico inicial.
+54,pipeline,etapa,pln,meronimia,meronimia,0.286,si,Relación detectada por recurso léxico inicial.
+55,modelo,parametro,pln,meronimia,sin_cobertura_lexica,0.333,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+56,lexico,entrada,pln,meronimia,sin_cobertura_lexica,0.091,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+57,red,nodo,tecnologia,meronimia,sin_cobertura_lexica,0.2,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+58,corpus,documento,pln,meronimia,meronimia,0.273,si,Relación detectada por recurso léxico inicial.
+59,examen,pregunta,academico,meronimia,sin_cobertura_lexica,0.3,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+60,programa,modulo,tecnologia,meronimia,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+61,correcto,incorrecto,general,antonimia,antonimia,0.714,si,Relación detectada por recurso léxico inicial.
+62,valido,invalido,pln,antonimia,antonimia,0.857,si,Relación detectada por recurso léxico inicial.
+63,simple,complejo,general,antonimia,antonimia,0.444,si,Relación detectada por recurso léxico inicial.
+64,claro,ambiguo,pln,antonimia,antonimia,0.2,si,Relación detectada por recurso léxico inicial.
+65,aceptado,rechazado,general,antonimia,antonimia,0.5,si,Relación detectada por recurso léxico inicial.
+66,presente,ausente,general,antonimia,antonimia,0.5,si,Relación detectada por recurso léxico inicial.
+67,positivo,negativo,general,antonimia,antonimia,0.4,si,Relación detectada por recurso léxico inicial.
+68,alto,bajo,general,antonimia,antonimia,0.333,si,Relación detectada por recurso léxico inicial.
+69,rapido,lento,general,antonimia,antonimia,0.1,si,Relación detectada por recurso léxico inicial.
+70,completo,incompleto,general,antonimia,antonimia,0.778,si,Relación detectada por recurso léxico inicial.
+71,manual,automatico,pln,antonimia,antonimia,0.333,si,Relación detectada por recurso léxico inicial.
+72,formal,informal,pln,antonimia,sin_cobertura_lexica,0.75,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+73,global,local,general,antonimia,sin_cobertura_lexica,0.5,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+74,abierto,cerrado,general,antonimia,sin_cobertura_lexica,0.444,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+75,verdadero,falso,general,antonimia,antonimia,0.222,si,Relación detectada por recurso léxico inicial.
+76,entrada,salida,tecnologia,antonimia,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+77,mayor,menor,general,antonimia,sin_cobertura_lexica,0.429,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+78,exacto,aproximado,general,antonimia,sin_cobertura_lexica,0.273,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+79,estable,inestable,general,antonimia,sin_cobertura_lexica,0.75,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+80,frecuente,raro,pln,antonimia,sin_cobertura_lexica,0.111,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+81,medico,hospital,salud,relacion_contextual,relacion_contextual,0.167,si,Relación detectada por recurso léxico inicial.
+82,profesor,aula,academico,relacion_contextual,relacion_contextual,0.0,si,Relación detectada por recurso léxico inicial.
+83,modelo,dataset,pln,relacion_contextual,relacion_contextual,0.25,si,Relación detectada por recurso léxico inicial.
+84,parser,oracion,pln,relacion_contextual,relacion_contextual,0.222,si,Relación detectada por recurso léxico inicial.
+85,algoritmo,codigo,tecnologia,relacion_contextual,relacion_contextual,0.3,si,Relación detectada por recurso léxico inicial.
+86,banco,credito,economia,relacion_contextual,relacion_contextual,0.2,si,Relación detectada por recurso léxico inicial.
+87,planta,fabrica,industria,relacion_contextual,relacion_contextual,0.1,si,Relación detectada por recurso léxico inicial.
+88,juez,sentencia,legal,relacion_contextual,relacion_contextual,0.1,si,Relación detectada por recurso léxico inicial.
+89,equipo,partido,deportes,relacion_contextual,relacion_contextual,0.3,si,Relación detectada por recurso léxico inicial.
+90,paciente,diagnostico,salud,relacion_contextual,relacion_contextual,0.455,si,Relación detectada por recurso léxico inicial.
+91,estudiante,tarea,academico,relacion_contextual,relacion_contextual,0.333,si,Relación detectada por recurso léxico inicial.
+92,programa,terminal,tecnologia,relacion_contextual,relacion_contextual,0.273,si,Relación detectada por recurso léxico inicial.
+93,gobierno,presupuesto,politica,relacion_contextual,sin_cobertura_lexica,0.273,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+94,noticia,periodico,comunicacion,relacion_contextual,sin_cobertura_lexica,0.3,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+95,red,usuario,tecnologia,relacion_contextual,sin_cobertura_lexica,0.125,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+96,investigador,experimento,academico,relacion_contextual,sin_cobertura_lexica,0.429,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+97,texto,contexto,pln,relacion_contextual,sin_cobertura_lexica,0.667,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+98,sentido,palabra,pln,relacion_contextual,sin_cobertura_lexica,0.0,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+99,consulta,base,datos,relacion_contextual,sin_cobertura_lexica,0.2,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+100,archivo,ruta,tecnologia,relacion_contextual,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+101,perro,teclado,general,sin_relacion_clara,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+102,hospital,algoritmo,mixto,sin_relacion_clara,sin_cobertura_lexica,0.455,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+103,credito,sustantivo,mixto,sin_relacion_clara,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+104,arbol,examen,mixto,sin_relacion_clara,sin_cobertura_lexica,0.111,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+105,vehiculo,ambiguedad,mixto,sin_relacion_clara,sin_cobertura_lexica,0.231,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+106,profesor,motor,mixto,sin_relacion_clara,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+107,dataset,cocina,mixto,sin_relacion_clara,sin_cobertura_lexica,0.111,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+108,parser,zapato,mixto,sin_relacion_clara,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+109,universidad,raton,mixto,sin_relacion_clara,sin_cobertura_lexica,0.273,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+110,modelo,montana,mixto,sin_relacion_clara,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+111,oracion,gasolina,mixto,sin_relacion_clara,sin_cobertura_lexica,0.444,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+112,paciente,csv,mixto,sin_relacion_clara,sin_cobertura_lexica,0.111,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+113,planta,root,mixto,sin_relacion_clara,sin_cobertura_lexica,0.143,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+114,credito,token,mixto,sin_relacion_clara,sin_cobertura_lexica,0.333,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+115,sentencia,teclado,mixto,sin_relacion_clara,sin_cobertura_lexica,0.4,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+116,pregunta,motor,mixto,sin_relacion_clara,sin_cobertura_lexica,0.2,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+117,aula,hospital,mixto,sin_relacion_clara,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+118,archivo,perro,mixto,sin_relacion_clara,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+119,computadora,juez,mixto,sin_relacion_clara,sin_cobertura_lexica,0.083,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+120,noticia,teclado,mixto,sin_relacion_clara,sin_cobertura_lexica,0.444,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.

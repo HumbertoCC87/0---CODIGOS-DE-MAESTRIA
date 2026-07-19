@@ -1,0 +1,8 @@
+﻿tipo_esperado,antonimia,hiperonimia,meronimia,relacion_contextual,sin_cobertura_lexica,sin_relacion_clara,sinonimia
+antonimia,12,0,0,0,8,0,0
+hiperonimia,0,12,0,0,8,0,0
+meronimia,0,0,12,0,8,0,0
+relacion_contextual,0,0,0,12,8,0,0
+sin_cobertura_lexica,0,0,0,0,0,0,0
+sin_relacion_clara,0,0,0,0,20,0,0
+sinonimia,0,0,0,0,8,0,12

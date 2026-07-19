@@ -1,0 +1,19 @@
+﻿id,termino_1,termino_2,dominio,tipo_esperado,tipo_detectado,similitud_jaccard_caracteres,coincide_con_esperado,observacion
+72,formal,informal,pln,antonimia,sin_cobertura_lexica,0.75,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+73,global,local,general,antonimia,sin_cobertura_lexica,0.5,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+74,abierto,cerrado,general,antonimia,sin_cobertura_lexica,0.444,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+30,profesionista,ingeniero,academico,hiperonimia,sin_cobertura_lexica,0.455,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+34,categoria,sustantivo,pln,hiperonimia,sin_cobertura_lexica,0.333,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+35,relacion,sinonimia,pln,hiperonimia,sin_cobertura_lexica,0.4,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+45,arbol,rama,general,meronimia,sin_cobertura_lexica,0.333,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+46,universidad,aula,academico,meronimia,sin_cobertura_lexica,0.2,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+48,archivo,encabezado,tecnologia,meronimia,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+100,archivo,ruta,tecnologia,relacion_contextual,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+93,gobierno,presupuesto,politica,relacion_contextual,sin_cobertura_lexica,0.273,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+94,noticia,periodico,comunicacion,relacion_contextual,sin_cobertura_lexica,0.3,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+101,perro,teclado,general,sin_relacion_clara,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+102,hospital,algoritmo,mixto,sin_relacion_clara,sin_cobertura_lexica,0.455,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+103,credito,sustantivo,mixto,sin_relacion_clara,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+11,modelo,sistema,tecnologia,sinonimia,sin_cobertura_lexica,0.222,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+12,clase,sesion,academico,sinonimia,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
+13,tarea,actividad,academico,sinonimia,sin_cobertura_lexica,0.25,no,El par no existe en el recurso léxico inicial; requiere revisión y posible ampliación del diccionario.
