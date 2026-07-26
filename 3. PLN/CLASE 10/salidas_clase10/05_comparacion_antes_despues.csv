@@ -1,0 +1,25 @@
+﻿id_consulta,consulta,relevancia_esperada,sin_precision_at_5,sin_recall_at_5,sin_mrr,sin_primer_relevante_en_top5,con_precision_at_5,con_recall_at_5,con_mrr,con_primer_relevante_en_top5,delta_precision,delta_recall,delta_mrr,observacion
+1,apoyo economico para estudiantes destacados,educacion_becas,0.6,0.5,1.0,1,0.6,0.5,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+2,entrega de evidencias en plataforma virtual,educacion_plataforma,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+3,asesoria academica para proyecto integrador,educacion_tutoria,0.0,0.0,0.0,NO_TOP5,0.0,0.0,0.0,NO_TOP5,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+4,recursos digitales para investigacion universitaria,educacion_biblioteca,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+5,atencion urgente para pacientes accidentados,salud_emergencia,0.2,0.3333,0.2,5,0.2,0.3333,0.2,5,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+6,tratamiento medico despues de diagnostico,salud_diagnostico,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+7,campaña de inmunizacion preventiva,salud_vacuna,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+8,historial clinico con resultados de laboratorio,salud_expediente,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+9,prestamo financiero para negocios pequeños,economia_credito,0.0,0.0,0.0,NO_TOP5,0.6,1.0,1.0,1,0.6,1.0,1.0,mejora
+10,bolsa de trabajo para analistas,economia_empleo,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+11,aumento general de precios,economia_inflacion,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+12,compras digitales con crecimiento de ventas,economia_comercio,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+13,modelo de IA para clasificar textos,tecnologia_ia,0.4,0.6667,0.25,4,0.4,0.6667,0.25,4,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+14,seguridad informatica contra accesos no autorizados,tecnologia_ciberseguridad,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+15,despliegue de servicios en infraestructura cloud,tecnologia_nube,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+16,servicio web para conectar sistemas externos,tecnologia_api,0.4,0.6667,0.5,2,0.6,1.0,1.0,1,0.2,0.3333,0.5,mejora
+17,reporte de delito en zona comercial,seguridad_incidente,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+18,evaluacion de vulnerabilidades del edificio,seguridad_riesgo,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+19,camara registra movimiento nocturno,seguridad_vigilancia,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+20,bloqueo de credenciales vencidas,seguridad_acceso,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+21,competencia universitaria entre selecciones,deporte_torneo,0.4,0.6667,0.3333,3,0.6,1.0,1.0,1,0.2,0.3333,0.6667,mejora
+22,jugador lesionado antes de la final,deporte_lesion,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+23,resultado del encuentro en ultimos minutos,deporte_marcador,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores
+24,pruebas fisicas para medir velocidad,deporte_rendimiento,0.6,1.0,1.0,1,0.6,1.0,1.0,1,0.0,0.0,0.0,sin_mejora_o_revisar_distractores

@@ -1,0 +1,49 @@
+﻿escenario,id_consulta,consulta,relevancia_esperada,precision_at_5,recall_at_5,mrr,primer_relevante_en_top5
+sin_ajuste,1,apoyo economico para estudiantes destacados,educacion_becas,0.6,0.5,1.0,1
+sin_ajuste,2,entrega de evidencias en plataforma virtual,educacion_plataforma,0.6,1.0,1.0,1
+sin_ajuste,3,asesoria academica para proyecto integrador,educacion_tutoria,0.0,0.0,0.0,NO_TOP5
+sin_ajuste,4,recursos digitales para investigacion universitaria,educacion_biblioteca,0.6,1.0,1.0,1
+sin_ajuste,5,atencion urgente para pacientes accidentados,salud_emergencia,0.2,0.3333,0.2,5
+sin_ajuste,6,tratamiento medico despues de diagnostico,salud_diagnostico,0.6,1.0,1.0,1
+sin_ajuste,7,campaña de inmunizacion preventiva,salud_vacuna,0.6,1.0,1.0,1
+sin_ajuste,8,historial clinico con resultados de laboratorio,salud_expediente,0.6,1.0,1.0,1
+sin_ajuste,9,prestamo financiero para negocios pequeños,economia_credito,0.0,0.0,0.0,NO_TOP5
+sin_ajuste,10,bolsa de trabajo para analistas,economia_empleo,0.6,1.0,1.0,1
+sin_ajuste,11,aumento general de precios,economia_inflacion,0.6,1.0,1.0,1
+sin_ajuste,12,compras digitales con crecimiento de ventas,economia_comercio,0.6,1.0,1.0,1
+sin_ajuste,13,modelo de IA para clasificar textos,tecnologia_ia,0.4,0.6667,0.25,4
+sin_ajuste,14,seguridad informatica contra accesos no autorizados,tecnologia_ciberseguridad,0.6,1.0,1.0,1
+sin_ajuste,15,despliegue de servicios en infraestructura cloud,tecnologia_nube,0.6,1.0,1.0,1
+sin_ajuste,16,servicio web para conectar sistemas externos,tecnologia_api,0.4,0.6667,0.5,2
+sin_ajuste,17,reporte de delito en zona comercial,seguridad_incidente,0.6,1.0,1.0,1
+sin_ajuste,18,evaluacion de vulnerabilidades del edificio,seguridad_riesgo,0.6,1.0,1.0,1
+sin_ajuste,19,camara registra movimiento nocturno,seguridad_vigilancia,0.6,1.0,1.0,1
+sin_ajuste,20,bloqueo de credenciales vencidas,seguridad_acceso,0.6,1.0,1.0,1
+sin_ajuste,21,competencia universitaria entre selecciones,deporte_torneo,0.4,0.6667,0.3333,3
+sin_ajuste,22,jugador lesionado antes de la final,deporte_lesion,0.6,1.0,1.0,1
+sin_ajuste,23,resultado del encuentro en ultimos minutos,deporte_marcador,0.6,1.0,1.0,1
+sin_ajuste,24,pruebas fisicas para medir velocidad,deporte_rendimiento,0.6,1.0,1.0,1
+con_ajuste,1,apoyo economico para estudiantes destacados,educacion_becas,0.6,0.5,1.0,1
+con_ajuste,2,entrega de evidencias en plataforma virtual,educacion_plataforma,0.6,1.0,1.0,1
+con_ajuste,3,asesoria academica para proyecto integrador,educacion_tutoria,0.0,0.0,0.0,NO_TOP5
+con_ajuste,4,recursos digitales para investigacion universitaria,educacion_biblioteca,0.6,1.0,1.0,1
+con_ajuste,5,atencion urgente para pacientes accidentados,salud_emergencia,0.2,0.3333,0.2,5
+con_ajuste,6,tratamiento medico despues de diagnostico,salud_diagnostico,0.6,1.0,1.0,1
+con_ajuste,7,campaña de inmunizacion preventiva,salud_vacuna,0.6,1.0,1.0,1
+con_ajuste,8,historial clinico con resultados de laboratorio,salud_expediente,0.6,1.0,1.0,1
+con_ajuste,9,prestamo financiero para negocios pequeños,economia_credito,0.6,1.0,1.0,1
+con_ajuste,10,bolsa de trabajo para analistas,economia_empleo,0.6,1.0,1.0,1
+con_ajuste,11,aumento general de precios,economia_inflacion,0.6,1.0,1.0,1
+con_ajuste,12,compras digitales con crecimiento de ventas,economia_comercio,0.6,1.0,1.0,1
+con_ajuste,13,modelo de IA para clasificar textos,tecnologia_ia,0.4,0.6667,0.25,4
+con_ajuste,14,seguridad informatica contra accesos no autorizados,tecnologia_ciberseguridad,0.6,1.0,1.0,1
+con_ajuste,15,despliegue de servicios en infraestructura cloud,tecnologia_nube,0.6,1.0,1.0,1
+con_ajuste,16,servicio web para conectar sistemas externos,tecnologia_api,0.6,1.0,1.0,1
+con_ajuste,17,reporte de delito en zona comercial,seguridad_incidente,0.6,1.0,1.0,1
+con_ajuste,18,evaluacion de vulnerabilidades del edificio,seguridad_riesgo,0.6,1.0,1.0,1
+con_ajuste,19,camara registra movimiento nocturno,seguridad_vigilancia,0.6,1.0,1.0,1
+con_ajuste,20,bloqueo de credenciales vencidas,seguridad_acceso,0.6,1.0,1.0,1
+con_ajuste,21,competencia universitaria entre selecciones,deporte_torneo,0.6,1.0,1.0,1
+con_ajuste,22,jugador lesionado antes de la final,deporte_lesion,0.6,1.0,1.0,1
+con_ajuste,23,resultado del encuentro en ultimos minutos,deporte_marcador,0.6,1.0,1.0,1
+con_ajuste,24,pruebas fisicas para medir velocidad,deporte_rendimiento,0.6,1.0,1.0,1

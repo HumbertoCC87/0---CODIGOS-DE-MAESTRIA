@@ -1,0 +1,3 @@
+﻿escenario,id_consulta,consulta,relevancia_esperada,precision_at_5,recall_at_5,mrr,primer_relevante_en_top5,diagnostico,accion_sugerida
+sin_ajuste,3,asesoria academica para proyecto integrador,educacion_tutoria,0.0,0.0,0.0,NO_TOP5,"Revisar vocabulario de consulta, dominio y equivalencias no registradas.",Agregar equivalencias justificadas y comparar antes/despues.
+sin_ajuste,9,prestamo financiero para negocios pequeños,economia_credito,0.0,0.0,0.0,NO_TOP5,"Revisar vocabulario de consulta, dominio y equivalencias no registradas.",Agregar equivalencias justificadas y comparar antes/despues.

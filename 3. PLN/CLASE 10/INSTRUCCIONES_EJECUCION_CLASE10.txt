@@ -1,0 +1,9 @@
+Procesamiento de Lenguaje Natural · Clase 10
+
+Ejecución sugerida:
+
+conda activate pln311
+python -m pip install -r requirements_clase10.txt
+python analisis_recuperacion_clase10.py
+
+El script genera salidas en la carpeta salidas_clase10.

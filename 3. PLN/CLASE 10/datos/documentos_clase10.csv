@@ -1,0 +1,181 @@
+﻿id,texto,dominio,tema,relevancia_grupo
+1,La universidad publicó una convocatoria de becas académicas para estudiantes de posgrado.,educacion,becas,educacion_becas
+2,Una universidad publicó una convocatoria de becas académicas para estudiantes de posgrado.,educacion,becas,educacion_becas
+3,La universidad publicó una convocatoria de becas académicas para estudiantes de posgrado. El informe quedó registrado para revisión posterior.,educacion,becas,educacion_becas
+4,El comité anunció apoyos económicos para alumnos con alto desempeño.,educacion,becas,educacion_becas
+5,Un comité anunció apoyos económicos para alumnos con alto desempeño.,educacion,becas,educacion_becas
+6,El comité anunció apoyos económicos para alumnos con alto desempeño. El informe quedó registrado para revisión posterior.,educacion,becas,educacion_becas
+7,La plataforma virtual registró la entrega de evidencias del curso.,educacion,plataforma,educacion_plataforma
+8,Una plataforma virtual registró la entrega de evidencias del curso.,educacion,plataforma,educacion_plataforma
+9,La plataforma virtual registró la entrega de evidencias del curso. El informe quedó registrado para revisión posterior.,educacion,plataforma,educacion_plataforma
+10,El programa de tutoría atendió dudas sobre proyectos integradores.,educacion,tutoria,educacion_tutoria
+11,Un programa de tutoría atendió dudas sobre proyectos integradores.,educacion,tutoria,educacion_tutoria
+12,El programa de tutoría atendió dudas sobre proyectos integradores. El informe quedó registrado para revisión posterior.,educacion,tutoria,educacion_tutoria
+13,"La evaluación práctica revisó código, resultados y explicación técnica.",educacion,evaluacion,educacion_evaluacion
+14,"Una evaluación práctica revisó código, resultados y explicación técnica.",educacion,evaluacion,educacion_evaluacion
+15,"La evaluación práctica revisó código, resultados y explicación técnica. El informe quedó registrado para revisión posterior.",educacion,evaluacion,educacion_evaluacion
+16,El departamento escolar abrió el proceso de inscripción semestral.,educacion,inscripcion,educacion_inscripcion
+17,Un departamento escolar abrió el proceso de inscripción semestral.,educacion,inscripcion,educacion_inscripcion
+18,El departamento escolar abrió el proceso de inscripción semestral. El informe quedó registrado para revisión posterior.,educacion,inscripcion,educacion_inscripcion
+19,La biblioteca digital agregó nuevos recursos de investigación académica.,educacion,biblioteca,educacion_biblioteca
+20,Una biblioteca digital agregó nuevos recursos de investigación académica.,educacion,biblioteca,educacion_biblioteca
+21,La biblioteca digital agregó nuevos recursos de investigación académica. El informe quedó registrado para revisión posterior.,educacion,biblioteca,educacion_biblioteca
+22,El docente explicó modelos de lenguaje con ejemplos de código.,educacion,clase,educacion_clase
+23,Un docente explicó modelos de lenguaje con ejemplos de código.,educacion,clase,educacion_clase
+24,El docente explicó modelos de lenguaje con ejemplos de código. El informe quedó registrado para revisión posterior.,educacion,clase,educacion_clase
+25,El curso de inteligencia artificial incluyó actividades de análisis de texto.,educacion,curso,educacion_curso
+26,Un curso de inteligencia artificial incluyó actividades de análisis de texto.,educacion,curso,educacion_curso
+27,El curso de inteligencia artificial incluyó actividades de análisis de texto. El informe quedó registrado para revisión posterior.,educacion,curso,educacion_curso
+28,"El proyecto integrador documentó objetivos, dataset y resultados de aprendizaje.",educacion,proyecto,educacion_proyecto
+29,"Un proyecto integrador documentó objetivos, dataset y resultados de aprendizaje.",educacion,proyecto,educacion_proyecto
+30,"El proyecto integrador documentó objetivos, dataset y resultados de aprendizaje. El informe quedó registrado para revisión posterior.",educacion,proyecto,educacion_proyecto
+31,El hospital actualizó el protocolo de atención para pacientes con síntomas respiratorios.,salud,hospital,salud_hospital
+32,Un hospital actualizó el protocolo de atención para pacientes con síntomas respiratorios.,salud,hospital,salud_hospital
+33,El hospital actualizó el protocolo de atención para pacientes con síntomas respiratorios. El informe quedó registrado para revisión posterior.,salud,hospital,salud_hospital
+34,La campaña de vacunación reforzó la prevención de enfermedades estacionales.,salud,vacuna,salud_vacuna
+35,Una campaña de vacunación reforzó la prevención de enfermedades estacionales.,salud,vacuna,salud_vacuna
+36,La campaña de vacunación reforzó la prevención de enfermedades estacionales. El informe quedó registrado para revisión posterior.,salud,vacuna,salud_vacuna
+37,El diagnóstico temprano permitió iniciar tratamiento antes de complicaciones.,salud,diagnostico,salud_diagnostico
+38,Un diagnóstico temprano permitió iniciar tratamiento antes de complicaciones.,salud,diagnostico,salud_diagnostico
+39,El diagnóstico temprano permitió iniciar tratamiento antes de complicaciones. El informe quedó registrado para revisión posterior.,salud,diagnostico,salud_diagnostico
+40,El medicamento fue administrado conforme a indicación médica.,salud,medicamento,salud_medicamento
+41,Un medicamento fue administrado conforme a indicación médica.,salud,medicamento,salud_medicamento
+42,El medicamento fue administrado conforme a indicación médica. El informe quedó registrado para revisión posterior.,salud,medicamento,salud_medicamento
+43,La consulta médica evaluó signos vitales y antecedentes clínicos.,salud,consulta,salud_consulta
+44,Una consulta médica evaluó signos vitales y antecedentes clínicos.,salud,consulta,salud_consulta
+45,La consulta médica evaluó signos vitales y antecedentes clínicos. El informe quedó registrado para revisión posterior.,salud,consulta,salud_consulta
+46,El programa de prevención promovió hábitos saludables en la comunidad.,salud,prevencion,salud_prevencion
+47,Un programa de prevención promovió hábitos saludables en la comunidad.,salud,prevencion,salud_prevencion
+48,El programa de prevención promovió hábitos saludables en la comunidad. El informe quedó registrado para revisión posterior.,salud,prevencion,salud_prevencion
+49,El área de urgencias recibió pacientes después del accidente vial.,salud,emergencia,salud_emergencia
+50,Un área de urgencias recibió pacientes después del accidente vial.,salud,emergencia,salud_emergencia
+51,El área de urgencias recibió pacientes después del accidente vial. El informe quedó registrado para revisión posterior.,salud,emergencia,salud_emergencia
+52,La clínica rural amplió sus horarios de atención primaria.,salud,clinica,salud_clinica
+53,Una clínica rural amplió sus horarios de atención primaria.,salud,clinica,salud_clinica
+54,La clínica rural amplió sus horarios de atención primaria. El informe quedó registrado para revisión posterior.,salud,clinica,salud_clinica
+55,El plan de nutrición recomendó reducir azúcar y aumentar fibra.,salud,nutricion,salud_nutricion
+56,Un plan de nutrición recomendó reducir azúcar y aumentar fibra.,salud,nutricion,salud_nutricion
+57,El plan de nutrición recomendó reducir azúcar y aumentar fibra. El informe quedó registrado para revisión posterior.,salud,nutricion,salud_nutricion
+58,El expediente clínico integró resultados de laboratorio y observaciones.,salud,expediente,salud_expediente
+59,Un expediente clínico integró resultados de laboratorio y observaciones.,salud,expediente,salud_expediente
+60,El expediente clínico integró resultados de laboratorio y observaciones. El informe quedó registrado para revisión posterior.,salud,expediente,salud_expediente
+61,El reporte económico señaló aumento de inflación durante el trimestre.,economia,inflacion,economia_inflacion
+62,Un reporte económico señaló aumento de inflación durante el trimestre.,economia,inflacion,economia_inflacion
+63,El reporte económico señaló aumento de inflación durante el trimestre. El informe quedó registrado para revisión posterior.,economia,inflacion,economia_inflacion
+64,La empresa abrió vacantes para analistas de datos y desarrolladores.,economia,empleo,economia_empleo
+65,Una empresa abrió vacantes para analistas de datos y desarrolladores.,economia,empleo,economia_empleo
+66,La empresa abrió vacantes para analistas de datos y desarrolladores. El informe quedó registrado para revisión posterior.,economia,empleo,economia_empleo
+67,El banco aprobó un crédito para pequeñas empresas locales.,economia,credito,economia_credito
+68,Un banco aprobó un crédito para pequeñas empresas locales.,economia,credito,economia_credito
+69,El banco aprobó un crédito para pequeñas empresas locales. El informe quedó registrado para revisión posterior.,economia,credito,economia_credito
+70,El mercado financiero reaccionó a los nuevos indicadores de crecimiento.,economia,mercado,economia_mercado
+71,Un mercado financiero reaccionó a los nuevos indicadores de crecimiento.,economia,mercado,economia_mercado
+72,El mercado financiero reaccionó a los nuevos indicadores de crecimiento. El informe quedó registrado para revisión posterior.,economia,mercado,economia_mercado
+73,La inversión pública impulsó obras de infraestructura regional.,economia,inversion,economia_inversion
+74,Una inversión pública impulsó obras de infraestructura regional.,economia,inversion,economia_inversion
+75,La inversión pública impulsó obras de infraestructura regional. El informe quedó registrado para revisión posterior.,economia,inversion,economia_inversion
+76,El salario promedio aumentó en sectores tecnológicos especializados.,economia,salario,economia_salario
+77,Un salario promedio aumentó en sectores tecnológicos especializados.,economia,salario,economia_salario
+78,El salario promedio aumentó en sectores tecnológicos especializados. El informe quedó registrado para revisión posterior.,economia,salario,economia_salario
+79,El comercio electrónico reportó crecimiento en ventas durante la temporada.,economia,comercio,economia_comercio
+80,Un comercio electrónico reportó crecimiento en ventas durante la temporada.,economia,comercio,economia_comercio
+81,El comercio electrónico reportó crecimiento en ventas durante la temporada. El informe quedó registrado para revisión posterior.,economia,comercio,economia_comercio
+82,La reforma ajustó reglas de impuestos para contribuyentes digitales.,economia,impuestos,economia_impuestos
+83,Una reforma ajustó reglas de impuestos para contribuyentes digitales.,economia,impuestos,economia_impuestos
+84,La reforma ajustó reglas de impuestos para contribuyentes digitales. El informe quedó registrado para revisión posterior.,economia,impuestos,economia_impuestos
+85,El presupuesto institucional priorizó proyectos de investigación aplicada.,economia,presupuesto,economia_presupuesto
+86,Un presupuesto institucional priorizó proyectos de investigación aplicada.,economia,presupuesto,economia_presupuesto
+87,El presupuesto institucional priorizó proyectos de investigación aplicada. El informe quedó registrado para revisión posterior.,economia,presupuesto,economia_presupuesto
+88,La productividad mejoró después de automatizar procesos administrativos.,economia,productividad,economia_productividad
+89,Una productividad mejoró después de automatizar procesos administrativos.,economia,productividad,economia_productividad
+90,La productividad mejoró después de automatizar procesos administrativos. El informe quedó registrado para revisión posterior.,economia,productividad,economia_productividad
+91,El sistema de inteligencia artificial clasificó documentos por intención del usuario.,tecnologia,ia,tecnologia_ia
+92,Un sistema de inteligencia artificial clasificó documentos por intención del usuario.,tecnologia,ia,tecnologia_ia
+93,El sistema de inteligencia artificial clasificó documentos por intención del usuario. El informe quedó registrado para revisión posterior.,tecnologia,ia,tecnologia_ia
+94,El equipo de ciberseguridad detectó intentos de acceso no autorizado.,tecnologia,ciberseguridad,tecnologia_ciberseguridad
+95,Un equipo de ciberseguridad detectó intentos de acceso no autorizado.,tecnologia,ciberseguridad,tecnologia_ciberseguridad
+96,El equipo de ciberseguridad detectó intentos de acceso no autorizado. El informe quedó registrado para revisión posterior.,tecnologia,ciberseguridad,tecnologia_ciberseguridad
+97,La migración a la nube redujo tiempos de despliegue del servicio.,tecnologia,nube,tecnologia_nube
+98,Una migración a la nube redujo tiempos de despliegue del servicio.,tecnologia,nube,tecnologia_nube
+99,La migración a la nube redujo tiempos de despliegue del servicio. El informe quedó registrado para revisión posterior.,tecnologia,nube,tecnologia_nube
+100,La red institucional presentó latencia durante la transmisión de datos.,tecnologia,redes,tecnologia_redes
+101,Una red institucional presentó latencia durante la transmisión de datos.,tecnologia,redes,tecnologia_redes
+102,La red institucional presentó latencia durante la transmisión de datos. El informe quedó registrado para revisión posterior.,tecnologia,redes,tecnologia_redes
+103,El software de análisis procesó grandes volúmenes de texto.,tecnologia,software,tecnologia_software
+104,Un software de análisis procesó grandes volúmenes de texto.,tecnologia,software,tecnologia_software
+105,El software de análisis procesó grandes volúmenes de texto. El informe quedó registrado para revisión posterior.,tecnologia,software,tecnologia_software
+106,La base de datos almacenó registros históricos de operaciones.,tecnologia,base_datos,tecnologia_base_datos
+107,Una base de datos almacenó registros históricos de operaciones.,tecnologia,base_datos,tecnologia_base_datos
+108,La base de datos almacenó registros históricos de operaciones. El informe quedó registrado para revisión posterior.,tecnologia,base_datos,tecnologia_base_datos
+109,El modelo predictivo mejoró después de ajustar los parámetros.,tecnologia,modelo,tecnologia_modelo
+110,Un modelo predictivo mejoró después de ajustar los parámetros.,tecnologia,modelo,tecnologia_modelo
+111,El modelo predictivo mejoró después de ajustar los parámetros. El informe quedó registrado para revisión posterior.,tecnologia,modelo,tecnologia_modelo
+112,El servidor reinició servicios críticos después de una actualización.,tecnologia,servidor,tecnologia_servidor
+113,Un servidor reinició servicios críticos después de una actualización.,tecnologia,servidor,tecnologia_servidor
+114,El servidor reinició servicios críticos después de una actualización. El informe quedó registrado para revisión posterior.,tecnologia,servidor,tecnologia_servidor
+115,La automatización redujo errores en reportes repetitivos.,tecnologia,automatizacion,tecnologia_automatizacion
+116,Una automatización redujo errores en reportes repetitivos.,tecnologia,automatizacion,tecnologia_automatizacion
+117,La automatización redujo errores en reportes repetitivos. El informe quedó registrado para revisión posterior.,tecnologia,automatizacion,tecnologia_automatizacion
+118,La API permitió integrar servicios externos con la plataforma interna.,tecnologia,api,tecnologia_api
+119,Una API permitió integrar servicios externos con la plataforma interna.,tecnologia,api,tecnologia_api
+120,La API permitió integrar servicios externos con la plataforma interna. El informe quedó registrado para revisión posterior.,tecnologia,api,tecnologia_api
+121,La policía atendió un incidente reportado en la zona comercial.,seguridad,incidente,seguridad_incidente
+122,Una policía atendió un incidente reportado en la zona comercial.,seguridad,incidente,seguridad_incidente
+123,La policía atendió un incidente reportado en la zona comercial. El informe quedó registrado para revisión posterior.,seguridad,incidente,seguridad_incidente
+124,El análisis de riesgo identificó puntos vulnerables en el edificio.,seguridad,riesgo,seguridad_riesgo
+125,Un análisis de riesgo identificó puntos vulnerables en el edificio.,seguridad,riesgo,seguridad_riesgo
+126,El análisis de riesgo identificó puntos vulnerables en el edificio. El informe quedó registrado para revisión posterior.,seguridad,riesgo,seguridad_riesgo
+127,El sistema de vigilancia registró movimiento inusual durante la noche.,seguridad,vigilancia,seguridad_vigilancia
+128,Un sistema de vigilancia registró movimiento inusual durante la noche.,seguridad,vigilancia,seguridad_vigilancia
+129,El sistema de vigilancia registró movimiento inusual durante la noche. El informe quedó registrado para revisión posterior.,seguridad,vigilancia,seguridad_vigilancia
+130,El protocolo de protección civil coordinó la evacuación del inmueble.,seguridad,proteccion,seguridad_proteccion
+131,Un protocolo de protección civil coordinó la evacuación del inmueble.,seguridad,proteccion,seguridad_proteccion
+132,El protocolo de protección civil coordinó la evacuación del inmueble. El informe quedó registrado para revisión posterior.,seguridad,proteccion,seguridad_proteccion
+133,La investigación detectó posible fraude en operaciones electrónicas.,seguridad,fraude,seguridad_fraude
+134,Una investigación detectó posible fraude en operaciones electrónicas.,seguridad,fraude,seguridad_fraude
+135,La investigación detectó posible fraude en operaciones electrónicas. El informe quedó registrado para revisión posterior.,seguridad,fraude,seguridad_fraude
+136,La alerta preventiva se activó por condiciones climáticas severas.,seguridad,alerta,seguridad_alerta
+137,Una alerta preventiva se activó por condiciones climáticas severas.,seguridad,alerta,seguridad_alerta
+138,La alerta preventiva se activó por condiciones climáticas severas. El informe quedó registrado para revisión posterior.,seguridad,alerta,seguridad_alerta
+139,El control de acceso bloqueó credenciales vencidas.,seguridad,acceso,seguridad_acceso
+140,Un control de acceso bloqueó credenciales vencidas.,seguridad,acceso,seguridad_acceso
+141,El control de acceso bloqueó credenciales vencidas. El informe quedó registrado para revisión posterior.,seguridad,acceso,seguridad_acceso
+142,El patrullaje reforzó la seguridad en zonas escolares.,seguridad,patrullaje,seguridad_patrullaje
+143,Un patrullaje reforzó la seguridad en zonas escolares.,seguridad,patrullaje,seguridad_patrullaje
+144,El patrullaje reforzó la seguridad en zonas escolares. El informe quedó registrado para revisión posterior.,seguridad,patrullaje,seguridad_patrullaje
+145,La denuncia ciudadana permitió ubicar el vehículo sospechoso.,seguridad,denuncia,seguridad_denuncia
+146,Una denuncia ciudadana permitió ubicar el vehículo sospechoso.,seguridad,denuncia,seguridad_denuncia
+147,La denuncia ciudadana permitió ubicar el vehículo sospechoso. El informe quedó registrado para revisión posterior.,seguridad,denuncia,seguridad_denuncia
+148,El centro de monitoreo revisó cámaras y registros de entrada.,seguridad,monitoreo,seguridad_monitoreo
+149,Un centro de monitoreo revisó cámaras y registros de entrada.,seguridad,monitoreo,seguridad_monitoreo
+150,El centro de monitoreo revisó cámaras y registros de entrada. El informe quedó registrado para revisión posterior.,seguridad,monitoreo,seguridad_monitoreo
+151,El equipo ganó el partido después de una estrategia defensiva sólida.,deporte,partido,deporte_partido
+152,Un equipo ganó el partido después de una estrategia defensiva sólida.,deporte,partido,deporte_partido
+153,El equipo ganó el partido después de una estrategia defensiva sólida. El informe quedó registrado para revisión posterior.,deporte,partido,deporte_partido
+154,El entrenamiento físico mejoró resistencia y coordinación del grupo.,deporte,entrenamiento,deporte_entrenamiento
+155,Un entrenamiento físico mejoró resistencia y coordinación del grupo.,deporte,entrenamiento,deporte_entrenamiento
+156,El entrenamiento físico mejoró resistencia y coordinación del grupo. El informe quedó registrado para revisión posterior.,deporte,entrenamiento,deporte_entrenamiento
+157,El torneo universitario reunió selecciones de distintas facultades.,deporte,torneo,deporte_torneo
+158,Un torneo universitario reunió selecciones de distintas facultades.,deporte,torneo,deporte_torneo
+159,El torneo universitario reunió selecciones de distintas facultades. El informe quedó registrado para revisión posterior.,deporte,torneo,deporte_torneo
+160,La lesión muscular dejó al jugador fuera de la final.,deporte,lesion,deporte_lesion
+161,Una lesión muscular dejó al jugador fuera de la final.,deporte,lesion,deporte_lesion
+162,La lesión muscular dejó al jugador fuera de la final. El informe quedó registrado para revisión posterior.,deporte,lesion,deporte_lesion
+163,El marcador cambió en los últimos minutos del encuentro.,deporte,marcador,deporte_marcador
+164,Un marcador cambió en los últimos minutos del encuentro.,deporte,marcador,deporte_marcador
+165,El marcador cambió en los últimos minutos del encuentro. El informe quedó registrado para revisión posterior.,deporte,marcador,deporte_marcador
+166,La atleta obtuvo medalla en la competencia nacional.,deporte,atleta,deporte_atleta
+167,Una atleta obtuvo medalla en la competencia nacional.,deporte,atleta,deporte_atleta
+168,La atleta obtuvo medalla en la competencia nacional. El informe quedó registrado para revisión posterior.,deporte,atleta,deporte_atleta
+169,El árbitro revisó la jugada antes de validar el gol.,deporte,arbitro,deporte_arbitro
+170,Un árbitro revisó la jugada antes de validar el gol.,deporte,arbitro,deporte_arbitro
+171,El árbitro revisó la jugada antes de validar el gol. El informe quedó registrado para revisión posterior.,deporte,arbitro,deporte_arbitro
+172,La cancha fue rehabilitada para actividades deportivas escolares.,deporte,cancha,deporte_cancha
+173,Una cancha fue rehabilitada para actividades deportivas escolares.,deporte,cancha,deporte_cancha
+174,La cancha fue rehabilitada para actividades deportivas escolares. El informe quedó registrado para revisión posterior.,deporte,cancha,deporte_cancha
+175,El equipo ajustó su alineación para enfrentar al rival.,deporte,equipo,deporte_equipo
+176,Un equipo ajustó su alineación para enfrentar al rival.,deporte,equipo,deporte_equipo
+177,El equipo ajustó su alineación para enfrentar al rival. El informe quedó registrado para revisión posterior.,deporte,equipo,deporte_equipo
+178,El rendimiento deportivo fue evaluado con pruebas de velocidad.,deporte,rendimiento,deporte_rendimiento
+179,Un rendimiento deportivo fue evaluado con pruebas de velocidad.,deporte,rendimiento,deporte_rendimiento
+180,El rendimiento deportivo fue evaluado con pruebas de velocidad. El informe quedó registrado para revisión posterior.,deporte,rendimiento,deporte_rendimiento

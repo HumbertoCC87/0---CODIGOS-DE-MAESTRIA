@@ -1,0 +1,25 @@
+﻿id_consulta,consulta,dominio_esperado,relevancia_esperada
+1,apoyo economico para estudiantes destacados,educacion,educacion_becas
+2,entrega de evidencias en plataforma virtual,educacion,educacion_plataforma
+3,asesoria academica para proyecto integrador,educacion,educacion_tutoria
+4,recursos digitales para investigacion universitaria,educacion,educacion_biblioteca
+5,atencion urgente para pacientes accidentados,salud,salud_emergencia
+6,tratamiento medico despues de diagnostico,salud,salud_diagnostico
+7,campaña de inmunizacion preventiva,salud,salud_vacuna
+8,historial clinico con resultados de laboratorio,salud,salud_expediente
+9,prestamo financiero para negocios pequeños,economia,economia_credito
+10,bolsa de trabajo para analistas,economia,economia_empleo
+11,aumento general de precios,economia,economia_inflacion
+12,compras digitales con crecimiento de ventas,economia,economia_comercio
+13,modelo de IA para clasificar textos,tecnologia,tecnologia_ia
+14,seguridad informatica contra accesos no autorizados,tecnologia,tecnologia_ciberseguridad
+15,despliegue de servicios en infraestructura cloud,tecnologia,tecnologia_nube
+16,servicio web para conectar sistemas externos,tecnologia,tecnologia_api
+17,reporte de delito en zona comercial,seguridad,seguridad_incidente
+18,evaluacion de vulnerabilidades del edificio,seguridad,seguridad_riesgo
+19,camara registra movimiento nocturno,seguridad,seguridad_vigilancia
+20,bloqueo de credenciales vencidas,seguridad,seguridad_acceso
+21,competencia universitaria entre selecciones,deporte,deporte_torneo
+22,jugador lesionado antes de la final,deporte,deporte_lesion
+23,resultado del encuentro en ultimos minutos,deporte,deporte_marcador
+24,pruebas fisicas para medir velocidad,deporte,deporte_rendimiento
