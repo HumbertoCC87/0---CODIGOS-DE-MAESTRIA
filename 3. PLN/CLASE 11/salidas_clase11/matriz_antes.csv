@@ -1,0 +1,7 @@
+﻿,pred_cancelacion,pred_consulta_academica,pred_pago,pred_soporte-tecnico,pred_soporte_tecnico,pred_tramite_escolar
+real_cancelacion,2,0,0,0,0,1
+real_consulta_academica,0,1,0,0,1,1
+real_pago,0,1,1,0,0,1
+real_soporte-tecnico,0,0,1,0,0,0
+real_soporte_tecnico,0,0,0,0,2,0
+real_tramite_escolar,1,0,0,0,0,2

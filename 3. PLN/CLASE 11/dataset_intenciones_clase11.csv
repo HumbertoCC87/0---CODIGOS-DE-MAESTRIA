@@ -1,0 +1,51 @@
+﻿id,texto,etiqueta
+1,¿Cuándo se publica el calendario de clases?,consulta_academica
+2,Necesito conocer los requisitos de inscripción,consulta_academica
+3,¿Dónde consulto mis calificaciones?,consulta_academica
+4,Quiero saber la fecha del examen,consulta_academica
+5,¿Cuál es el horario de tutorías?,consulta_academica
+6,Necesito información sobre equivalencias,consulta_academica
+7,¿Cuándo inicia el siguiente cuatrimestre?,consulta_academica
+8,¿Qué materias debo cursar?,consulta_academica
+9,¿Dónde veo el plan de estudios?,consulta_academica
+10,¿Cómo solicito una constancia?,consulta_academica
+11,Quiero solicitar una baja temporal,tramite_escolar
+12,Necesito corregir mi nombre en el sistema,tramite_escolar
+13,¿Cómo tramito una credencial nueva?,tramite_escolar
+14,Deseo actualizar mis datos personales,tramite_escolar
+15,Quiero entregar documentos de reinscripción,tramite_escolar
+16,Necesito una constancia oficial,tramite_escolar
+17,¿Dónde pago el trámite de titulación?,tramite_escolar
+18,Debo registrar un cambio de grupo,tramite_escolar
+19,Quiero iniciar el proceso de equivalencia,tramite_escolar
+20,Necesito sellar un formato escolar,tramite_escolar
+21,No aparece reflejado mi pago,pago
+22,¿Dónde descargo la referencia bancaria?,pago
+23,Necesito factura de la colegiatura,pago
+24,El sistema rechazó mi tarjeta,pago
+25,¿Cuál es la fecha límite de pago?,pago
+26,Quiero verificar un cargo duplicado,pago
+27,No puedo generar la línea de captura,pago
+28,Necesito corregir los datos de facturación,pago
+29,¿Aceptan transferencia bancaria?,pago
+30,Mi recibo aparece pendiente,pago
+31,No puedo ingresar a la plataforma,soporte_tecnico
+32,La página muestra un error al iniciar sesión,soporte_tecnico
+33,Olvidé mi contraseña,soporte-tecnico
+34,El sistema no carga mis materias,soporte_tecnico
+35,La aplicación se cierra al abrirla,soporte_tecnico
+36,No puedo subir mi archivo,soporte-tecnico
+37,La plataforma indica usuario inválido,soporte_tecnico
+38,El portal se queda en blanco,soporte_tecnico
+39,No recibo el correo de recuperación,soporte-tecnico
+40,El botón de enviar no funciona,soporte_tecnico
+41,Quiero cancelar mi solicitud,cancelacion
+42,Deseo dar de baja el servicio,cancelacion
+43,Ya no continuaré con el trámite,cancelacion
+44,Necesito cancelar la inscripción,cancelacion
+45,Quiero anular el registro realizado,cancelacion
+46,Solicito cancelar el pago programado,cancelacion
+47,No deseo conservar la reservación,cancelacion
+48,Quiero retirar mi solicitud,cancelacion
+49,Necesito detener el proceso,cancelacion
+50,Deseo cancelar la cita,cancelacion

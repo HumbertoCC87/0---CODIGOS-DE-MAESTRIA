@@ -1,0 +1,16 @@
+﻿texto,real,prediccion,correcto
+¿Cuándo inicia el siguiente cuatrimestre?,consulta_academica,consulta_academica,True
+No deseo conservar la reservación,cancelacion,cancelacion,True
+La aplicación se cierra al abrirla,soporte_tecnico,soporte_tecnico,True
+Quiero anular el registro realizado,cancelacion,tramite_escolar,False
+¿Cuál es la fecha límite de pago?,pago,consulta_academica,False
+¿Dónde descargo la referencia bancaria?,pago,pago,True
+Necesito corregir los datos de facturación,pago,tramite_escolar,False
+¿Dónde consulto mis calificaciones?,consulta_academica,soporte_tecnico,False
+¿Cómo solicito una constancia?,consulta_academica,tramite_escolar,False
+Deseo actualizar mis datos personales,tramite_escolar,cancelacion,False
+¿Cómo tramito una credencial nueva?,tramite_escolar,tramite_escolar,True
+La plataforma indica usuario inválido,soporte_tecnico,soporte_tecnico,True
+No puedo subir mi archivo,soporte-tecnico,pago,False
+Necesito cancelar la inscripción,cancelacion,cancelacion,True
+Necesito sellar un formato escolar,tramite_escolar,tramite_escolar,True
