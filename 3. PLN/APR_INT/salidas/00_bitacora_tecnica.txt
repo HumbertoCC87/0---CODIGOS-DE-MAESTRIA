@@ -4,9 +4,9 @@ BITÁCORA TÉCNICA - PROYECTO INTEGRADOR PLN
 
 1. INFORMACIÓN DE EJECUCIÓN
 --------------------------------------------------------------------------------
-   Fecha y hora: 2026-07-05 17:49:30
-   Tiempo de ejecución: 53.48 segundos
-   Python version: 3.11.15 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:12:15) [MSC v.1942 64 bit (AMD64)]
+   Fecha y hora: 2026-08-15 09:40:38
+   Tiempo de ejecución: 104.44 segundos
+   Python version: 3.13.12 | packaged by Anaconda, Inc. | (main, Feb 24 2026, 16:05:56) [MSC v.1942 64 bit (AMD64)]
 
 2. INFORMACIÓN DEL CORPUS
 --------------------------------------------------------------------------------
@@ -23,7 +23,35 @@ BITÁCORA TÉCNICA - PROYECTO INTEGRADOR PLN
       Ciencia Ficcion: 771 (8.1%)
       Romance: 9 (0.1%)
 
-3. PREPROCESAMIENTO APLICADO
+3. ANÁLISIS DE SENTIMIENTO
+--------------------------------------------------------------------------------
+   Total de textos analizados: 9489
+   Polaridad promedio: 0.0240
+   Subjetividad promedio: 0.3948
+
+   Distribución de sentimientos:
+      Neutro: 8079 (85.1%)
+      Positivo: 860 (9.1%)
+      Negativo: 550 (5.8%)
+
+   Sentimiento por género:
+      Accion: polaridad=0.0224, n=2261
+      Aventura: polaridad=0.0122, n=953
+      Ciencia Ficcion: polaridad=-0.0143, n=771
+      Comedia: polaridad=0.0535, n=1786
+      Drama: polaridad=0.0246, n=2595
+      Romance: polaridad=0.0019, n=9
+      Terror: polaridad=0.0154, n=1114
+
+4. RESUMEN DE TEXTOS
+--------------------------------------------------------------------------------
+   Total de resúmenes generados: 9489
+   Promedio de oraciones por resumen: 3.4
+
+   Ejemplo de palabras clave:
+      Doc 1: tener, serie, respira, aqui, tambien
+
+5. PREPROCESAMIENTO APLICADO
 --------------------------------------------------------------------------------
    - Eliminación de acentos
    - Conversión a minúsculas
@@ -31,7 +59,7 @@ BITÁCORA TÉCNICA - PROYECTO INTEGRADOR PLN
    - Eliminación de stopwords en español
    - Normalización de espacios
 
-4. REPRESENTACIONES NUMÉRICAS
+6. REPRESENTACIONES NUMÉRICAS
 --------------------------------------------------------------------------------
    Técnicas implementadas:
    - Bag of Words (CountVectorizer)
@@ -40,52 +68,53 @@ BITÁCORA TÉCNICA - PROYECTO INTEGRADOR PLN
    - Similitud de documentos
    - Configuración: max_features=1000, ngram_range=(1,2)
 
-5. RESULTADOS DE MODELOS
+7. RESULTADOS DE MODELOS
 --------------------------------------------------------------------------------
-   Naive Bayes: 0.6517
-   SVM Lineal: 0.7092
-   Regresión Logística: 0.6955
+   Naive Bayes: 0.6523
+   SVM Lineal: 0.7113
+   Regresión Logística: 0.6949
 
-   🏆 Mejor modelo: SVM Lineal (Accuracy: 0.7092)
+   🏆 Mejor modelo: SVM Lineal (Accuracy: 0.7113)
 
-6. ANÁLISIS DE ERRORES
+8. ANÁLISIS DE ERRORES
 --------------------------------------------------------------------------------
 
    Modelo: Naive Bayes
    --------------------------------------------------
-      Terror: 155/223 errores (69.51%)
+      Terror: 154/223 errores (69.06%)
       Accion: 69/452 errores (15.27%)
-      Drama: 77/519 errores (14.84%)
-      Aventura: 131/191 errores (68.59%)
+      Drama: 78/519 errores (15.03%)
+      Aventura: 130/191 errores (68.06%)
       Comedia: 139/357 errores (38.94%)
       Ciencia Ficcion: 88/154 errores (57.14%)
       Romance: 2/2 errores (100.00%)
 
    Modelo: SVM Lineal
    --------------------------------------------------
-      Terror: 88/223 errores (39.46%)
+      Terror: 89/223 errores (39.91%)
       Accion: 106/452 errores (23.45%)
-      Drama: 131/519 errores (25.24%)
+      Drama: 130/519 errores (25.05%)
       Aventura: 63/191 errores (32.98%)
-      Comedia: 102/357 errores (28.57%)
-      Ciencia Ficcion: 60/154 errores (38.96%)
+      Comedia: 100/357 errores (28.01%)
+      Ciencia Ficcion: 58/154 errores (37.66%)
       Romance: 2/2 errores (100.00%)
 
    Modelo: Regresión Logística
    --------------------------------------------------
       Terror: 114/223 errores (51.12%)
       Accion: 93/452 errores (20.58%)
-      Drama: 93/519 errores (17.92%)
-      Aventura: 94/191 errores (49.21%)
-      Comedia: 107/357 errores (29.97%)
+      Drama: 92/519 errores (17.73%)
+      Aventura: 92/191 errores (48.17%)
+      Comedia: 111/357 errores (31.09%)
       Ciencia Ficcion: 75/154 errores (48.70%)
       Romance: 2/2 errores (100.00%)
 
-7. OBSERVACIONES
+9. OBSERVACIONES
 --------------------------------------------------------------------------------
    - El corpus presenta desbalanceo en algunas clases
    - Los modelos muestran mejor rendimiento en clases con más datos
    - Las confusiones ocurren entre géneros similares
+   - El análisis de sentimiento muestra tendencias por género
 
 ================================================================================
 FIN DE BITÁCORA
