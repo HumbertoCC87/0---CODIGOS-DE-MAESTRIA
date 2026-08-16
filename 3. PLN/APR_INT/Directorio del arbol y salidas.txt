@@ -1,0 +1,30 @@
+/workspace/
+├── film_reviews_result.csv                     	<-- Corpus original (10,058 registros)
+├── proyecto_integrador_3.py                    	<-- Script fuente unificado de ejecución
+└── salidas/                                    	<-- Directorio maestro de entregables
+    ├── 00_bitacora_tecnica.txt                 	<-- Bitácora técnica con logs de ejecución 
+    ├── 01_analisis_ambiguedad.csv              	<-- Casos identificados de ambigüedad léxica
+    ├── 02_datos_procesados.csv                 	<-- Corpus completo tras la limpieza del pipeline
+    ├── 03_corpus_clasificacion.csv             	<-- Dataset limpio final listo para entrenamiento
+    ├── 14_ejemplos_consulta.csv                	<-- Ranking y similitud de las consultas semánticas
+    ├── matrices/                               	<-- Subcarpeta de representaciones numéricas
+    │   ├── 04_bag_of_words.csv                 	<-- Matriz de frecuencia absoluta de términos
+    │   ├── 05_matriz_tf.csv                    	<-- Matriz de frecuencia local normalizada 
+    │   ├── 06_matriz_tfidf.csv                 	<-- Matriz TF-IDF (1000 features de entrada)
+    │   ├── 07_top_terminos_tfidf.csv           	<-- Términos con mayor valor discriminativo (IDF)
+    │   └── 08_similitud_documentos.csv         	<-- Matriz de proximidad por similitud coseno
+    ├── matrices_confusion/                     	<-- Subcarpeta de evaluación gráfica 
+    │   ├── matriz_confusion_Naive_Bayes.csv    	<-- Datos planos de la matriz Naive Bayes 
+    │   ├── matriz_confusion_Naive_Bayes.png    	<-- Gráfico de la matriz Naive Bayes
+    │   ├── matriz_confusion_Regresión_Logística.csv	<-- Datos planos de la regresión logistica
+    │   ├── matriz_confusion_Regresión_Logística.png	<-- Gráfico de la matriz regresión logistica
+    │   ├── matriz_confusion_SVM_Lineal.csv     	<-- Datos planos de la matriz del SVM Lineal
+    │   └── matriz_confusion_SVM_Lineal.png     	<-- Gráfico de la matriz del clasificador ganador
+    ├── modelos/                                	<-- Subcarpeta de métricas de modelos 
+    │   └── 09_comparativa_modelos.csv          	<-- Archivo CSV comparando accuracies
+    ├── resumenes/                              	<-- Subcarpeta de resúmenes extractivos
+    │   ├── 12_resumenes_textos.csv             	<-- Resúmenes generados para todo el corpus
+    │   └── 13_resumenes_Romance.csv            	<-- Resúmenes específicos de la clase Romance 
+    └── sentimientos/                           	<-- Subcarpeta de análisis de opinión 
+        ├── 10_analisis_sentimiento.csv         	<-- Polaridad y subjetividad de las críticas
+        └── 11_grafico_sentimiento.png          	<-- Gráfico de pastel de la distribución

@@ -4,9 +4,9 @@ BITÁCORA TÉCNICA - PROYECTO INTEGRADOR PLN
 
 1. INFORMACIÓN DE EJECUCIÓN
 --------------------------------------------------------------------------------
-   Fecha y hora: 2026-08-15 09:40:38
-   Tiempo de ejecución: 104.44 segundos
-   Python version: 3.13.12 | packaged by Anaconda, Inc. | (main, Feb 24 2026, 16:05:56) [MSC v.1942 64 bit (AMD64)]
+   Fecha y hora: 2026-08-15 23:40:01
+   Tiempo de ejecución: 113.12 segundos
+   Python version: 3.11.15 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:12:15) [MSC v.1942 64 bit (AMD64)]
 
 2. INFORMACIÓN DEL CORPUS
 --------------------------------------------------------------------------------
@@ -70,42 +70,42 @@ BITÁCORA TÉCNICA - PROYECTO INTEGRADOR PLN
 
 7. RESULTADOS DE MODELOS
 --------------------------------------------------------------------------------
-   Naive Bayes: 0.6523
-   SVM Lineal: 0.7113
-   Regresión Logística: 0.6949
+   Naive Bayes: 0.6517
+   SVM Lineal: 0.7092
+   Regresión Logística: 0.6955
 
-   🏆 Mejor modelo: SVM Lineal (Accuracy: 0.7113)
+   🏆 Mejor modelo: SVM Lineal (Accuracy: 0.7092)
 
 8. ANÁLISIS DE ERRORES
 --------------------------------------------------------------------------------
 
    Modelo: Naive Bayes
    --------------------------------------------------
-      Terror: 154/223 errores (69.06%)
+      Terror: 155/223 errores (69.51%)
       Accion: 69/452 errores (15.27%)
-      Drama: 78/519 errores (15.03%)
-      Aventura: 130/191 errores (68.06%)
+      Drama: 77/519 errores (14.84%)
+      Aventura: 131/191 errores (68.59%)
       Comedia: 139/357 errores (38.94%)
       Ciencia Ficcion: 88/154 errores (57.14%)
       Romance: 2/2 errores (100.00%)
 
    Modelo: SVM Lineal
    --------------------------------------------------
-      Terror: 89/223 errores (39.91%)
+      Terror: 88/223 errores (39.46%)
       Accion: 106/452 errores (23.45%)
-      Drama: 130/519 errores (25.05%)
+      Drama: 131/519 errores (25.24%)
       Aventura: 63/191 errores (32.98%)
-      Comedia: 100/357 errores (28.01%)
-      Ciencia Ficcion: 58/154 errores (37.66%)
+      Comedia: 102/357 errores (28.57%)
+      Ciencia Ficcion: 60/154 errores (38.96%)
       Romance: 2/2 errores (100.00%)
 
    Modelo: Regresión Logística
    --------------------------------------------------
       Terror: 114/223 errores (51.12%)
       Accion: 93/452 errores (20.58%)
-      Drama: 92/519 errores (17.73%)
-      Aventura: 92/191 errores (48.17%)
-      Comedia: 111/357 errores (31.09%)
+      Drama: 93/519 errores (17.92%)
+      Aventura: 94/191 errores (49.21%)
+      Comedia: 107/357 errores (29.97%)
       Ciencia Ficcion: 75/154 errores (48.70%)
       Romance: 2/2 errores (100.00%)
 
