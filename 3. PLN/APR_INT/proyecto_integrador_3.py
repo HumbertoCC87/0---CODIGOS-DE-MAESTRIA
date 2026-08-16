@@ -167,7 +167,7 @@ def analizar_sentimiento_por_genero(df, columna_texto='review_text', columna_gen
         return df_sentimiento, pd.DataFrame()
 
 # ============================================================================
-# NUEVAS FUNCIONES: RESUMEN DE TEXTOS (CORREGIDAS)
+# NUEVAS FUNCIONES: RESUMEN DE TEXTOS
 # ============================================================================
 
 def sent_tokenize_seguro(texto: str, idioma: str = 'spanish') -> list:
@@ -560,7 +560,7 @@ def graficar_confianza_operativa(output_path):
     return output_path
 
 # ============================================================================
-# FUNCIONES DE ANÁLISIS (MANTENIDAS)
+# FUNCIONES DE ANÁLISIS 
 # ============================================================================
 
 def analizar_ambiguedad_texto(texto: str, palabras_ambiguas: set) -> dict:
