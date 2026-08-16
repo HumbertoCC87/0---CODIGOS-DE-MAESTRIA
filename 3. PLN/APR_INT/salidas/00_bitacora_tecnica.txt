@@ -4,8 +4,8 @@ BITÁCORA TÉCNICA - PROYECTO INTEGRADOR PLN
 
 1. INFORMACIÓN DE EJECUCIÓN
 --------------------------------------------------------------------------------
-   Fecha y hora: 2026-08-15 23:40:01
-   Tiempo de ejecución: 113.12 segundos
+   Fecha y hora: 2026-08-16 14:56:11
+   Tiempo de ejecución: 118.23 segundos
    Python version: 3.11.15 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:12:15) [MSC v.1942 64 bit (AMD64)]
 
 2. INFORMACIÓN DEL CORPUS

@@ -33,6 +33,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 from sklearn.metrics.pairwise import cosine_similarity
 from textblob import TextBlob
+
 import warnings
 warnings.filterwarnings('ignore')
 plt.rcParams['figure.dpi'] = 150
@@ -1048,7 +1049,7 @@ def main():
         plt.ylabel('Real')
         plt.tight_layout()
         plt.savefig(CONFUSION / f'matriz_confusion_{nombre.replace(" ", "_")}.png', 
-                   dpi=300, bbox_inches='tight')
+                dpi=300, bbox_inches='tight')
         plt.close()
         
         # Análisis de errores
