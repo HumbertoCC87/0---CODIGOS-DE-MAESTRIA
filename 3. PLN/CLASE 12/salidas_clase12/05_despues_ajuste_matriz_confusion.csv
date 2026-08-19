@@ -1,0 +1,9 @@
+﻿,aclaracion_calificacion,consulta_concepto,consulta_horario,consulta_proyecto,entrega_actividad,saludo_cierre,soporte_tecnico,tramite_administrativo
+aclaracion_calificacion,3,0,0,0,0,0,0,1
+consulta_concepto,0,4,0,0,0,0,0,0
+consulta_horario,0,0,5,0,0,0,0,0
+consulta_proyecto,0,0,0,5,0,0,0,0
+entrega_actividad,0,0,0,0,5,0,0,0
+saludo_cierre,0,0,0,0,0,2,0,2
+soporte_tecnico,0,0,0,0,0,0,5,0
+tramite_administrativo,0,0,0,0,0,0,0,4

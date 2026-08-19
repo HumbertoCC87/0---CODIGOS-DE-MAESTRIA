@@ -1,0 +1,121 @@
+﻿id,texto,intencion,texto_limpio,entidades_detectadas
+1,Cuando es la sesion de pipeline,consulta_horario,cuando es la sesion de pipeline,concepto:pipeline
+2,A que hora inicia la clase clase 9,consulta_horario,a que hora inicia la clase clase 9,clase:clase 9
+3,Cuando es la sesion de confiabilidad,consulta_horario,cuando es la sesion de confiabilidad,SIN_ENTIDAD
+4,A que hora revisamos pipeline,consulta_horario,a que hora revisamos pipeline,concepto:pipeline
+5,Cuando es la sesion de intencion,consulta_horario,cuando es la sesion de intencion,concepto:intencion
+6,A que hora inicia la clase clase 11,consulta_horario,a que hora inicia la clase clase 11,clase:clase 11
+7,A que hora revisamos confiabilidad,consulta_horario,a que hora revisamos confiabilidad,SIN_ENTIDAD
+8,A que hora inicia la clase clase 12,consulta_horario,a que hora inicia la clase clase 12,clase:clase 12
+9,A que hora inicia la clase clase 11,consulta_horario,a que hora inicia la clase clase 11,clase:clase 11
+10,El sabado a que hora vemos clase 10,consulta_horario,el sabado a que hora vemos clase 10,clase:clase 10
+11,A que hora inicia la clase practica 8,consulta_horario,a que hora inicia la clase practica 8,clase:practica 8
+12,Cuando es la sesion de pipeline,consulta_horario,cuando es la sesion de pipeline,concepto:pipeline
+13,Cual es el horario de practica 8,consulta_horario,cual es el horario de practica 8,clase:practica 8
+14,Cuando es la sesion de intencion,consulta_horario,cuando es la sesion de intencion,concepto:intencion
+15,Cual es el horario de clase 12,consulta_horario,cual es el horario de clase 12,clase:clase 12
+16,Comparto mi evidencia de ambiguedad,entrega_actividad,comparto mi evidencia de ambiguedad,concepto:ambiguedad
+17,Subi el proyecto de normalizacion,entrega_actividad,subi el proyecto de normalizacion,concepto:normalizacion | proyecto:proyecto
+18,Entrego la practica clase 11 en PDF,entrega_actividad,entrego la practica clase 11 en pdf,archivo:pdf | clase:clase 11
+19,Comparto mi evidencia de ambiguedad,entrega_actividad,comparto mi evidencia de ambiguedad,concepto:ambiguedad
+20,Comparto mi evidencia de ambiguedad,entrega_actividad,comparto mi evidencia de ambiguedad,concepto:ambiguedad
+21,Adjunto el reporte PDF de clase 9,entrega_actividad,adjunto el reporte pdf de clase 9,archivo:pdf | archivo:adjunto | clase:clase 9
+22,Entrego la practica clase 11 en PDF,entrega_actividad,entrego la practica clase 11 en pdf,archivo:pdf | clase:clase 11
+23,Comparto mi evidencia de matriz de confusion,entrega_actividad,comparto mi evidencia de matriz de confusion,concepto:matriz de confusion
+24,Entrego la practica clase 12 en ZIP,entrega actividad,entrego la practica clase 12 en zip,archivo:zip | clase:clase 12
+25,Adjunto el reporte PDF de clase 9,entrega_actividad,adjunto el reporte pdf de clase 9,archivo:pdf | archivo:adjunto | clase:clase 9
+26,Ya subi el PDF de clase 9,entrega_actividad,ya subi el pdf de clase 9,archivo:pdf | clase:clase 9
+27,Subi el proyecto de entidades,entrega_actividad,subi el proyecto de entidades,concepto:entidades | proyecto:proyecto
+28,Entrego la practica practica 8 en CSV,entrega_actividad,entrego la practica practica 8 en csv,archivo:csv | clase:practica 8
+29,Entrego la practica clase 11 en notebook,entrega_actividad,entrego la practica clase 11 en notebook,clase:clase 11
+30,Comparto mi evidencia de ambiguedad,entrega_actividad,comparto mi evidencia de ambiguedad,concepto:ambiguedad
+31,El sistema no acepta mi notebook,soporte_tecnico,el sistema no acepta mi notebook,SIN_ENTIDAD
+32,Tengo problema para entrar a Meet,soporte_tecnico,tengo problema para entrar a meet,soporte:problema
+33,El sistema no acepta mi CSV,soporte técnico,el sistema no acepta mi csv,archivo:csv
+34,Me marca error en Teams,soporte_tecnico,me marca error en teams,plataforma:teams | soporte:error
+35,El sistema no acepta mi notebook,soporte_tecnico,el sistema no acepta mi notebook,SIN_ENTIDAD
+36,Me marca error en Meet,soporte_tecnico,me marca error en meet,soporte:error
+37,Tengo problema para entrar a Meet,soporte_tecnico,tengo problema para entrar a meet,soporte:problema
+38,Me marca error en Meet,soporte técnico,me marca error en meet,soporte:error
+39,No puedo subir el PDF a Blackboard,soporte_tecnico,no puedo subir el pdf a blackboard,archivo:pdf
+40,Tengo problema para entrar a Meet,soporte_tecnico,tengo problema para entrar a meet,soporte:problema
+41,Tengo problema para entrar a Blackboard,soporte_tecnico,tengo problema para entrar a blackboard,soporte:problema
+42,Tengo problema para entrar a Moodle,soporte_tecncio,tengo problema para entrar a moodle,plataforma:moodle | soporte:problema
+43,Tengo problema para entrar a Teams,soporte_tecnico,tengo problema para entrar a teams,plataforma:teams | soporte:problema
+44,No puedo subir el DOCX a Classroom,soporte_tecnico,no puedo subir el docx a classroom,archivo:docx | plataforma:classroom
+45,No abre el archivo DOCX,soporte_tecnico,no abre el archivo docx,archivo:docx | archivo:archivo
+46,Tengo duda sobre los puntos descontados,aclaracion_calificacion,tengo duda sobre los puntos descontados,SIN_ENTIDAD
+47,Tengo duda sobre los puntos descontados,aclaracion_calificacion,tengo duda sobre los puntos descontados,SIN_ENTIDAD
+48,Quiero revisar mi calificacion de clase 10,aclaracion_calificacion,quiero revisar mi calificacion de clase 10,clase:clase 10
+49,Tengo duda sobre los puntos descontados,aclaracion_calificacion,tengo duda sobre los puntos descontados,SIN_ENTIDAD
+50,Tengo duda sobre los puntos descontados,aclaracion_calificacion,tengo duda sobre los puntos descontados,SIN_ENTIDAD
+51,Tengo duda sobre los puntos descontados,aclaracion_calificacion,tengo duda sobre los puntos descontados,SIN_ENTIDAD
+52,Puede revisar mi evaluacion del corte,aclaracion_calificacion,puede revisar mi evaluacion del corte,SIN_ENTIDAD
+53,No entiendo mi nota del pipeline,aclaracion_calificacion,no entiendo mi nota del pipeline,concepto:pipeline
+54,Quiero revisar mi calificacion de practica 8,aclaracion_calificacion,quiero revisar mi calificacion de practica 8,clase:practica 8
+55,Solicito aclaracion de calificacion,aclaracion_calificacion,solicito aclaracion de calificacion,SIN_ENTIDAD
+56,No entiendo mi nota del entidades,aclaracion_calificacion,no entiendo mi nota del entidades,concepto:entidades
+57,Puede revisar mi evaluacion del corte,aclaracion_calificacion,puede revisar mi evaluacion del corte,SIN_ENTIDAD
+58,No entiendo mi nota del pipeline,aclaracion_calificacion,no entiendo mi nota del pipeline,concepto:pipeline
+59,Puede revisar mi evaluacion del corte,aclaracion_calificacion,puede revisar mi evaluacion del corte,SIN_ENTIDAD
+60,Puede revisar mi evaluacion del corte,aclaracion_calificacion,puede revisar mi evaluacion del corte,SIN_ENTIDAD
+61,Para que sirve confiabilidad en PLN,consulta_concepto,para que sirve confiabilidad en pln,SIN_ENTIDAD
+62,Que significa pipeline,consulta_concepto,que significa pipeline,concepto:pipeline
+63,Que significa matriz de confusion,consulta_concepto,que significa matriz de confusion,concepto:matriz de confusion
+64,No entiendo el concepto de normalizacion,consulta_concepto,no entiendo el concepto de normalizacion,concepto:normalizacion
+65,No entiendo el concepto de normalizacion,consulta_concepto,no entiendo el concepto de normalizacion,concepto:normalizacion
+66,Para que sirve entidades en PLN,consulta_concepto,para que sirve entidades en pln,concepto:entidades
+67,No entiendo el concepto de matriz de confusion,consulta_concepto,no entiendo el concepto de matriz de confusion,concepto:matriz de confusion
+68,No entiendo el concepto de entidades,consulta_concepto,no entiendo el concepto de entidades,concepto:entidades
+69,Cual es la diferencia entre pipeline y entidades,consulta_concepto,cual es la diferencia entre pipeline y entidades,concepto:entidades | concepto:pipeline
+70,Para que sirve intencion en PLN,consulta_concepto,para que sirve intencion en pln,concepto:intencion
+71,No entiendo el concepto de intencion,consulta_concepto,no entiendo el concepto de intencion,concepto:intencion
+72,Para que sirve normalizacion en PLN,consulta_concepto,para que sirve normalizacion en pln,concepto:normalizacion
+73,No entiendo el concepto de entidades,consulta_concepto,no entiendo el concepto de entidades,concepto:entidades
+74,Que significa confiabilidad,consulta_concepto,que significa confiabilidad,SIN_ENTIDAD
+75,Puede explicar ambiguedad,consulta_concepto,puede explicar ambiguedad,concepto:ambiguedad
+76,Gracias por la aclaracion,saludo_cierre,gracias por la aclaracion,SIN_ENTIDAD
+77,Saludos cordiales,saludo_cierre,saludos cordiales,SIN_ENTIDAD
+78,Saludos cordiales,saludo_cierre,saludos cordiales,SIN_ENTIDAD
+79,Saludos cordiales,saludo_cierre,saludos cordiales,SIN_ENTIDAD
+80,Quedo atento a sus comentarios,saludo_cierre,quedo atento a sus comentarios,SIN_ENTIDAD
+81,Quedo atento a sus comentarios,saludo_cierre,quedo atento a sus comentarios,SIN_ENTIDAD
+82,Entendido muchas gracias,saludo_cierre,entendido muchas gracias,SIN_ENTIDAD
+83,Entendido muchas gracias,saludo_cierre,entendido muchas gracias,SIN_ENTIDAD
+84,Saludos cordiales,saludo_cierre,saludos cordiales,SIN_ENTIDAD
+85,Buenos dias profesor,saludo_cierre,buenos dias profesor,SIN_ENTIDAD
+86,Saludos cordiales,saludo_cierre,saludos cordiales,SIN_ENTIDAD
+87,Buenos dias profesor,saludo_cierre,buenos dias profesor,SIN_ENTIDAD
+88,Saludos cordiales,saludo_cierre,saludos cordiales,SIN_ENTIDAD
+89,Quedo atento a sus comentarios,saludo_cierre,quedo atento a sus comentarios,SIN_ENTIDAD
+90,Quedo atento a sus comentarios,saludo_cierre,quedo atento a sus comentarios,SIN_ENTIDAD
+91,Donde solicito el comprobante,tramite_administrativo,donde solicito el comprobante,SIN_ENTIDAD
+92,Como hago el tramite de reinscripcion,tramite_administrativo,como hago el tramite de reinscripcion,SIN_ENTIDAD
+93,Necesito constancia de estudios,tramite_administrativo,necesito constancia de estudios,SIN_ENTIDAD
+94,Necesito constancia de estudios,tramite admin,necesito constancia de estudios,SIN_ENTIDAD
+95,Como hago el tramite de reinscripcion,tramite_administrativo,como hago el tramite de reinscripcion,SIN_ENTIDAD
+96,Donde solicito el comprobante,tramite_administrativo,donde solicito el comprobante,SIN_ENTIDAD
+97,Como hago el tramite de reinscripcion,tramite_administrativo,como hago el tramite de reinscripcion,SIN_ENTIDAD
+98,Como hago el tramite de reinscripcion,tramite_administrativo,como hago el tramite de reinscripcion,SIN_ENTIDAD
+99,Necesito constancia de estudios,tramite_administrativo,necesito constancia de estudios,SIN_ENTIDAD
+100,Donde solicito el comprobante,tramite_administrativo,donde solicito el comprobante,SIN_ENTIDAD
+101,Requiero informacion administrativa,tramite_administrativo,requiero informacion administrativa,SIN_ENTIDAD
+102,Cuando entregan boletas,tramite_administrativo,cuando entregan boletas,proyecto:entrega
+103,Donde solicito el comprobante,tramite_administrativo,donde solicito el comprobante,SIN_ENTIDAD
+104,Requiero informacion administrativa,tramite_administrativo,requiero informacion administrativa,SIN_ENTIDAD
+105,Como hago el tramite de reinscripcion,tramite_administrativo,como hago el tramite de reinscripcion,SIN_ENTIDAD
+106,Debemos usar Classroom para el proyecto,consulta_proyecto,debemos usar classroom para el proyecto,plataforma:classroom | proyecto:proyecto
+107,El proyecto debe incluir confiabilidad,consulta_proyecto,el proyecto debe incluir confiabilidad,proyecto:proyecto
+108,El avance del proyecto lleva PDF,consulta_proyecto,el avance del proyecto lleva pdf,archivo:pdf | proyecto:proyecto
+109,El avance del proyecto lleva PDF,consulta_proyecto,el avance del proyecto lleva pdf,archivo:pdf | proyecto:proyecto
+110,Como integramos normalizacion en el producto,consulta_proyecto,como integramos normalizacion en el producto,concepto:normalizacion
+111,Que alcance tiene el proyecto integrador,consulta-proyecto,que alcance tiene el proyecto integrador,proyecto:proyecto
+112,Debemos usar Teams para el proyecto,consulta_proyecto,debemos usar teams para el proyecto,plataforma:teams | proyecto:proyecto
+113,El avance del proyecto lleva PDF,consulta_proyecto,el avance del proyecto lleva pdf,archivo:pdf | proyecto:proyecto
+114,Debemos usar Classroom para el proyecto,consulta_proyecto,debemos usar classroom para el proyecto,plataforma:classroom | proyecto:proyecto
+115,Debemos usar Teams para el proyecto,consulta_proyecto,debemos usar teams para el proyecto,plataforma:teams | proyecto:proyecto
+116,El proyecto debe incluir normalizacion,consulta_proyecto,el proyecto debe incluir normalizacion,concepto:normalizacion | proyecto:proyecto
+117,El avance del proyecto lleva notebook,consulta_proyecto,el avance del proyecto lleva notebook,proyecto:proyecto
+118,Debemos usar Teams para el proyecto,consulta_proyecto,debemos usar teams para el proyecto,plataforma:teams | proyecto:proyecto
+119,El proyecto debe incluir entidades,consulta_proyecto,el proyecto debe incluir entidades,concepto:entidades | proyecto:proyecto
+120,El proyecto debe incluir ambiguedad,consulta_proyecto,el proyecto debe incluir ambiguedad,concepto:ambiguedad | proyecto:proyecto

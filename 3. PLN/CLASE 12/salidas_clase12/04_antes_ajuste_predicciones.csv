@@ -1,0 +1,37 @@
+﻿texto,real,prediccion,correcto
+no abre el archivo docx,soporte_tecnico,soporte_tecnico,True
+quiero revisar mi calificacion de clase 10,aclaracion_calificacion,aclaracion_calificacion,True
+cuando es la sesion de intencion,consulta_horario,consulta_horario,True
+no entiendo mi nota del entidades,aclaracion_calificacion,aclaracion_calificacion,True
+subi el proyecto de entidades,entrega_actividad,entrega_actividad,True
+no entiendo el concepto de normalizacion,consulta_concepto,consulta_concepto,True
+que significa confiabilidad,consulta_concepto,consulta_concepto,True
+a que hora inicia la clase practica 8,consulta_horario,consulta_horario,True
+tengo problema para entrar a blackboard,soporte_tecnico,soporte_tecnico,True
+el avance del proyecto lleva pdf,consulta_proyecto,consulta_proyecto,True
+comparto mi evidencia de ambiguedad,entrega_actividad,entrega_actividad,True
+que significa matriz de confusion,consulta_concepto,consulta_concepto,True
+cuando es la sesion de pipeline,consulta_horario,consulta_horario,True
+tengo problema para entrar a meet,soporte_tecnico,soporte_tecnico,True
+quedo atento a sus comentarios,saludo_cierre,saludo_cierre,True
+como hago el tramite de reinscripcion,tramite_administrativo,tramite_administrativo,True
+como integramos normalizacion en el producto,consulta_proyecto,consulta_concepto,False
+cuando es la sesion de pipeline,consulta_horario,consulta_horario,True
+quedo atento a sus comentarios,saludo_cierre,saludo_cierre,True
+como hago el tramite de reinscripcion,tramite_administrativo,tramite_administrativo,True
+para que sirve entidades en pln,consulta_concepto,consulta_concepto,True
+tengo duda sobre los puntos descontados,aclaracion_calificacion,aclaracion_calificacion,True
+tengo problema para entrar a meet,soporte_tecnico,soporte_tecnico,True
+no entiendo el concepto de intencion,consulta_concepto,consulta_concepto,True
+tengo problema para entrar a teams,soporte_tecnico,soporte_tecnico,True
+cual es el horario de practica 8,consulta_horario,consulta_horario,True
+comparto mi evidencia de ambiguedad,entrega_actividad,entrega_actividad,True
+debemos usar teams para el proyecto,consulta_proyecto,consulta_proyecto,True
+saludos cordiales,saludo_cierre,saludo_cierre,True
+como hago el tramite de reinscripcion,tramite_administrativo,tramite_administrativo,True
+adjunto el reporte pdf de clase 9,entrega_actividad,entrega_actividad,True
+saludos cordiales,saludo_cierre,saludo_cierre,True
+comparto mi evidencia de matriz de confusion,entrega_actividad,entrega_actividad,True
+como hago el tramite de reinscripcion,tramite_administrativo,tramite_administrativo,True
+puede revisar mi evaluacion del corte,aclaracion_calificacion,aclaracion_calificacion,True
+que alcance tiene el proyecto integrador,consulta-proyecto,consulta_proyecto,False

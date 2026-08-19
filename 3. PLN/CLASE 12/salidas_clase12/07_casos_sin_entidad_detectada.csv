@@ -1,0 +1,46 @@
+﻿id,texto,intencion,entidades_detectadas
+3,Cuando es la sesion de confiabilidad,consulta_horario,SIN_ENTIDAD
+7,A que hora revisamos confiabilidad,consulta_horario,SIN_ENTIDAD
+31,El sistema no acepta mi notebook,soporte_tecnico,SIN_ENTIDAD
+35,El sistema no acepta mi notebook,soporte_tecnico,SIN_ENTIDAD
+46,Tengo duda sobre los puntos descontados,aclaracion_calificacion,SIN_ENTIDAD
+47,Tengo duda sobre los puntos descontados,aclaracion_calificacion,SIN_ENTIDAD
+49,Tengo duda sobre los puntos descontados,aclaracion_calificacion,SIN_ENTIDAD
+50,Tengo duda sobre los puntos descontados,aclaracion_calificacion,SIN_ENTIDAD
+51,Tengo duda sobre los puntos descontados,aclaracion_calificacion,SIN_ENTIDAD
+52,Puede revisar mi evaluacion del corte,aclaracion_calificacion,SIN_ENTIDAD
+55,Solicito aclaracion de calificacion,aclaracion_calificacion,SIN_ENTIDAD
+57,Puede revisar mi evaluacion del corte,aclaracion_calificacion,SIN_ENTIDAD
+59,Puede revisar mi evaluacion del corte,aclaracion_calificacion,SIN_ENTIDAD
+60,Puede revisar mi evaluacion del corte,aclaracion_calificacion,SIN_ENTIDAD
+61,Para que sirve confiabilidad en PLN,consulta_concepto,SIN_ENTIDAD
+74,Que significa confiabilidad,consulta_concepto,SIN_ENTIDAD
+76,Gracias por la aclaracion,saludo_cierre,SIN_ENTIDAD
+77,Saludos cordiales,saludo_cierre,SIN_ENTIDAD
+78,Saludos cordiales,saludo_cierre,SIN_ENTIDAD
+79,Saludos cordiales,saludo_cierre,SIN_ENTIDAD
+80,Quedo atento a sus comentarios,saludo_cierre,SIN_ENTIDAD
+81,Quedo atento a sus comentarios,saludo_cierre,SIN_ENTIDAD
+82,Entendido muchas gracias,saludo_cierre,SIN_ENTIDAD
+83,Entendido muchas gracias,saludo_cierre,SIN_ENTIDAD
+84,Saludos cordiales,saludo_cierre,SIN_ENTIDAD
+85,Buenos dias profesor,saludo_cierre,SIN_ENTIDAD
+86,Saludos cordiales,saludo_cierre,SIN_ENTIDAD
+87,Buenos dias profesor,saludo_cierre,SIN_ENTIDAD
+88,Saludos cordiales,saludo_cierre,SIN_ENTIDAD
+89,Quedo atento a sus comentarios,saludo_cierre,SIN_ENTIDAD
+90,Quedo atento a sus comentarios,saludo_cierre,SIN_ENTIDAD
+91,Donde solicito el comprobante,tramite_administrativo,SIN_ENTIDAD
+92,Como hago el tramite de reinscripcion,tramite_administrativo,SIN_ENTIDAD
+93,Necesito constancia de estudios,tramite_administrativo,SIN_ENTIDAD
+94,Necesito constancia de estudios,tramite admin,SIN_ENTIDAD
+95,Como hago el tramite de reinscripcion,tramite_administrativo,SIN_ENTIDAD
+96,Donde solicito el comprobante,tramite_administrativo,SIN_ENTIDAD
+97,Como hago el tramite de reinscripcion,tramite_administrativo,SIN_ENTIDAD
+98,Como hago el tramite de reinscripcion,tramite_administrativo,SIN_ENTIDAD
+99,Necesito constancia de estudios,tramite_administrativo,SIN_ENTIDAD
+100,Donde solicito el comprobante,tramite_administrativo,SIN_ENTIDAD
+101,Requiero informacion administrativa,tramite_administrativo,SIN_ENTIDAD
+103,Donde solicito el comprobante,tramite_administrativo,SIN_ENTIDAD
+104,Requiero informacion administrativa,tramite_administrativo,SIN_ENTIDAD
+105,Como hago el tramite de reinscripcion,tramite_administrativo,SIN_ENTIDAD

@@ -1,0 +1,121 @@
+﻿id,texto,intencion
+1,Cuando es la sesion de pipeline,consulta_horario
+2,A que hora inicia la clase clase 9,consulta_horario
+3,Cuando es la sesion de confiabilidad,consulta_horario
+4,A que hora revisamos pipeline,consulta_horario
+5,Cuando es la sesion de intencion,consulta_horario
+6,A que hora inicia la clase clase 11,consulta_horario
+7,A que hora revisamos confiabilidad,consulta_horario
+8,A que hora inicia la clase clase 12,consulta_horario
+9,A que hora inicia la clase clase 11,consulta_horario
+10,El sabado a que hora vemos clase 10,consulta_horario
+11,A que hora inicia la clase practica 8,consulta_horario
+12,Cuando es la sesion de pipeline,consulta_horario
+13,Cual es el horario de practica 8,consulta_horario
+14,Cuando es la sesion de intencion,consulta_horario
+15,Cual es el horario de clase 12,consulta_horario
+16,Comparto mi evidencia de ambiguedad,entrega_actividad
+17,Subi el proyecto de normalizacion,entrega_actividad
+18,Entrego la practica clase 11 en PDF,entrega_actividad
+19,Comparto mi evidencia de ambiguedad,entrega_actividad
+20,Comparto mi evidencia de ambiguedad,entrega_actividad
+21,Adjunto el reporte PDF de clase 9,entrega_actividad
+22,Entrego la practica clase 11 en PDF,entrega_actividad
+23,Comparto mi evidencia de matriz de confusion,entrega_actividad
+24,Entrego la practica clase 12 en ZIP,entrega actividad
+25,Adjunto el reporte PDF de clase 9,entrega_actividad
+26,Ya subi el PDF de clase 9,entrega_actividad
+27,Subi el proyecto de entidades,entrega_actividad
+28,Entrego la practica practica 8 en CSV,entrega_actividad
+29,Entrego la practica clase 11 en notebook,entrega_actividad
+30,Comparto mi evidencia de ambiguedad,entrega_actividad
+31,El sistema no acepta mi notebook,soporte_tecnico
+32,Tengo problema para entrar a Meet,soporte_tecnico
+33,El sistema no acepta mi CSV,soporte técnico
+34,Me marca error en Teams,soporte_tecnico
+35,El sistema no acepta mi notebook,soporte_tecnico
+36,Me marca error en Meet,soporte_tecnico
+37,Tengo problema para entrar a Meet,soporte_tecnico
+38,Me marca error en Meet,soporte técnico
+39,No puedo subir el PDF a Blackboard,soporte_tecnico
+40,Tengo problema para entrar a Meet,soporte_tecnico
+41,Tengo problema para entrar a Blackboard,soporte_tecnico
+42,Tengo problema para entrar a Moodle,soporte_tecncio
+43,Tengo problema para entrar a Teams,soporte_tecnico
+44,No puedo subir el DOCX a Classroom,soporte_tecnico
+45,No abre el archivo DOCX,soporte_tecnico
+46,Tengo duda sobre los puntos descontados,aclaracion_calificacion
+47,Tengo duda sobre los puntos descontados,aclaracion_calificacion
+48,Quiero revisar mi calificacion de clase 10,aclaracion_calificacion
+49,Tengo duda sobre los puntos descontados,aclaracion_calificacion
+50,Tengo duda sobre los puntos descontados,aclaracion_calificacion
+51,Tengo duda sobre los puntos descontados,aclaracion_calificacion
+52,Puede revisar mi evaluacion del corte,aclaracion_calificacion
+53,No entiendo mi nota del pipeline,aclaracion_calificacion
+54,Quiero revisar mi calificacion de practica 8,aclaracion_calificacion
+55,Solicito aclaracion de calificacion,aclaracion_calificacion
+56,No entiendo mi nota del entidades,aclaracion_calificacion
+57,Puede revisar mi evaluacion del corte,aclaracion_calificacion
+58,No entiendo mi nota del pipeline,aclaracion_calificacion
+59,Puede revisar mi evaluacion del corte,aclaracion_calificacion
+60,Puede revisar mi evaluacion del corte,aclaracion_calificacion
+61,Para que sirve confiabilidad en PLN,consulta_concepto
+62,Que significa pipeline,consulta_concepto
+63,Que significa matriz de confusion,consulta_concepto
+64,No entiendo el concepto de normalizacion,consulta_concepto
+65,No entiendo el concepto de normalizacion,consulta_concepto
+66,Para que sirve entidades en PLN,consulta_concepto
+67,No entiendo el concepto de matriz de confusion,consulta_concepto
+68,No entiendo el concepto de entidades,consulta_concepto
+69,Cual es la diferencia entre pipeline y entidades,consulta_concepto
+70,Para que sirve intencion en PLN,consulta_concepto
+71,No entiendo el concepto de intencion,consulta_concepto
+72,Para que sirve normalizacion en PLN,consulta_concepto
+73,No entiendo el concepto de entidades,consulta_concepto
+74,Que significa confiabilidad,consulta_concepto
+75,Puede explicar ambiguedad,consulta_concepto
+76,Gracias por la aclaracion,saludo_cierre
+77,Saludos cordiales,saludo_cierre
+78,Saludos cordiales,saludo_cierre
+79,Saludos cordiales,saludo_cierre
+80,Quedo atento a sus comentarios,saludo_cierre
+81,Quedo atento a sus comentarios,saludo_cierre
+82,Entendido muchas gracias,saludo_cierre
+83,Entendido muchas gracias,saludo_cierre
+84,Saludos cordiales,saludo_cierre
+85,Buenos dias profesor,saludo_cierre
+86,Saludos cordiales,saludo_cierre
+87,Buenos dias profesor,saludo_cierre
+88,Saludos cordiales,saludo_cierre
+89,Quedo atento a sus comentarios,saludo_cierre
+90,Quedo atento a sus comentarios,saludo_cierre
+91,Donde solicito el comprobante,tramite_administrativo
+92,Como hago el tramite de reinscripcion,tramite_administrativo
+93,Necesito constancia de estudios,tramite_administrativo
+94,Necesito constancia de estudios,tramite admin
+95,Como hago el tramite de reinscripcion,tramite_administrativo
+96,Donde solicito el comprobante,tramite_administrativo
+97,Como hago el tramite de reinscripcion,tramite_administrativo
+98,Como hago el tramite de reinscripcion,tramite_administrativo
+99,Necesito constancia de estudios,tramite_administrativo
+100,Donde solicito el comprobante,tramite_administrativo
+101,Requiero informacion administrativa,tramite_administrativo
+102,Cuando entregan boletas,tramite_administrativo
+103,Donde solicito el comprobante,tramite_administrativo
+104,Requiero informacion administrativa,tramite_administrativo
+105,Como hago el tramite de reinscripcion,tramite_administrativo
+106,Debemos usar Classroom para el proyecto,consulta_proyecto
+107,El proyecto debe incluir confiabilidad,consulta_proyecto
+108,El avance del proyecto lleva PDF,consulta_proyecto
+109,El avance del proyecto lleva PDF,consulta_proyecto
+110,Como integramos normalizacion en el producto,consulta_proyecto
+111,Que alcance tiene el proyecto integrador,consulta-proyecto
+112,Debemos usar Teams para el proyecto,consulta_proyecto
+113,El avance del proyecto lleva PDF,consulta_proyecto
+114,Debemos usar Classroom para el proyecto,consulta_proyecto
+115,Debemos usar Teams para el proyecto,consulta_proyecto
+116,El proyecto debe incluir normalizacion,consulta_proyecto
+117,El avance del proyecto lleva notebook,consulta_proyecto
+118,Debemos usar Teams para el proyecto,consulta_proyecto
+119,El proyecto debe incluir entidades,consulta_proyecto
+120,El proyecto debe incluir ambiguedad,consulta_proyecto

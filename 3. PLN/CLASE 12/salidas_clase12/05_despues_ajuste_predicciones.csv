@@ -1,0 +1,37 @@
+﻿texto,real,prediccion,correcto
+cuando es la sesion de pipeline,consulta_horario,consulta_horario,True
+a que hora revisamos confiabilidad,consulta_horario,consulta_horario,True
+para que sirve normalizacion en pln,consulta_concepto,consulta_concepto,True
+el proyecto debe incluir confiabilidad,consulta_proyecto,consulta_proyecto,True
+debemos usar teams para el proyecto,consulta_proyecto,consulta_proyecto,True
+necesito constancia de estudios,tramite_administrativo,tramite_administrativo,True
+comparto mi evidencia de ambiguedad,entrega_actividad,entrega_actividad,True
+cuando es la sesion de intencion,consulta_horario,consulta_horario,True
+comparto mi evidencia de ambiguedad,entrega_actividad,entrega_actividad,True
+el avance del proyecto lleva pdf,consulta_proyecto,consulta_proyecto,True
+buenos dias profesor,saludo_cierre,tramite_administrativo,False
+el avance del proyecto lleva notebook,consulta_proyecto,consulta_proyecto,True
+el sistema no acepta mi notebook,soporte_tecnico,soporte_tecnico,True
+saludos cordiales,saludo_cierre,saludo_cierre,True
+tengo problema para entrar a teams,soporte_tecnico,soporte_tecnico,True
+que significa pipeline,consulta_concepto,consulta_concepto,True
+cuando es la sesion de confiabilidad,consulta_horario,consulta_horario,True
+puede revisar mi evaluacion del corte,aclaracion_calificacion,aclaracion_calificacion,True
+no entiendo el concepto de normalizacion,consulta_concepto,consulta_concepto,True
+donde solicito el comprobante,tramite_administrativo,tramite_administrativo,True
+no abre el archivo docx,soporte_tecnico,soporte_tecnico,True
+subi el proyecto de normalizacion,entrega_actividad,entrega_actividad,True
+buenos dias profesor,saludo_cierre,tramite_administrativo,False
+puede revisar mi evaluacion del corte,aclaracion_calificacion,aclaracion_calificacion,True
+para que sirve confiabilidad en pln,consulta_concepto,consulta_concepto,True
+comparto mi evidencia de ambiguedad,entrega_actividad,entrega_actividad,True
+entrego la practica clase 11 en pdf,entrega_actividad,entrega_actividad,True
+me marca error en meet,soporte_tecnico,soporte_tecnico,True
+tengo problema para entrar a meet,soporte_tecnico,soporte_tecnico,True
+donde solicito el comprobante,tramite_administrativo,tramite_administrativo,True
+como hago el tramite de reinscripcion,tramite_administrativo,tramite_administrativo,True
+quedo atento a sus comentarios,saludo_cierre,saludo_cierre,True
+debemos usar classroom para el proyecto,consulta_proyecto,consulta_proyecto,True
+solicito aclaracion de calificacion,aclaracion_calificacion,tramite_administrativo,False
+quiero revisar mi calificacion de clase 10,aclaracion_calificacion,aclaracion_calificacion,True
+cual es el horario de clase 12,consulta_horario,consulta_horario,True
