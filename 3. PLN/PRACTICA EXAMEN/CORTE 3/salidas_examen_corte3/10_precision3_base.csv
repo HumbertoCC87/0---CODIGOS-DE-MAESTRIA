@@ -1,0 +1,13 @@
+consulta_id,precision@3,relevantes_en_top3,grupo_esperado
+Q01,1.0,3,educacion_beca
+Q02,1.0,3,salud_informacion
+Q03,1.0,3,tecnologia_acceso
+Q04,1.0,3,tecnologia_error
+Q05,0.667,2,educacion_inscripcion
+Q06,0.0,0,servicios_actualizacion
+Q07,1.0,3,finanzas_pago
+Q08,1.0,3,servicios_cobro
+Q09,1.0,3,servicios_cancelacion
+Q10,1.0,3,educacion_baja
+Q11,1.0,3,salud_urgencia
+Q12,1.0,3,seguridad_incidente

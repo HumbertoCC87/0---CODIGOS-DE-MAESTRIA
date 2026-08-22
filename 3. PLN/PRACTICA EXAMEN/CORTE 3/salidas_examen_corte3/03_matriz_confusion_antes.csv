@@ -1,0 +1,8 @@
+,cancelacion,consulta-informacion,consulta_informacion,pago,soporte_tecnico,tramite,urgencia
+cancelacion,20,0,0,0,0,0,0
+consulta-informacion,0,0,4,0,0,0,0
+consulta_informacion,0,0,16,0,0,0,0
+pago,0,0,0,20,0,0,0
+soporte_tecnico,0,0,0,0,20,0,0
+tramite,0,0,0,0,1,19,0
+urgencia,0,0,0,0,0,0,20

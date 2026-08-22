@@ -1,0 +1,481 @@
+﻿id,texto,dominio,etiqueta,grupo_relevancia
+1,El banco informó a la alumna que el apoyo para continuar sus estudios ya estaba disponible.,educacion,consulta-informacion,educacion_beca
+2,La coordinadora habló con la estudiante porque ella necesitaba información sobre el apoyo.,educacion,consulta_informacion,educacion_beca
+3,Requiero información sobre becas académicas para estudiantes de posgrado hoy.,educacion,consulta_informacion,educacion_beca
+4,"¿Dónde consulto la convocatoria de apoyo económico para alumnos con buen desempeño, hoy.",educacion,consulta_informacion,educacion_beca
+5,Busco requisitos para solicitar una beca universitaria este periodo.,educacion,consulta_informacion,educacion_beca
+6,Quiero saber si existe apoyo financiero para continuar mis estudios hoy.,educacion,consulta-informacion,educacion_beca
+7,"La coordinación publicó información sobre estímulos para estudiantes destacados, hoy.",educacion,consulta_informacion,educacion_beca
+8,¿Qué documentos solicitan para el programa de becas de la universidad?,educacion,consulta_informacion,educacion_beca
+9,Necesito orientación sobre apoyo económico estudiantil y fechas de registro hoy.,educacion,consulta_informacion,educacion_beca
+10,"¿Cómo puedo consultar los resultados de una convocatoria de beca, hoy.",educacion,consulta_informacion,educacion_beca
+11,Necesito información sobre becas académicas para estudiantes de posgrado.,educacion,consulta-informacion,educacion_beca
+12,¿Dónde consulto la convocatoria de apoyo económico para alumnos con buen desempeño esta semana.,educacion,consulta_informacion,educacion_beca
+13,"Busco requisitos para solicitar una beca universitaria este periodo, esta semana.",educacion,consulta_informacion,educacion_beca
+14,Quiero saber si existe apoyo financiero para continuar mis estudios.,educacion,consulta_informacion,educacion_beca
+15,La coordinación publicó información sobre estímulos para estudiantes destacados esta semana.,educacion,consulta_informacion,educacion_beca
+16,"¿Qué documentos solicitan para el programa de becas de la universidad, esta semana.",educacion,consulta-informacion,educacion_beca
+17,Necesito orientación sobre apoyo económico estudiantil y fechas de registro.,educacion,consulta_informacion,educacion_beca
+18,¿Cómo puedo consultar los resultados de una convocatoria de beca esta semana.,educacion,consulta_informacion,educacion_beca
+19,"Necesito información sobre becas académicas para estudiantes de posgrado, desde ayer.",educacion,consulta_informacion,educacion_beca
+20,¿Dónde consulto la convocatoria de apoyo económico para alumnos con buen desempeño?,educacion,consulta_informacion,educacion_beca
+21,Busco requisitos para solicitar una beca universitaria este periodo desde ayer.,educacion,consulta-informacion,educacion_beca
+22,"Quiero saber si existe apoyo financiero para continuar mis estudios, desde ayer.",educacion,consulta_informacion,educacion_beca
+23,La coordinación publicó información sobre estímulos para estudiantes destacados.,educacion,consulta_informacion,educacion_beca
+24,¿Qué documentos solicitan para el programa de becas de la universidad desde ayer.,educacion,consulta_informacion,educacion_beca
+25,"Necesito orientación sobre apoyo económico estudiantil y fechas de registro, desde ayer.",educacion,consulta_informacion,educacion_beca
+26,¿Cómo puedo consultar los resultados de una convocatoria de beca?,educacion,consulta-informacion,educacion_beca
+27,Necesito información sobre becas académicas para estudiantes de posgrado antes del cierre.,educacion,consulta_informacion,educacion_beca
+28,"¿Dónde consulto la convocatoria de apoyo económico para alumnos con buen desempeño, antes del cierre.",educacion,consulta_informacion,educacion_beca
+29,Quiero saber si existe apoyo financiero para continuar mis estudios antes del cierre.,educacion,consulta_informacion,educacion_beca
+30,"La coordinación publicó información sobre estímulos para estudiantes destacados, antes del cierre.",educacion,consulta_informacion,educacion_beca
+31,Necesito orientación sobre apoyo económico estudiantil y fechas de registro antes del cierre.,educacion,consulta-informacion,educacion_beca
+32,"¿Cómo puedo consultar los resultados de una convocatoria de beca, antes del cierre.",educacion,consulta_informacion,educacion_beca
+33,¿Dónde consulto la convocatoria de apoyo económico para alumnos con buen desempeño en el portal institucional.,educacion,consulta_informacion,educacion_beca
+34,"Busco requisitos para solicitar una beca universitaria este periodo, en el portal institucional.",educacion,consulta_informacion,educacion_beca
+35,La coordinación publicó información sobre estímulos para estudiantes destacados en el portal institucional.,educacion,consulta_informacion,educacion_beca
+36,"¿Qué documentos solicitan para el programa de becas de la universidad, en el portal institucional.",educacion,consulta-informacion,educacion_beca
+37,¿Cómo puedo consultar los resultados de una convocatoria de beca en el portal institucional.,educacion,consulta_informacion,educacion_beca
+38,"Requiero información sobre becas académicas para estudiantes de posgrado, para este periodo.",educacion,consulta_informacion,educacion_beca
+39,Busco requisitos para solicitar una beca universitaria este periodo para este periodo.,educacion,consulta_informacion,educacion_beca
+40,"Quiero saber si existe apoyo financiero para continuar mis estudios, para este periodo.",educacion,consulta_informacion,educacion_beca
+41,Requiero información sobre los horarios de consulta médica general hoy.,salud,consulta-informacion,salud_informacion
+42,"¿Dónde puedo revisar los servicios disponibles en la clínica universitaria, hoy.",salud,consulta_informacion,salud_informacion
+43,Quiero conocer los requisitos para recibir orientación preventiva de salud.,salud,consulta_informacion,salud_informacion
+44,Busco información sobre campañas de vacunación y atención preventiva hoy.,salud,consulta_informacion,salud_informacion
+45,"¿Qué especialidades médicas están disponibles para los estudiantes, hoy.",salud,consulta_informacion,salud_informacion
+46,Necesito saber dónde consultar recomendaciones de salud institucional.,salud,consulta-informacion,salud_informacion
+47,Quiero información sobre prevención y servicios médicos disponibles hoy.,salud,consulta_informacion,salud_informacion
+48,"¿Dónde publican los horarios de atención del consultorio, hoy.",salud,consulta_informacion,salud_informacion
+49,Necesito información sobre los horarios de consulta médica general.,salud,consulta_informacion,salud_informacion
+50,¿Dónde puedo revisar los servicios disponibles en la clínica universitaria esta semana.,salud,consulta_informacion,salud_informacion
+51,"Quiero conocer los requisitos para recibir orientación preventiva de salud, esta semana.",salud,consulta-informacion,salud_informacion
+52,Busco información sobre campañas de vacunación y atención preventiva.,salud,consulta_informacion,salud_informacion
+53,¿Qué especialidades médicas están disponibles para los estudiantes esta semana.,salud,consulta_informacion,salud_informacion
+54,"Necesito saber dónde consultar recomendaciones de salud institucional, esta semana.",salud,consulta_informacion,salud_informacion
+55,Quiero información sobre prevención y servicios médicos disponibles.,salud,consulta_informacion,salud_informacion
+56,¿Dónde publican los horarios de atención del consultorio esta semana.,salud,consulta-informacion,salud_informacion
+57,"Necesito información sobre los horarios de consulta médica general, desde ayer.",salud,consulta_informacion,salud_informacion
+58,¿Dónde puedo revisar los servicios disponibles en la clínica universitaria?,salud,consulta_informacion,salud_informacion
+59,Quiero conocer los requisitos para recibir orientación preventiva de salud desde ayer.,salud,consulta_informacion,salud_informacion
+60,"Busco información sobre campañas de vacunación y atención preventiva, desde ayer.",salud,consulta_informacion,salud_informacion
+61,¿Qué especialidades médicas están disponibles para los estudiantes?,salud,consulta-informacion,salud_informacion
+62,Necesito saber dónde consultar recomendaciones de salud institucional desde ayer.,salud,consulta_informacion,salud_informacion
+63,"Quiero información sobre prevención y servicios médicos disponibles, desde ayer.",salud,consulta_informacion,salud_informacion
+64,¿Dónde publican los horarios de atención del consultorio?,salud,consulta_informacion,salud_informacion
+65,Necesito información sobre los horarios de consulta médica general antes del cierre.,salud,consulta_informacion,salud_informacion
+66,"¿Dónde puedo revisar los servicios disponibles en la clínica universitaria, antes del cierre.",salud,consulta-informacion,salud_informacion
+67,Busco información sobre campañas de vacunación y atención preventiva antes del cierre.,salud,consulta_informacion,salud_informacion
+68,"¿Qué especialidades médicas están disponibles para los estudiantes, antes del cierre.",salud,consulta_informacion,salud_informacion
+69,Quiero información sobre prevención y servicios médicos disponibles antes del cierre.,salud,consulta_informacion,salud_informacion
+70,"¿Dónde publican los horarios de atención del consultorio, antes del cierre.",salud,consulta_informacion,salud_informacion
+71,¿Dónde puedo revisar los servicios disponibles en la clínica universitaria en el portal institucional.,salud,consulta-informacion,salud_informacion
+72,"Quiero conocer los requisitos para recibir orientación preventiva de salud, en el portal institucional.",salud,consulta_informacion,salud_informacion
+73,¿Qué especialidades médicas están disponibles para los estudiantes en el portal institucional.,salud,consulta_informacion,salud_informacion
+74,"Necesito saber dónde consultar recomendaciones de salud institucional, en el portal institucional.",salud,consulta_informacion,salud_informacion
+75,¿Dónde publican los horarios de atención del consultorio en el portal institucional.,salud,consulta_informacion,salud_informacion
+76,"Requiero información sobre los horarios de consulta médica general, para este periodo.",salud,consulta-informacion,salud_informacion
+77,Quiero conocer los requisitos para recibir orientación preventiva de salud para este periodo.,salud,consulta_informacion,salud_informacion
+78,"Busco información sobre campañas de vacunación y atención preventiva, para este periodo.",salud,consulta_informacion,salud_informacion
+79,Necesito saber dónde consultar recomendaciones de salud institucional para este periodo.,salud,consulta_informacion,salud_informacion
+80,"Quiero información sobre prevención y servicios médicos disponibles, para este periodo.",salud,consulta_informacion,salud_informacion
+81,La administradora escribió al alumno cuando él reportó que la cuenta seguía cerrada.,tecnologia,soporte_tecnico,tecnologia_acceso
+82,El sistema revisó la cuenta del estudiante con el módulo nuevo y negó el acceso.,tecnologia,soporte_tecnico,tecnologia_acceso
+83,No puedo ingresar a la plataforma aunque mi usuario es correcto hoy.,tecnologia,soporte_tecnico,tecnologia_acceso
+84,"El sistema rechaza mi contraseña y necesito recuperar el acceso, hoy.",tecnologia,soporte_tecnico,tecnologia_acceso
+85,Mi cuenta quedó bloqueada después de varios intentos de inicio de sesión.,tecnologia,soporte_tecnico,tecnologia_acceso
+86,La plataforma no reconoce mis credenciales desde esta mañana hoy.,tecnologia,soporte_tecnico,tecnologia_acceso
+87,"Necesito restablecer la clave porque no puedo entrar al portal, hoy.",tecnologia,soporte_tecnico,tecnologia_acceso
+88,El acceso institucional muestra un mensaje de usuario no autorizado.,tecnologia,soporte_tecnico,tecnologia_acceso
+89,Puedo abrir el sitio pero la sesión se cierra inmediatamente hoy.,tecnologia,soporte_tecnico,tecnologia_acceso
+90,"No recibo el correo para recuperar mi contraseña de acceso, hoy.",tecnologia,soporte_tecnico,tecnologia_acceso
+91,No puedo ingresar a la plataforma aunque mi usuario es correcto.,tecnologia,soporte_tecnico,tecnologia_acceso
+92,El sistema rechaza mi contraseña y necesito recuperar el acceso esta semana.,tecnologia,soporte_tecnico,tecnologia_acceso
+93,"Mi cuenta quedó bloqueada después de varios intentos de inicio de sesión, esta semana.",tecnologia,soporte_tecnico,tecnologia_acceso
+94,La plataforma no reconoce mis credenciales desde esta mañana.,tecnologia,soporte_tecnico,tecnologia_acceso
+95,Necesito restablecer la clave porque no puedo entrar al portal esta semana.,tecnologia,soporte_tecnico,tecnologia_acceso
+96,"El acceso institucional muestra un mensaje de usuario no autorizado, esta semana.",tecnologia,soporte_tecnico,tecnologia_acceso
+97,Puedo abrir el sitio pero la sesión se cierra inmediatamente.,tecnologia,soporte_tecnico,tecnologia_acceso
+98,No recibo el correo para recuperar mi contraseña de acceso esta semana.,tecnologia,soporte_tecnico,tecnologia_acceso
+99,"No puedo ingresar a la plataforma aunque mi usuario es correcto, desde ayer.",tecnologia,soporte_tecnico,tecnologia_acceso
+100,El sistema rechaza mi contraseña y necesito recuperar el acceso.,tecnologia,soporte_tecnico,tecnologia_acceso
+101,Mi cuenta quedó bloqueada después de varios intentos de inicio de sesión desde ayer.,tecnologia,soporte_tecnico,tecnologia_acceso
+102,"La plataforma no reconoce mis credenciales desde esta mañana, desde ayer.",tecnologia,soporte_tecnico,tecnologia_acceso
+103,Necesito restablecer la clave porque no puedo entrar al portal.,tecnologia,soporte_tecnico,tecnologia_acceso
+104,El acceso institucional muestra un mensaje de usuario no autorizado desde ayer.,tecnologia,soporte_tecnico,tecnologia_acceso
+105,"Puedo abrir el sitio pero la sesión se cierra inmediatamente, desde ayer.",tecnologia,soporte_tecnico,tecnologia_acceso
+106,No recibo el correo para recuperar mi contraseña de acceso.,tecnologia,soporte_tecnico,tecnologia_acceso
+107,No puedo ingresar a la plataforma aunque mi usuario es correcto antes del cierre.,tecnologia,soporte_tecnico,tecnologia_acceso
+108,"El sistema rechaza mi contraseña y necesito recuperar el acceso, antes del cierre.",tecnologia,soporte_tecnico,tecnologia_acceso
+109,La plataforma no reconoce mis credenciales desde esta mañana antes del cierre.,tecnologia,soporte_tecnico,tecnologia_acceso
+110,"Necesito restablecer la clave porque no puedo entrar al portal, antes del cierre.",tecnologia,soporte_tecnico,tecnologia_acceso
+111,Puedo abrir el sitio pero la sesión se cierra inmediatamente antes del cierre.,tecnologia,soporte_tecnico,tecnologia_acceso
+112,"No recibo el correo para recuperar mi contraseña de acceso, antes del cierre.",tecnologia,soporte_tecnico,tecnologia_acceso
+113,El sistema rechaza mi contraseña y necesito recuperar el acceso en el portal institucional.,tecnologia,soporte_tecnico,tecnologia_acceso
+114,"Mi cuenta quedó bloqueada después de varios intentos de inicio de sesión, en el portal institucional.",tecnologia,soporte_tecnico,tecnologia_acceso
+115,Necesito restablecer la clave porque no puedo entrar al portal en el portal institucional.,tecnologia,soporte_tecnico,tecnologia_acceso
+116,"El acceso institucional muestra un mensaje de usuario no autorizado, en el portal institucional.",tecnologia,soporte_tecnico,tecnologia_acceso
+117,No recibo el correo para recuperar mi contraseña de acceso en el portal institucional.,tecnologia,soporte_tecnico,tecnologia_acceso
+118,"No puedo ingresar a la plataforma aunque mi usuario es correcto, para este periodo.",tecnologia,soporte_tecnico,tecnologia_acceso
+119,Mi cuenta quedó bloqueada después de varios intentos de inicio de sesión para este periodo.,tecnologia,soporte_tecnico,tecnologia_acceso
+120,"La plataforma no reconoce mis credenciales desde esta mañana, para este periodo.",tecnologia,soporte_tecnico,tecnologia_acceso
+121,Todos los usuarios no pudieron guardar el formulario después de la actualización.,tecnologia,soporte_tecnico,tecnologia_error
+122,El módulo nuevo corrigió el error del registro con la herramienta anterior.,tecnologia,soporte_tecnico,tecnologia_error
+123,La plataforma muestra un error al guardar la información del formulario hoy.,tecnologia,soporte_tecnico,tecnologia_error
+124,"El sistema se detiene cuando intento cargar un archivo PDF, hoy.",tecnologia,soporte_tecnico,tecnologia_error
+125,Aparece una excepción después de presionar el botón de enviar.,tecnologia,soporte_tecnico,tecnologia_error
+126,El portal funciona hasta que intento descargar mi comprobante hoy.,tecnologia,soporte_tecnico,tecnologia_error
+127,"La aplicación muestra una pantalla vacía después de iniciar sesión, hoy.",tecnologia,soporte_tecnico,tecnologia_error
+128,El sistema genera un error al actualizar mis datos personales.,tecnologia,soporte_tecnico,tecnologia_error
+129,No puedo finalizar el proceso porque el módulo deja de responder hoy.,tecnologia,soporte_tecnico,tecnologia_error
+130,"La página muestra un mensaje técnico cuando intento consultar resultados, hoy.",tecnologia,soporte_tecnico,tecnologia_error
+131,La plataforma muestra un error al guardar la información del formulario.,tecnologia,soporte_tecnico,tecnologia_error
+132,El sistema se detiene cuando intento cargar un archivo PDF esta semana.,tecnologia,soporte_tecnico,tecnologia_error
+133,"Aparece una excepción después de presionar el botón de enviar, esta semana.",tecnologia,soporte_tecnico,tecnologia_error
+134,El portal funciona hasta que intento descargar mi comprobante.,tecnologia,soporte_tecnico,tecnologia_error
+135,La aplicación muestra una pantalla vacía después de iniciar sesión esta semana.,tecnologia,soporte_tecnico,tecnologia_error
+136,"El sistema genera un error al actualizar mis datos personales, esta semana.",tecnologia,soporte_tecnico,tecnologia_error
+137,No puedo finalizar el proceso porque el módulo deja de responder.,tecnologia,soporte_tecnico,tecnologia_error
+138,La página muestra un mensaje técnico cuando intento consultar resultados esta semana.,tecnologia,soporte_tecnico,tecnologia_error
+139,"La plataforma muestra un error al guardar la información del formulario, desde ayer.",tecnologia,soporte_tecnico,tecnologia_error
+140,El sistema se detiene cuando intento cargar un archivo PDF.,tecnologia,soporte_tecnico,tecnologia_error
+141,Aparece una excepción después de presionar el botón de enviar desde ayer.,tecnologia,soporte_tecnico,tecnologia_error
+142,"El portal funciona hasta que intento descargar mi comprobante, desde ayer.",tecnologia,soporte_tecnico,tecnologia_error
+143,La aplicación muestra una pantalla vacía después de iniciar sesión.,tecnologia,soporte_tecnico,tecnologia_error
+144,El sistema genera un error al actualizar mis datos personales desde ayer.,tecnologia,soporte_tecnico,tecnologia_error
+145,"No puedo finalizar el proceso porque el módulo deja de responder, desde ayer.",tecnologia,soporte_tecnico,tecnologia_error
+146,La página muestra un mensaje técnico cuando intento consultar resultados.,tecnologia,soporte_tecnico,tecnologia_error
+147,La plataforma muestra un error al guardar la información del formulario antes del cierre.,tecnologia,soporte_tecnico,tecnologia_error
+148,"El sistema se detiene cuando intento cargar un archivo PDF, antes del cierre.",tecnologia,soporte_tecnico,tecnologia_error
+149,El portal funciona hasta que intento descargar mi comprobante antes del cierre.,tecnologia,soporte_tecnico,tecnologia_error
+150,"La aplicación muestra una pantalla vacía después de iniciar sesión, antes del cierre.",tecnologia,soporte_tecnico,tecnologia_error
+151,No puedo finalizar el proceso porque el módulo deja de responder antes del cierre.,tecnologia,soporte_tecnico,tecnologia_error
+152,"La página muestra un mensaje técnico cuando intento consultar resultados, antes del cierre.",tecnologia,soporte_tecnico,tecnologia_error
+153,El sistema se detiene cuando intento cargar un archivo PDF en el portal institucional.,tecnologia,soporte_tecnico,tecnologia_error
+154,"Aparece una excepción después de presionar el botón de enviar, en el portal institucional.",tecnologia,soporte_tecnico,tecnologia_error
+155,La aplicación muestra una pantalla vacía después de iniciar sesión en el portal institucional.,tecnologia,soporte_tecnico,tecnologia_error
+156,"El sistema genera un error al actualizar mis datos personales, en el portal institucional.",tecnologia,soporte_tecnico,tecnologia_error
+157,La página muestra un mensaje técnico cuando intento consultar resultados en el portal institucional.,tecnologia,soporte_tecnico,tecnologia_error
+158,"La plataforma muestra un error al guardar la información del formulario, para este periodo.",tecnologia,soporte_tecnico,tecnologia_error
+159,Aparece una excepción después de presionar el botón de enviar para este periodo.,tecnologia,soporte_tecnico,tecnologia_error
+160,"El portal funciona hasta que intento descargar mi comprobante, para este periodo.",tecnologia,soporte_tecnico,tecnologia_error
+161,"No puedo terminar la inscripción porque la plataforma rechaza mi acceso, pero mi objetivo es registrar las materias.",educacion,tramite,educacion_inscripcion
+162,Quiero realizar mi inscripción al siguiente periodo académico hoy.,educacion,tramite,educacion_inscripcion
+163,"Necesito completar el registro de materias para el nuevo cuatrimestre, hoy.",educacion,tramite,educacion_inscripcion
+164,¿Qué pasos debo seguir para formalizar mi inscripción?,educacion,tramite,educacion_inscripcion
+165,La plataforma me pide confirmar mi carga académica antes de inscribirme hoy.,educacion,tramite,educacion_inscripcion
+166,"Necesito actualizar una materia dentro de mi proceso de inscripción, hoy.",educacion,tramite,educacion_inscripcion
+167,Quiero saber cómo registrar oficialmente mis asignaturas.,educacion,tramite,educacion_inscripcion
+168,¿Dónde entrego los documentos necesarios para la inscripción hoy.,educacion,tramite,educacion_inscripcion
+169,"Necesito corregir un dato antes de concluir mi registro académico, hoy.",educacion,tramite,educacion_inscripcion
+170,Quiero realizar mi inscripción al siguiente periodo académico.,educacion,tramite,educacion_inscripcion
+171,Necesito completar el registro de materias para el nuevo cuatrimestre esta semana.,educacion,tramite,educacion_inscripcion
+172,"¿Qué pasos debo seguir para formalizar mi inscripción, esta semana.",educacion,tramite,educacion_inscripcion
+173,La plataforma me pide confirmar mi carga académica antes de inscribirme.,educacion,tramite,educacion_inscripcion
+174,Necesito actualizar una materia dentro de mi proceso de inscripción esta semana.,educacion,tramite,educacion_inscripcion
+175,"Quiero saber cómo registrar oficialmente mis asignaturas, esta semana.",educacion,tramite,educacion_inscripcion
+176,¿Dónde entrego los documentos necesarios para la inscripción?,educacion,tramite,educacion_inscripcion
+177,Necesito corregir un dato antes de concluir mi registro académico esta semana.,educacion,tramite,educacion_inscripcion
+178,"Quiero realizar mi inscripción al siguiente periodo académico, desde ayer.",educacion,tramite,educacion_inscripcion
+179,Necesito completar el registro de materias para el nuevo cuatrimestre.,educacion,tramite,educacion_inscripcion
+180,¿Qué pasos debo seguir para formalizar mi inscripción desde ayer.,educacion,tramite,educacion_inscripcion
+181,"La plataforma me pide confirmar mi carga académica antes de inscribirme, desde ayer.",educacion,tramite,educacion_inscripcion
+182,Necesito actualizar una materia dentro de mi proceso de inscripción.,educacion,tramite,educacion_inscripcion
+183,Quiero saber cómo registrar oficialmente mis asignaturas desde ayer.,educacion,tramite,educacion_inscripcion
+184,"¿Dónde entrego los documentos necesarios para la inscripción, desde ayer.",educacion,tramite,educacion_inscripcion
+185,Necesito corregir un dato antes de concluir mi registro académico.,educacion,tramite,educacion_inscripcion
+186,Quiero realizar mi inscripción al siguiente periodo académico antes del cierre.,educacion,tramite,educacion_inscripcion
+187,"Necesito completar el registro de materias para el nuevo cuatrimestre, antes del cierre.",educacion,tramite,educacion_inscripcion
+188,La plataforma me pide confirmar mi carga académica antes de inscribirme antes del cierre.,educacion,tramite,educacion_inscripcion
+189,"Necesito actualizar una materia dentro de mi proceso de inscripción, antes del cierre.",educacion,tramite,educacion_inscripcion
+190,¿Dónde entrego los documentos necesarios para la inscripción antes del cierre.,educacion,tramite,educacion_inscripcion
+191,"Necesito corregir un dato antes de concluir mi registro académico, antes del cierre.",educacion,tramite,educacion_inscripcion
+192,Necesito completar el registro de materias para el nuevo cuatrimestre en el portal institucional.,educacion,tramite,educacion_inscripcion
+193,"¿Qué pasos debo seguir para formalizar mi inscripción, en el portal institucional.",educacion,tramite,educacion_inscripcion
+194,Necesito actualizar una materia dentro de mi proceso de inscripción en el portal institucional.,educacion,tramite,educacion_inscripcion
+195,"Quiero saber cómo registrar oficialmente mis asignaturas, en el portal institucional.",educacion,tramite,educacion_inscripcion
+196,Necesito corregir un dato antes de concluir mi registro académico en el portal institucional.,educacion,tramite,educacion_inscripcion
+197,"Quiero realizar mi inscripción al siguiente periodo académico, para este periodo.",educacion,tramite,educacion_inscripcion
+198,¿Qué pasos debo seguir para formalizar mi inscripción para este periodo.,educacion,tramite,educacion_inscripcion
+199,"La plataforma me pide confirmar mi carga académica antes de inscribirme, para este periodo.",educacion,tramite,educacion_inscripcion
+200,Quiero saber cómo registrar oficialmente mis asignaturas para este periodo.,educacion,tramite,educacion_inscripcion
+201,Quiero actualizar el correo asociado a mi cuenta de servicios hoy.,servicios,tramite,servicios_actualizacion
+202,"Necesito modificar mis datos de contacto en el sistema, hoy.",servicios,tramite,servicios_actualizacion
+203,¿Cómo cambio el número telefónico registrado en mi perfil?,servicios,tramite,servicios_actualizacion
+204,Quiero corregir un dato personal que aparece desactualizado hoy.,servicios,tramite,servicios_actualizacion
+205,"Necesito solicitar un cambio de información en mi expediente, hoy.",servicios,tramite,servicios_actualizacion
+206,El domicilio registrado ya no es correcto y quiero actualizarlo.,servicios,tramite,servicios_actualizacion
+207,¿Dónde puedo modificar los datos asociados a mi servicio hoy.,servicios,tramite,servicios_actualizacion
+208,"Quiero sustituir el correo anterior por uno nuevo en mi perfil, hoy.",servicios,tramite,servicios_actualizacion
+209,Quiero actualizar el correo asociado a mi cuenta de servicios.,servicios,tramite,servicios_actualizacion
+210,Necesito modificar mis datos de contacto en el sistema esta semana.,servicios,tramite,servicios_actualizacion
+211,"¿Cómo cambio el número telefónico registrado en mi perfil, esta semana.",servicios,tramite,servicios_actualizacion
+212,Quiero corregir un dato personal que aparece desactualizado.,servicios,tramite,servicios_actualizacion
+213,Necesito solicitar un cambio de información en mi expediente esta semana.,servicios,tramite,servicios_actualizacion
+214,"El domicilio registrado ya no es correcto y quiero actualizarlo, esta semana.",servicios,tramite,servicios_actualizacion
+215,¿Dónde puedo modificar los datos asociados a mi servicio?,servicios,tramite,servicios_actualizacion
+216,Quiero sustituir el correo anterior por uno nuevo en mi perfil esta semana.,servicios,tramite,servicios_actualizacion
+217,"Quiero actualizar el correo asociado a mi cuenta de servicios, desde ayer.",servicios,tramite,servicios_actualizacion
+218,Necesito modificar mis datos de contacto en el sistema.,servicios,tramite,servicios_actualizacion
+219,¿Cómo cambio el número telefónico registrado en mi perfil desde ayer.,servicios,tramite,servicios_actualizacion
+220,"Quiero corregir un dato personal que aparece desactualizado, desde ayer.",servicios,tramite,servicios_actualizacion
+221,Necesito solicitar un cambio de información en mi expediente.,servicios,tramite,servicios_actualizacion
+222,El domicilio registrado ya no es correcto y quiero actualizarlo desde ayer.,servicios,tramite,servicios_actualizacion
+223,"¿Dónde puedo modificar los datos asociados a mi servicio, desde ayer.",servicios,tramite,servicios_actualizacion
+224,Quiero sustituir el correo anterior por uno nuevo en mi perfil.,servicios,tramite,servicios_actualizacion
+225,Quiero actualizar el correo asociado a mi cuenta de servicios antes del cierre.,servicios,tramite,servicios_actualizacion
+226,"Necesito modificar mis datos de contacto en el sistema, antes del cierre.",servicios,tramite,servicios_actualizacion
+227,Quiero corregir un dato personal que aparece desactualizado antes del cierre.,servicios,tramite,servicios_actualizacion
+228,"Necesito solicitar un cambio de información en mi expediente, antes del cierre.",servicios,tramite,servicios_actualizacion
+229,¿Dónde puedo modificar los datos asociados a mi servicio antes del cierre.,servicios,tramite,servicios_actualizacion
+230,"Quiero sustituir el correo anterior por uno nuevo en mi perfil, antes del cierre.",servicios,tramite,servicios_actualizacion
+231,Necesito modificar mis datos de contacto en el sistema en el portal institucional.,servicios,tramite,servicios_actualizacion
+232,"¿Cómo cambio el número telefónico registrado en mi perfil, en el portal institucional.",servicios,tramite,servicios_actualizacion
+233,Necesito solicitar un cambio de información en mi expediente en el portal institucional.,servicios,tramite,servicios_actualizacion
+234,"El domicilio registrado ya no es correcto y quiero actualizarlo, en el portal institucional.",servicios,tramite,servicios_actualizacion
+235,Quiero sustituir el correo anterior por uno nuevo en mi perfil en el portal institucional.,servicios,tramite,servicios_actualizacion
+236,"Quiero actualizar el correo asociado a mi cuenta de servicios, para este periodo.",servicios,tramite,servicios_actualizacion
+237,¿Cómo cambio el número telefónico registrado en mi perfil para este periodo.,servicios,tramite,servicios_actualizacion
+238,"Quiero corregir un dato personal que aparece desactualizado, para este periodo.",servicios,tramite,servicios_actualizacion
+239,El domicilio registrado ya no es correcto y quiero actualizarlo para este periodo.,servicios,tramite,servicios_actualizacion
+240,"¿Dónde puedo modificar los datos asociados a mi servicio, para este periodo.",servicios,tramite,servicios_actualizacion
+241,Requiero confirmar si mi pago de colegiatura ya fue aplicado hoy.,finanzas,pago,finanzas_pago
+242,"Realicé una transferencia y quiero verificar el estado del pago, hoy.",finanzas,pago,finanzas_pago
+243,¿Dónde puedo consultar el comprobante de un pago registrado?,finanzas,pago,finanzas_pago
+244,El sistema todavía muestra saldo aunque ya realicé el depósito hoy.,finanzas,pago,finanzas_pago
+245,"Quiero saber cómo registrar el pago correspondiente al periodo, hoy.",finanzas,pago,finanzas_pago
+246,Necesito validar un pago que hice mediante transferencia bancaria.,finanzas,pago,finanzas_pago
+247,¿Cuánto tiempo tarda en reflejarse un pago en el sistema hoy.,finanzas,pago,finanzas_pago
+248,"Busco información para comprobar que mi depósito fue reconocido, hoy.",finanzas,pago,finanzas_pago
+249,Necesito confirmar si mi pago de colegiatura ya fue aplicado.,finanzas,pago,finanzas_pago
+250,Realicé una transferencia y quiero verificar el estado del pago esta semana.,finanzas,pago,finanzas_pago
+251,"¿En qué lugar puedo consultar el comprobante de un pago registrado, esta semana.",finanzas,pago,finanzas_pago
+252,El sistema todavía muestra saldo aunque ya realicé el depósito.,finanzas,pago,finanzas_pago
+253,Quiero saber cómo registrar el pago correspondiente al periodo esta semana.,finanzas,pago,finanzas_pago
+254,"Necesito validar un pago que hice mediante transferencia bancaria, esta semana.",finanzas,pago,finanzas_pago
+255,¿Cuánto tiempo tarda en reflejarse un pago en el sistema?,finanzas,pago,finanzas_pago
+256,Busco información para comprobar que mi depósito fue reconocido esta semana.,finanzas,pago,finanzas_pago
+257,"Necesito confirmar si mi pago de colegiatura ya fue aplicado, desde ayer.",finanzas,pago,finanzas_pago
+258,Realicé una transferencia y quiero verificar el estado del pago.,finanzas,pago,finanzas_pago
+259,¿Dónde puedo consultar el comprobante de un pago registrado desde ayer.,finanzas,pago,finanzas_pago
+260,"El sistema todavía muestra saldo aunque ya realicé el depósito, desde ayer.",finanzas,pago,finanzas_pago
+261,Quiero saber cómo registrar el pago correspondiente al periodo.,finanzas,pago,finanzas_pago
+262,Necesito validar un pago que hice mediante transferencia bancaria desde ayer.,finanzas,pago,finanzas_pago
+263,"¿Cuánto tiempo tarda en reflejarse un pago en el sistema, desde ayer.",finanzas,pago,finanzas_pago
+264,Busco información para comprobar que mi depósito fue reconocido.,finanzas,pago,finanzas_pago
+265,Necesito confirmar si mi pago de colegiatura ya fue aplicado antes del cierre.,finanzas,pago,finanzas_pago
+266,"Realicé una transferencia y quiero verificar el estado del pago, antes del cierre.",finanzas,pago,finanzas_pago
+267,El sistema todavía muestra saldo aunque ya realicé el depósito antes del cierre.,finanzas,pago,finanzas_pago
+268,"Quiero saber cómo registrar el pago correspondiente al periodo, antes del cierre.",finanzas,pago,finanzas_pago
+269,¿Cuánto tiempo tarda en reflejarse un depósito en el sistema antes del cierre.,finanzas,pago,finanzas_pago
+270,"Busco información para comprobar que mi depósito fue reconocido, antes del cierre.",finanzas,pago,finanzas_pago
+271,Realicé una transferencia y quiero verificar el estado del pago en el portal institucional.,finanzas,pago,finanzas_pago
+272,"¿Dónde puedo consultar el comprobante de un pago registrado, en el portal institucional.",finanzas,pago,finanzas_pago
+273,El portal todavía muestra saldo aunque ya realicé el depósito.,finanzas,pago,finanzas_pago
+274,Quiero saber cómo registrar el pago correspondiente al periodo en el portal institucional.,finanzas,pago,finanzas_pago
+275,"Necesito validar un pago que hice mediante transferencia bancaria, en el portal institucional.",finanzas,pago,finanzas_pago
+276,Busco información para comprobar que mi depósito fue reconocido en el portal institucional.,finanzas,pago,finanzas_pago
+277,"Requiero confirmar si mi pago de colegiatura ya fue aplicado, para este periodo.",finanzas,pago,finanzas_pago
+278,¿Dónde puedo consultar el comprobante de un pago registrado para este periodo.,finanzas,pago,finanzas_pago
+279,"El sistema todavía muestra saldo aunque ya realicé el depósito, para este periodo.",finanzas,pago,finanzas_pago
+280,Necesito validar un pago que hice mediante transferencia bancaria para este periodo.,finanzas,pago,finanzas_pago
+281,El banco mostró dos movimientos y el usuario pidió revisar cuál correspondía al servicio.,servicios,pago,servicios_cobro
+282,Aparece un cargo duplicado en mi estado de cuenta del servicio hoy.,servicios,pago,servicios_cobro
+283,"Necesito revisar un cobro que no reconozco en mi cuenta, hoy.",servicios,pago,servicios_cobro
+284,El sistema muestra una comisión adicional que no esperaba.,servicios,pago,servicios_cobro
+285,Quiero aclarar por qué se generó dos veces el mismo cargo hoy.,servicios,pago,servicios_cobro
+286,"Necesito comprobar el origen de un cobro registrado esta semana, hoy.",servicios,pago,servicios_cobro
+287,Mi cuenta presenta un importe diferente al que debía pagar.,servicios,pago,servicios_cobro
+288,¿Dónde solicito la revisión de un cargo aplicado incorrectamente hoy.,servicios,pago,servicios_cobro
+289,"Quiero reportar una diferencia entre el cobro y el servicio contratado, hoy.",servicios,pago,servicios_cobro
+290,Aparece un cargo duplicado en mi estado de cuenta del servicio.,servicios,pago,servicios_cobro
+291,Necesito revisar un cobro que no reconozco en mi cuenta esta semana.,servicios,pago,servicios_cobro
+292,"El sistema muestra una comisión adicional que no esperaba, esta semana.",servicios,pago,servicios_cobro
+293,Quiero aclarar por qué se generó dos veces el mismo cargo.,servicios,pago,servicios_cobro
+294,Necesito comprobar el origen de un cobro registrado esta semana esta semana.,servicios,pago,servicios_cobro
+295,"Mi cuenta presenta un importe diferente al que debía pagar, esta semana.",servicios,pago,servicios_cobro
+296,¿Dónde solicito la revisión de un cargo aplicado incorrectamente?,servicios,pago,servicios_cobro
+297,Quiero reportar una diferencia entre el cobro y el servicio contratado esta semana.,servicios,pago,servicios_cobro
+298,"Aparece un cargo duplicado en mi estado de cuenta del servicio, desde ayer.",servicios,pago,servicios_cobro
+299,Necesito revisar un cobro que no reconozco en mi cuenta.,servicios,pago,servicios_cobro
+300,El sistema muestra una comisión adicional que no esperaba desde ayer.,servicios,pago,servicios_cobro
+301,"Quiero aclarar por qué se generó dos veces el mismo cargo, desde ayer.",servicios,pago,servicios_cobro
+302,Necesito comprobar el origen de un cobro registrado esta semana.,servicios,pago,servicios_cobro
+303,Mi cuenta presenta un importe diferente al que debía pagar desde ayer.,servicios,pago,servicios_cobro
+304,"¿Dónde solicito la revisión de un cargo aplicado incorrectamente, desde ayer.",servicios,pago,servicios_cobro
+305,Quiero reportar una diferencia entre el cobro y el servicio contratado.,servicios,pago,servicios_cobro
+306,Aparece un cargo duplicado en mi estado de cuenta del servicio antes del cierre.,servicios,pago,servicios_cobro
+307,"Necesito revisar un cobro que no reconozco en mi cuenta, antes del cierre.",servicios,pago,servicios_cobro
+308,Quiero aclarar por qué se generó dos veces el mismo cargo antes del cierre.,servicios,pago,servicios_cobro
+309,"Necesito comprobar el origen de un cobro registrado esta semana, antes del cierre.",servicios,pago,servicios_cobro
+310,¿Dónde solicito la revisión de un cargo aplicado incorrectamente antes del cierre.,servicios,pago,servicios_cobro
+311,"Quiero reportar una diferencia entre el cobro y el servicio contratado, antes del cierre.",servicios,pago,servicios_cobro
+312,Necesito revisar un cobro que no reconozco en mi cuenta en el portal institucional.,servicios,pago,servicios_cobro
+313,"El sistema muestra una comisión adicional que no esperaba, en el portal institucional.",servicios,pago,servicios_cobro
+314,Necesito comprobar el origen de un cobro registrado esta semana en el portal institucional.,servicios,pago,servicios_cobro
+315,"Mi cuenta presenta un importe diferente al que debía pagar, en el portal institucional.",servicios,pago,servicios_cobro
+316,Quiero reportar una diferencia entre el cobro y el servicio contratado en el portal institucional.,servicios,pago,servicios_cobro
+317,"Aparece un cargo duplicado en mi estado de cuenta del servicio, para este periodo.",servicios,pago,servicios_cobro
+318,El sistema muestra una comisión adicional que no esperaba para este periodo.,servicios,pago,servicios_cobro
+319,"Quiero aclarar por qué se generó dos veces el mismo cargo, para este periodo.",servicios,pago,servicios_cobro
+320,Mi cuenta presenta un importe diferente al que debía pagar para este periodo.,servicios,pago,servicios_cobro
+321,La asesora habló con la clienta cuando ella pidió terminar el servicio antes del próximo cobro.,servicios,cancelacion,servicios_cancelacion
+322,Quiero cancelar el servicio antes del siguiente periodo de cobro hoy.,servicios,cancelacion,servicios_cancelacion
+323,"Necesito dar de baja mi suscripción porque ya no la utilizaré, hoy.",servicios,cancelacion,servicios_cancelacion
+324,¿Qué procedimiento debo seguir para cancelar el plan contratado?,servicios,cancelacion,servicios_cancelacion
+325,Solicito terminar el servicio y evitar cargos posteriores hoy.,servicios,cancelacion,servicios_cancelacion
+326,"Quiero cerrar mi suscripción al finalizar el periodo actual, hoy.",servicios,cancelacion,servicios_cancelacion
+327,Necesito cancelar la renovación automática de mi plan.,servicios,cancelacion,servicios_cancelacion
+328,¿Dónde puedo solicitar la baja definitiva del servicio hoy.,servicios,cancelacion,servicios_cancelacion
+329,"Quiero finalizar el contrato sin generar un nuevo cobro, hoy.",servicios,cancelacion,servicios_cancelacion
+330,Quiero cancelar el servicio antes del siguiente periodo de cobro.,servicios,cancelacion,servicios_cancelacion
+331,Necesito dar de baja mi suscripción porque ya no la utilizaré esta semana.,servicios,cancelacion,servicios_cancelacion
+332,"¿Qué procedimiento debo seguir para cancelar el plan contratado, esta semana.",servicios,cancelacion,servicios_cancelacion
+333,Solicito terminar el servicio y evitar cargos posteriores.,servicios,cancelacion,servicios_cancelacion
+334,Quiero cerrar mi suscripción al finalizar el periodo actual esta semana.,servicios,cancelacion,servicios_cancelacion
+335,"Necesito cancelar la renovación automática de mi plan, esta semana.",servicios,cancelacion,servicios_cancelacion
+336,¿Dónde puedo solicitar la baja definitiva del servicio?,servicios,cancelacion,servicios_cancelacion
+337,Quiero finalizar el contrato sin generar un nuevo cobro esta semana.,servicios,cancelacion,servicios_cancelacion
+338,"Quiero cancelar el servicio antes del siguiente periodo de cobro, desde ayer.",servicios,cancelacion,servicios_cancelacion
+339,Necesito dar de baja mi suscripción porque ya no la utilizaré.,servicios,cancelacion,servicios_cancelacion
+340,¿Qué procedimiento debo seguir para cancelar el plan contratado desde ayer.,servicios,cancelacion,servicios_cancelacion
+341,"Solicito terminar el servicio y evitar cargos posteriores, desde ayer.",servicios,cancelacion,servicios_cancelacion
+342,Quiero cerrar mi suscripción al finalizar el periodo actual.,servicios,cancelacion,servicios_cancelacion
+343,Necesito cancelar la renovación automática de mi plan desde ayer.,servicios,cancelacion,servicios_cancelacion
+344,"¿Dónde puedo solicitar la baja definitiva del servicio, desde ayer.",servicios,cancelacion,servicios_cancelacion
+345,Quiero finalizar el contrato sin generar un nuevo cobro.,servicios,cancelacion,servicios_cancelacion
+346,Quiero cancelar el servicio antes del siguiente periodo de cobro antes del cierre.,servicios,cancelacion,servicios_cancelacion
+347,"Necesito dar de baja mi suscripción porque ya no la utilizaré, antes del cierre.",servicios,cancelacion,servicios_cancelacion
+348,Solicito terminar el servicio y evitar cargos posteriores antes del cierre.,servicios,cancelacion,servicios_cancelacion
+349,"Quiero cerrar mi suscripción al finalizar el periodo actual, antes del cierre.",servicios,cancelacion,servicios_cancelacion
+350,¿Dónde puedo solicitar la baja definitiva del servicio antes del cierre.,servicios,cancelacion,servicios_cancelacion
+351,"Quiero finalizar el contrato sin generar un nuevo cobro, antes del cierre.",servicios,cancelacion,servicios_cancelacion
+352,Necesito dar de baja mi suscripción porque ya no la utilizaré en el portal institucional.,servicios,cancelacion,servicios_cancelacion
+353,"¿Qué procedimiento debo seguir para cancelar el plan contratado, en el portal institucional.",servicios,cancelacion,servicios_cancelacion
+354,Quiero cerrar mi suscripción al finalizar el periodo actual en el portal institucional.,servicios,cancelacion,servicios_cancelacion
+355,"Necesito cancelar la renovación automática de mi plan, en el portal institucional.",servicios,cancelacion,servicios_cancelacion
+356,Quiero finalizar el contrato sin generar un nuevo cobro en el portal institucional.,servicios,cancelacion,servicios_cancelacion
+357,"Quiero cancelar el servicio antes del siguiente periodo de cobro, para este periodo.",servicios,cancelacion,servicios_cancelacion
+358,¿Qué procedimiento debo seguir para cancelar el plan contratado para este periodo.,servicios,cancelacion,servicios_cancelacion
+359,"Solicito terminar el servicio y evitar cargos posteriores, para este periodo.",servicios,cancelacion,servicios_cancelacion
+360,Necesito cancelar la renovación automática de mi plan para este periodo.,servicios,cancelacion,servicios_cancelacion
+361,Quiero solicitar la baja de una materia antes de la fecha límite hoy.,educacion,cancelacion,educacion_baja
+362,"Necesito cancelar mi inscripción al curso optativo, hoy.",educacion,cancelacion,educacion_baja
+363,¿Cómo puedo dar de baja una asignatura de mi carga académica?,educacion,cancelacion,educacion_baja
+364,Solicito retirar una materia que registré por error hoy.,educacion,cancelacion,educacion_baja
+365,"Quiero cancelar mi participación en el curso de este periodo, hoy.",educacion,cancelacion,educacion_baja
+366,Necesito saber el procedimiento para una baja académica.,educacion,cancelacion,educacion_baja
+367,¿Dónde presento la solicitud para retirar una asignatura hoy.,educacion,cancelacion,educacion_baja
+368,"Quiero eliminar una materia antes de que cierre el periodo de cambios, hoy.",educacion,cancelacion,educacion_baja
+369,Quiero solicitar la baja de una materia antes de la fecha límite.,educacion,cancelacion,educacion_baja
+370,Necesito cancelar mi inscripción al curso optativo esta semana.,educacion,cancelacion,educacion_baja
+371,"¿Cómo puedo dar de baja una asignatura de mi carga académica, esta semana.",educacion,cancelacion,educacion_baja
+372,Solicito retirar una materia que registré por error.,educacion,cancelacion,educacion_baja
+373,Quiero cancelar mi participación en el curso de este periodo esta semana.,educacion,cancelacion,educacion_baja
+374,"Necesito saber el procedimiento para una baja académica, esta semana.",educacion,cancelacion,educacion_baja
+375,¿Dónde presento la solicitud para retirar una asignatura?,educacion,cancelacion,educacion_baja
+376,Quiero eliminar una materia antes de que cierre el periodo de cambios esta semana.,educacion,cancelacion,educacion_baja
+377,"Quiero solicitar la baja de una materia antes de la fecha límite, desde ayer.",educacion,cancelacion,educacion_baja
+378,Necesito cancelar mi inscripción al curso optativo.,educacion,cancelacion,educacion_baja
+379,¿Cómo puedo dar de baja una asignatura de mi carga académica desde ayer.,educacion,cancelacion,educacion_baja
+380,"Solicito retirar una materia que registré por error, desde ayer.",educacion,cancelacion,educacion_baja
+381,Quiero cancelar mi participación en el curso de este periodo.,educacion,cancelacion,educacion_baja
+382,Necesito saber el procedimiento para una baja académica desde ayer.,educacion,cancelacion,educacion_baja
+383,"¿Dónde presento la solicitud para retirar una asignatura, desde ayer.",educacion,cancelacion,educacion_baja
+384,Quiero eliminar una materia antes de que cierre el periodo de cambios.,educacion,cancelacion,educacion_baja
+385,Quiero solicitar la baja de una materia antes de la fecha límite antes del cierre.,educacion,cancelacion,educacion_baja
+386,"Necesito cancelar mi inscripción al curso optativo, antes del cierre.",educacion,cancelacion,educacion_baja
+387,Solicito retirar una materia que registré por error antes del cierre.,educacion,cancelacion,educacion_baja
+388,"Quiero cancelar mi participación en el curso de este periodo, antes del cierre.",educacion,cancelacion,educacion_baja
+389,¿Dónde presento la solicitud para retirar una asignatura antes del cierre.,educacion,cancelacion,educacion_baja
+390,"Quiero eliminar una materia antes de que cierre el periodo de cambios, antes del cierre.",educacion,cancelacion,educacion_baja
+391,Necesito cancelar mi inscripción al curso optativo en el portal institucional.,educacion,cancelacion,educacion_baja
+392,"¿Cómo puedo dar de baja una asignatura de mi carga académica, en el portal institucional.",educacion,cancelacion,educacion_baja
+393,Quiero cancelar mi participación en el curso de este periodo en el portal institucional.,educacion,cancelacion,educacion_baja
+394,"Necesito saber el procedimiento para una baja académica, en el portal institucional.",educacion,cancelacion,educacion_baja
+395,Quiero eliminar una materia antes de que cierre el periodo de cambios en el portal institucional.,educacion,cancelacion,educacion_baja
+396,"Quiero solicitar la baja de una materia antes de la fecha límite, para este periodo.",educacion,cancelacion,educacion_baja
+397,¿Cómo puedo dar de baja una asignatura de mi carga académica para este periodo.,educacion,cancelacion,educacion_baja
+398,"Solicito retirar una materia que registré por error, para este periodo.",educacion,cancelacion,educacion_baja
+399,Necesito saber el procedimiento para una baja académica para este periodo.,educacion,cancelacion,educacion_baja
+400,"¿Dónde presento la solicitud para retirar una asignatura, para este periodo.",educacion,cancelacion,educacion_baja
+401,La médica avisó a la enfermera que ella debía atender de inmediato al estudiante.,salud,urgencia,salud_urgencia
+402,Requiero atención médica inmediata porque una persona se desmayó hoy.,salud,urgencia,salud_urgencia
+403,"Un estudiante tiene dificultad para respirar y requiere ayuda urgente, hoy.",salud,urgencia,salud_urgencia
+404,Se presentó una reacción severa y necesitamos atención de emergencia.,salud,urgencia,salud_urgencia
+405,Una persona sufrió una caída y no puede levantarse hoy.,salud,urgencia,salud_urgencia
+406,"Necesitamos apoyo médico inmediato por un accidente en el campus, hoy.",salud,urgencia,salud_urgencia
+407,Un alumno presenta dolor intenso y requiere valoración urgente.,salud,urgencia,salud_urgencia
+408,Hay una persona inconsciente y necesitamos contactar atención médica hoy.,salud,urgencia,salud_urgencia
+409,"Se requiere atención inmediata por una lesión que está sangrando, hoy.",salud,urgencia,salud_urgencia
+410,Necesito atención médica inmediata porque una persona se desmayó.,salud,urgencia,salud_urgencia
+411,Un estudiante tiene dificultad para respirar y requiere ayuda urgente esta semana.,salud,urgencia,salud_urgencia
+412,"Se presentó una reacción severa y necesitamos atención de emergencia, esta semana.",salud,urgencia,salud_urgencia
+413,Una persona sufrió una caída y no puede levantarse.,salud,urgencia,salud_urgencia
+414,Necesitamos apoyo médico inmediato por un accidente en el campus esta semana.,salud,urgencia,salud_urgencia
+415,"Un alumno presenta dolor intenso y requiere valoración urgente, esta semana.",salud,urgencia,salud_urgencia
+416,Hay una persona inconsciente y necesitamos contactar atención médica.,salud,urgencia,salud_urgencia
+417,Se requiere atención inmediata por una lesión que está sangrando esta semana.,salud,urgencia,salud_urgencia
+418,"Necesito atención médica inmediata porque una persona se desmayó, desde ayer.",salud,urgencia,salud_urgencia
+419,Un estudiante tiene dificultad para respirar y requiere ayuda urgente.,salud,urgencia,salud_urgencia
+420,Se presentó una reacción severa y necesitamos atención de emergencia desde ayer.,salud,urgencia,salud_urgencia
+421,"Una persona sufrió una caída y no puede levantarse, desde ayer.",salud,urgencia,salud_urgencia
+422,Necesitamos apoyo médico inmediato por un accidente en el campus.,salud,urgencia,salud_urgencia
+423,Un alumno presenta dolor intenso y requiere valoración urgente desde ayer.,salud,urgencia,salud_urgencia
+424,"Hay una persona inconsciente y necesitamos contactar atención médica, desde ayer.",salud,urgencia,salud_urgencia
+425,Se requiere atención inmediata por una lesión que está sangrando.,salud,urgencia,salud_urgencia
+426,Necesito atención médica inmediata porque una persona se desmayó antes del cierre.,salud,urgencia,salud_urgencia
+427,"Un estudiante tiene dificultad para respirar y requiere ayuda urgente, antes del cierre.",salud,urgencia,salud_urgencia
+428,Una persona sufrió una caída y no puede levantarse antes del cierre.,salud,urgencia,salud_urgencia
+429,"Necesitamos apoyo médico inmediato por un accidente en el campus, antes del cierre.",salud,urgencia,salud_urgencia
+430,Hay una persona inconsciente y necesitamos contactar atención médica antes del cierre.,salud,urgencia,salud_urgencia
+431,"Se requiere atención inmediata por una lesión que está sangrando, antes del cierre.",salud,urgencia,salud_urgencia
+432,Un estudiante tiene dificultad para respirar y requiere ayuda urgente en el portal institucional.,salud,urgencia,salud_urgencia
+433,"Se presentó una reacción severa y necesitamos atención de emergencia, en el portal institucional.",salud,urgencia,salud_urgencia
+434,Necesitamos apoyo médico inmediato por un accidente en el campus en el portal institucional.,salud,urgencia,salud_urgencia
+435,"Un alumno presenta dolor intenso y requiere valoración urgente, en el portal institucional.",salud,urgencia,salud_urgencia
+436,Se requiere atención inmediata por una lesión que está sangrando en el portal institucional.,salud,urgencia,salud_urgencia
+437,"Requiero atención médica inmediata porque una persona se desmayó, para este periodo.",salud,urgencia,salud_urgencia
+438,Se presentó una reacción severa y necesitamos atención de emergencia para este periodo.,salud,urgencia,salud_urgencia
+439,"Una persona sufrió una caída y no puede levantarse, para este periodo.",salud,urgencia,salud_urgencia
+440,Un alumno presenta dolor intenso y requiere valoración urgente para este periodo.,salud,urgencia,salud_urgencia
+441,El personal observó al visitante con la cámara del acceso restringido.,seguridad,urgencia,seguridad_incidente
+442,Requiero reportar un incidente de seguridad ocurrido dentro del campus hoy.,seguridad,urgencia,seguridad_incidente
+443,"Una persona desconocida intenta ingresar a un área restringida, hoy.",seguridad,urgencia,seguridad_incidente
+444,Se detectó un acceso no autorizado y necesitamos apoyo inmediato.,seguridad,urgencia,seguridad_incidente
+445,Quiero reportar el robo de un objeto dentro de las instalaciones hoy.,seguridad,urgencia,seguridad_incidente
+446,"Hay una situación de riesgo cerca del edificio principal, hoy.",seguridad,urgencia,seguridad_incidente
+447,Necesitamos informar una amenaza recibida por un alumno.,seguridad,urgencia,seguridad_incidente
+448,Se observó una conducta peligrosa y se requiere intervención hoy.,seguridad,urgencia,seguridad_incidente
+449,"Quiero registrar un incidente que puede afectar la seguridad del grupo, hoy.",seguridad,urgencia,seguridad_incidente
+450,Necesito reportar un incidente de seguridad ocurrido dentro del campus.,seguridad,urgencia,seguridad_incidente
+451,Una persona desconocida intenta ingresar a un área restringida esta semana.,seguridad,urgencia,seguridad_incidente
+452,"Se detectó un acceso no autorizado y necesitamos apoyo inmediato, esta semana.",seguridad,urgencia,seguridad_incidente
+453,Quiero reportar el robo de un objeto dentro de las instalaciones.,seguridad,urgencia,seguridad_incidente
+454,Hay una situación de riesgo cerca del edificio principal esta semana.,seguridad,urgencia,seguridad_incidente
+455,"Necesitamos informar una amenaza recibida por un estudiante, esta semana.",seguridad,urgencia,seguridad_incidente
+456,Se observó una conducta peligrosa y se requiere intervención.,seguridad,urgencia,seguridad_incidente
+457,Quiero registrar un incidente que puede afectar la seguridad del grupo esta semana.,seguridad,urgencia,seguridad_incidente
+458,"Necesito reportar un incidente de seguridad ocurrido dentro del campus, desde ayer.",seguridad,urgencia,seguridad_incidente
+459,Una persona desconocida intenta ingresar a un área restringida.,seguridad,urgencia,seguridad_incidente
+460,Se detectó un acceso no autorizado y necesitamos apoyo inmediato desde ayer.,seguridad,urgencia,seguridad_incidente
+461,"Quiero reportar el robo de un objeto dentro de las instalaciones, desde ayer.",seguridad,urgencia,seguridad_incidente
+462,Hay una situación de riesgo cerca del edificio principal.,seguridad,urgencia,seguridad_incidente
+463,Necesitamos informar una amenaza recibida por un estudiante desde ayer.,seguridad,urgencia,seguridad_incidente
+464,"Se observó una conducta peligrosa y se requiere intervención, desde ayer.",seguridad,urgencia,seguridad_incidente
+465,Quiero registrar un incidente que puede afectar la seguridad del grupo.,seguridad,urgencia,seguridad_incidente
+466,Necesito reportar un incidente de seguridad ocurrido dentro del campus antes del cierre.,seguridad,urgencia,seguridad_incidente
+467,"Una persona desconocida intenta ingresar a un área restringida, antes del cierre.",seguridad,urgencia,seguridad_incidente
+468,Quiero reportar el robo de un objeto dentro de las instalaciones antes del cierre.,seguridad,urgencia,seguridad_incidente
+469,"Hay una situación de riesgo cerca del edificio principal, antes del cierre.",seguridad,urgencia,seguridad_incidente
+470,Necesitamos informar una amenaza recibida por un estudiante.,seguridad,urgencia,seguridad_incidente
+471,Se observó una conducta peligrosa y se requiere intervención antes del cierre.,seguridad,urgencia,seguridad_incidente
+472,"Quiero registrar un incidente que puede afectar la seguridad del grupo, antes del cierre.",seguridad,urgencia,seguridad_incidente
+473,Una persona desconocida intenta ingresar a un área restringida en el portal institucional.,seguridad,urgencia,seguridad_incidente
+474,"Se detectó un acceso no autorizado y necesitamos apoyo inmediato, en el portal institucional.",seguridad,urgencia,seguridad_incidente
+475,Hay una situación de riesgo cerca del edificio principal en el portal institucional.,seguridad,urgencia,seguridad_incidente
+476,"Necesitamos informar una amenaza recibida por un estudiante, en el portal institucional.",seguridad,urgencia,seguridad_incidente
+477,Quiero registrar un incidente que puede afectar la seguridad del grupo en el portal institucional.,seguridad,urgencia,seguridad_incidente
+478,"Requiero reportar un incidente de seguridad ocurrido dentro del campus, para este periodo.",seguridad,urgencia,seguridad_incidente
+479,Se detectó un acceso no autorizado y necesitamos apoyo inmediato para este periodo.,seguridad,urgencia,seguridad_incidente
+480,"Quiero reportar el robo de un objeto dentro de las instalaciones, para este periodo.",seguridad,urgencia,seguridad_incidente

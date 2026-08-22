@@ -1,0 +1,13 @@
+﻿consulta_id,consulta,grupo_relevancia_esperado
+Q01,apoyo económico para estudiantes,educacion_beca
+Q02,horarios y orientación médica preventiva,salud_informacion
+Q03,recuperar clave para entrar al portal,tecnologia_acceso
+Q04,falla al enviar información en la plataforma,tecnologia_error
+Q05,registrar materias del próximo cuatrimestre,educacion_inscripcion
+Q06,cambiar datos personales de mi perfil,servicios_actualizacion
+Q07,confirmar depósito de colegiatura,finanzas_pago
+Q08,devolver un cargo duplicado del servicio,servicios_cobro
+Q09,terminar suscripción antes de la renovación,servicios_cancelacion
+Q10,retirar asignatura de la carga académica,educacion_baja
+Q11,atención inmediata por persona inconsciente,salud_urgencia
+Q12,reportar acceso indebido a zona restringida,seguridad_incidente

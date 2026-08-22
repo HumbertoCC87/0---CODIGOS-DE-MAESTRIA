@@ -1,0 +1,121 @@
+indice_prueba,texto,etiqueta_real,prediccion,correcto,confianza
+0,Necesito dar de baja mi suscripción porque ya no la utilizaré en el portal institucional.,cancelacion,cancelacion,True,0.476406
+1,Quiero actualizar el correo asociado a mi cuenta de servicios antes del cierre.,tramite,tramite,True,0.561155
+2,La plataforma no reconoce mis credenciales desde esta mañana hoy.,soporte_tecnico,soporte_tecnico,True,0.591506
+3,Busco información para comprobar que mi depósito fue reconocido.,pago,pago,True,0.551831
+4,Necesito validar un pago que hice mediante transferencia bancaria desde ayer.,pago,pago,True,0.642351
+5,Quiero registrar un incidente que puede afectar la seguridad del grupo en el portal institucional.,urgencia,urgencia,True,0.338737
+6,"Quiero registrar un incidente que puede afectar la seguridad del grupo, hoy.",urgencia,urgencia,True,0.401435
+7,"Quiero saber si existe apoyo financiero para continuar mis estudios, para este periodo.",consulta_informacion,consulta_informacion,True,0.531712
+8,Realicé una transferencia y quiero verificar el estado del pago en el portal institucional.,pago,pago,True,0.630553
+9,"Se requiere atención inmediata por una lesión que está sangrando, antes del cierre.",urgencia,urgencia,True,0.520358
+10,Necesito cancelar la renovación automática de mi plan para este periodo.,cancelacion,cancelacion,True,0.600171
+11,La coordinación publicó información sobre estímulos para estudiantes destacados en el portal institucional.,consulta_informacion,consulta_informacion,True,0.564617
+12,"Un alumno presenta dolor intenso y requiere valoración urgente, en el portal institucional.",urgencia,urgencia,True,0.535716
+13,Requiero información sobre los horarios de consulta médica general hoy.,consulta_informacion,consulta_informacion,True,0.679551
+14,¿Qué especialidades médicas están disponibles para los estudiantes en el portal institucional.,consulta_informacion,consulta_informacion,True,0.448889
+15,"Se requiere atención inmediata por una lesión que está sangrando, hoy.",urgencia,urgencia,True,0.582648
+16,Necesito saber dónde consultar recomendaciones de salud institucional desde ayer.,consulta_informacion,consulta_informacion,True,0.602749
+17,"Quiero cancelar mi participación en el curso de este periodo, hoy.",cancelacion,cancelacion,True,0.604886
+18,¿Dónde puedo modificar los datos asociados a mi servicio?,tramite,tramite,True,0.445144
+19,Quiero cancelar el servicio antes del siguiente periodo de cobro antes del cierre.,cancelacion,cancelacion,True,0.689054
+20,Quiero aclarar por qué se generó dos veces el mismo cargo antes del cierre.,pago,pago,True,0.603048
+21,Hay una persona inconsciente y necesitamos contactar atención médica.,urgencia,urgencia,True,0.713534
+22,¿Dónde puedo modificar los datos asociados a mi servicio hoy.,tramite,tramite,True,0.421399
+23,"¿Dónde puedo solicitar la baja definitiva del servicio, desde ayer.",cancelacion,cancelacion,True,0.537681
+24,El sistema se detiene cuando intento cargar un archivo PDF.,soporte_tecnico,soporte_tecnico,True,0.587773
+25,Se requiere atención inmediata por una lesión que está sangrando en el portal institucional.,urgencia,urgencia,True,0.489729
+26,¿Dónde puedo modificar los datos asociados a mi servicio antes del cierre.,tramite,tramite,True,0.38187
+27,Necesito actualizar una materia dentro de mi proceso de inscripción.,tramite,tramite,True,0.59839
+28,"Necesito revisar un cobro que no reconozco en mi cuenta, antes del cierre.",pago,pago,True,0.635119
+29,Quiero saber si existe apoyo financiero para continuar mis estudios hoy.,consulta_informacion,consulta_informacion,True,0.553689
+30,"Quiero registrar un incidente que puede afectar la seguridad del grupo, antes del cierre.",urgencia,urgencia,True,0.353707
+31,Busco requisitos para solicitar una beca universitaria este periodo.,consulta_informacion,consulta_informacion,True,0.474738
+32,Necesito comprobar el origen de un cobro registrado esta semana.,pago,pago,True,0.644628
+33,"¿Cómo puedo consultar los resultados de una convocatoria de beca, antes del cierre.",consulta_informacion,consulta_informacion,True,0.587597
+34,Necesito atención médica inmediata porque una persona se desmayó antes del cierre.,urgencia,urgencia,True,0.640961
+35,Necesito restablecer la clave porque no puedo entrar al portal.,soporte_tecnico,soporte_tecnico,True,0.651625
+36,Se requiere atención inmediata por una lesión que está sangrando esta semana.,urgencia,urgencia,True,0.553973
+37,Necesito corregir un dato antes de concluir mi registro académico.,tramite,tramite,True,0.644664
+38,"Aparece una excepción después de presionar el botón de enviar, esta semana.",soporte_tecnico,soporte_tecnico,True,0.594497
+39,La plataforma no reconoce mis credenciales desde esta mañana.,soporte_tecnico,soporte_tecnico,True,0.599546
+40,"¿Dónde consulto la convocatoria de apoyo económico para alumnos con buen desempeño, antes del cierre.",consulta_informacion,consulta_informacion,True,0.628911
+41,"El domicilio registrado ya no es correcto y quiero actualizarlo, esta semana.",tramite,tramite,True,0.542343
+42,"Necesitamos apoyo médico inmediato por un accidente en el campus, hoy.",urgencia,urgencia,True,0.672583
+43,¿Qué especialidades médicas están disponibles para los estudiantes?,consulta_informacion,consulta_informacion,True,0.586133
+44,"El sistema muestra una comisión adicional que no esperaba, esta semana.",pago,pago,True,0.551578
+45,Necesito dar de baja mi suscripción porque ya no la utilizaré.,cancelacion,cancelacion,True,0.488602
+46,La médica avisó a la enfermera que ella debía atender de inmediato al estudiante.,urgencia,soporte_tecnico,False,0.211545
+47,¿Cuánto tiempo tarda en reflejarse un pago en el sistema?,pago,pago,True,0.554161
+48,Una persona desconocida intenta ingresar a un área restringida esta semana.,urgencia,urgencia,True,0.608085
+49,"Necesito completar el registro de materias para el nuevo cuatrimestre, antes del cierre.",tramite,tramite,True,0.549652
+50,¿Dónde presento la solicitud para retirar una asignatura hoy.,cancelacion,cancelacion,True,0.553279
+51,"Quiero saber cómo registrar el pago correspondiente al periodo, hoy.",pago,pago,True,0.567382
+52,"¿Qué pasos debo seguir para formalizar mi inscripción, en el portal institucional.",tramite,tramite,True,0.512538
+53,"Mi cuenta quedó bloqueada después de varios intentos de inicio de sesión, en el portal institucional.",soporte_tecnico,soporte_tecnico,True,0.555598
+54,Aparece un cargo duplicado en mi estado de cuenta del servicio.,pago,pago,True,0.586609
+55,"¿Cómo cambio el número telefónico registrado en mi perfil, en el portal institucional.",tramite,tramite,True,0.592415
+56,Se presentó una reacción severa y necesitamos atención de emergencia desde ayer.,urgencia,urgencia,True,0.650742
+57,Se observó una conducta peligrosa y se requiere intervención hoy.,urgencia,urgencia,True,0.625813
+58,"¿Qué especialidades médicas están disponibles para los estudiantes, antes del cierre.",consulta_informacion,consulta_informacion,True,0.454634
+59,¿Cómo cambio el número telefónico registrado en mi perfil desde ayer.,tramite,tramite,True,0.616374
+60,Busco requisitos para solicitar una beca universitaria este periodo para este periodo.,consulta_informacion,consulta_informacion,True,0.441777
+61,¿Cuánto tiempo tarda en reflejarse un pago en el sistema hoy.,pago,pago,True,0.551943
+62,Requiero confirmar si mi pago de colegiatura ya fue aplicado hoy.,pago,pago,True,0.61785
+63,Quiero realizar mi inscripción al siguiente periodo académico hoy.,tramite,tramite,True,0.552119
+64,¿Cómo puedo dar de baja una asignatura de mi carga académica desde ayer.,cancelacion,cancelacion,True,0.488905
+65,El portal funciona hasta que intento descargar mi comprobante hoy.,soporte_tecnico,soporte_tecnico,True,0.590283
+66,"Aparece un cargo duplicado en mi estado de cuenta del servicio, desde ayer.",pago,pago,True,0.564556
+67,El acceso institucional muestra un mensaje de usuario no autorizado.,soporte_tecnico,soporte_tecnico,True,0.637476
+68,¿Qué documentos solicitan para el programa de becas de la universidad?,consulta_informacion,consulta_informacion,True,0.52533
+69,Un alumno presenta dolor intenso y requiere valoración urgente.,urgencia,urgencia,True,0.590422
+70,El sistema se detiene cuando intento cargar un archivo PDF en el portal institucional.,soporte_tecnico,soporte_tecnico,True,0.552096
+71,Busco información para comprobar que mi depósito fue reconocido esta semana.,pago,pago,True,0.547951
+72,"El sistema genera un error al actualizar mis datos personales, en el portal institucional.",soporte_tecnico,soporte_tecnico,True,0.454907
+73,"La plataforma me pide confirmar mi carga académica antes de inscribirme, para este periodo.",tramite,tramite,True,0.57019
+74,Quiero finalizar el contrato sin generar un nuevo cobro.,cancelacion,cancelacion,True,0.509435
+75,No recibo el correo para recuperar mi contraseña de acceso.,soporte_tecnico,soporte_tecnico,True,0.565623
+76,"Mi cuenta quedó bloqueada después de varios intentos de inicio de sesión, esta semana.",soporte_tecnico,soporte_tecnico,True,0.560351
+77,No puedo finalizar el proceso porque el módulo deja de responder antes del cierre.,soporte_tecnico,soporte_tecnico,True,0.514717
+78,"El sistema todavía muestra saldo aunque ya realicé el depósito, desde ayer.",pago,pago,True,0.607783
+79,Necesito orientación sobre apoyo económico estudiantil y fechas de registro antes del cierre.,consulta_informacion,consulta_informacion,True,0.576014
+80,"Quiero solicitar la baja de una materia antes de la fecha límite, desde ayer.",cancelacion,cancelacion,True,0.651669
+81,"La coordinación publicó información sobre estímulos para estudiantes destacados, hoy.",consulta_informacion,consulta_informacion,True,0.592771
+82,El sistema rechaza mi contraseña y necesito recuperar el acceso.,soporte_tecnico,soporte_tecnico,True,0.533728
+83,Necesito dar de baja mi suscripción porque ya no la utilizaré esta semana.,cancelacion,cancelacion,True,0.474708
+84,"Hay una situación de riesgo cerca del edificio principal, hoy.",urgencia,urgencia,True,0.558982
+85,¿Qué pasos debo seguir para formalizar mi inscripción?,tramite,tramite,True,0.533887
+86,"No puedo terminar la inscripción porque la plataforma rechaza mi acceso, pero mi objetivo es registrar las materias.",tramite,soporte_tecnico,False,0.482996
+87,Necesito saber el procedimiento para una baja académica para este periodo.,cancelacion,cancelacion,True,0.605543
+88,"Quiero corregir un dato personal que aparece desactualizado, desde ayer.",tramite,tramite,True,0.606096
+89,¿Dónde puedo consultar el comprobante de un pago registrado para este periodo.,pago,pago,True,0.51582
+90,"Necesito corregir un dato antes de concluir mi registro académico, hoy.",tramite,tramite,True,0.638874
+91,"Hay una situación de riesgo cerca del edificio principal, antes del cierre.",urgencia,urgencia,True,0.527538
+92,"Quiero eliminar una materia antes de que cierre el periodo de cambios, hoy.",cancelacion,cancelacion,True,0.652926
+93,¿Dónde entrego los documentos necesarios para la inscripción antes del cierre.,tramite,tramite,True,0.38869
+94,No puedo finalizar el proceso porque el módulo deja de responder hoy.,soporte_tecnico,soporte_tecnico,True,0.520391
+95,"El sistema rechaza mi contraseña y necesito recuperar el acceso, hoy.",soporte_tecnico,soporte_tecnico,True,0.525703
+96,Necesito cancelar la renovación automática de mi plan.,cancelacion,cancelacion,True,0.599793
+97,¿Dónde presento la solicitud para retirar una asignatura?,cancelacion,cancelacion,True,0.553256
+98,La página muestra un mensaje técnico cuando intento consultar resultados esta semana.,soporte_tecnico,soporte_tecnico,True,0.660843
+99,Quiero cancelar mi participación en el curso de este periodo en el portal institucional.,cancelacion,cancelacion,True,0.541886
+100,Quiero finalizar el contrato sin generar un nuevo cobro esta semana.,cancelacion,cancelacion,True,0.491581
+101,La coordinación publicó información sobre estímulos para estudiantes destacados.,consulta_informacion,consulta_informacion,True,0.598449
+102,"El sistema todavía muestra saldo aunque ya realicé el depósito, para este periodo.",pago,pago,True,0.58981
+103,¿Dónde entrego los documentos necesarios para la inscripción hoy.,tramite,tramite,True,0.423695
+104,El sistema rechaza mi contraseña y necesito recuperar el acceso esta semana.,soporte_tecnico,soporte_tecnico,True,0.505023
+105,Mi cuenta presenta un importe diferente al que debía pagar.,pago,pago,True,0.619362
+106,"Quiero cerrar mi suscripción al finalizar el periodo actual, antes del cierre.",cancelacion,cancelacion,True,0.651658
+107,El sistema genera un error al actualizar mis datos personales desde ayer.,soporte_tecnico,soporte_tecnico,True,0.482076
+108,"Quiero información sobre prevención y servicios médicos disponibles, para este periodo.",consulta_informacion,consulta_informacion,True,0.669074
+109,"¿Qué especialidades médicas están disponibles para los estudiantes, hoy.",consulta_informacion,consulta_informacion,True,0.555111
+110,"Requiero información sobre los horarios de consulta médica general, para este periodo.",consulta_informacion,consulta_informacion,True,0.661948
+111,"¿Dónde puedo consultar el comprobante de un pago registrado, en el portal institucional.",pago,pago,True,0.520124
+112,"Una persona desconocida intenta ingresar a un área restringida, antes del cierre.",urgencia,urgencia,True,0.583561
+113,Quiero registrar un incidente que puede afectar la seguridad del grupo.,urgencia,urgencia,True,0.416389
+114,Busco requisitos para solicitar una beca universitaria este periodo desde ayer.,consulta_informacion,consulta_informacion,True,0.456284
+115,¿Cómo puedo dar de baja una asignatura de mi carga académica para este periodo.,cancelacion,cancelacion,True,0.51174
+116,Quiero realizar mi inscripción al siguiente periodo académico antes del cierre.,tramite,tramite,True,0.49903
+117,¿Cómo puedo dar de baja una asignatura de mi carga académica?,cancelacion,cancelacion,True,0.50469
+118,No recibo el correo para recuperar mi contraseña de acceso en el portal institucional.,soporte_tecnico,soporte_tecnico,True,0.527131
+119,El sistema muestra una comisión adicional que no esperaba.,pago,pago,True,0.552952

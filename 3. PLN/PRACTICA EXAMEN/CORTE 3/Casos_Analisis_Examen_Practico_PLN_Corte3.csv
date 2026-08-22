@@ -1,0 +1,16 @@
+﻿caso_id,tipo_analisis,referencia,termino_1,termino_2,instruccion
+C01,clasificacion,161,,,
+C02,clasificacion,281,,,
+C03,clasificacion,82,,,
+C04,clasificacion,321,,,
+C05,clasificacion,447,,,
+C06,ambiguedad_semantica,1,banco,apoyo,Identifique el tipo de ambigüedad principal y el contexto que permite resolverla.
+C07,ambiguedad_semantica,121,todos,no,Analice el alcance de la negación y explique las lecturas posibles.
+C08,ambiguedad_semantica,441,visitante,cámara,Explique la posible adjunción del sintagma preposicional.
+C09,relacion_lexica,2,alumna,estudiante,Determine la relación semántica más defendible entre los términos.
+C10,relacion_lexica,82,acceso,cuenta,"Determine si existe sinonimia, jerarquía, parte-todo, relación contextual o ausencia de relación."
+C11,recuperacion,Q01,,,Analice el top-3 y explique la relevancia o el distractor principal.
+C12,recuperacion,Q03,,,Analice el top-3 y explique la relevancia o el distractor principal.
+C13,recuperacion,Q08,,,Analice el top-3 y explique la relevancia o el distractor principal.
+C14,recuperacion,Q09,,,Analice el top-3 y explique la relevancia o el distractor principal.
+C15,recuperacion,Q12,,,Analice el top-3 y explique la relevancia o el distractor principal.
