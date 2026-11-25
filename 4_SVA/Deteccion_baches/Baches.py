@@ -67,7 +67,7 @@ def procesar_bache(ruta_imagen):
     # 6. Detectar esquinas y puntos de interés (Algoritmo de Harris y Shi-Tomasi)
     img_esquinas = img_resized_rgb.copy()
     
-    # Detección de esquinas con Shi-Tomasi (Good Features to Track) 
+    # Detección de esquinas con Shi-Tomasi (Good Features to Track) - Muy efectivo en grietas y bordes irregulares
     esquinas = cv2.goodFeaturesToTrack(img_suavizada, maxCorners=150, qualityLevel=0.02, minDistance=10)
     esquinas = np.int64(esquinas)
     for i in esquinas:
