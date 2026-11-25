@@ -4,7 +4,7 @@ from typing import Sequence
 from .models import Individual
 
 WEIGHTS={"Balanceado":np.array([.34,.33,.33]),"Económico (CFO)":np.array([.60,.15,.25]),
-         "Verde (ESG)":np.array([.20,.60,.20]),"Servicio (SLA)":np.array([.20,.15,.65])}
+         "Ecologico (ESG)":np.array([.20,.60,.20]),"Servicio (SLA)":np.array([.20,.15,.65])}
 
 def normalize_points(points:np.ndarray)->np.ndarray:
     lo=points.min(0); hi=points.max(0); span=hi-lo

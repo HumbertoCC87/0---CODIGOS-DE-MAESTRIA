@@ -1,4 +1,4 @@
-"""Executive Streamlit control tower for Green-VRPTW optimization."""
+"""Executive Streamlit VRPTW optimization."""
 from __future__ import annotations
 
 import io
@@ -94,14 +94,14 @@ def _pareto_column_config() -> dict:
 
 
 st.set_page_config(
-    page_title="Green-VRPTW Control Tower",
+    page_title="VRPTW Optimización Multiobjetivo",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 apply_styles()
 
 with st.sidebar:
-    st.header("Control de despacho")
+    st.header("Configuración")
     instance = st.selectbox("Instancia de ruteo", ["C101", "R101", "RC101"])
     n = st.select_slider("Clientes objetivo", options=[25, 50, 100], value=25)
     run = st.button(
@@ -110,14 +110,14 @@ with st.sidebar:
         use_container_width=True,
     )
 
-    with st.expander("📂 Datos y CSV de Kaggle", expanded=False):
+    with st.expander("Datos y CSV de Kaggle", expanded=False):
         uploaded = st.file_uploader(
             "CSV Solomon (depósito en primera fila)",
             type=["csv"],
             help="El archivo se procesa en memoria y no se copia a outputs/.",
         )
 
-    with st.expander("🚚 Parámetros de Flota y Costos", expanded=False):
+    with st.expander("Parámetros de Flota y Costos", expanded=False):
         capacity = st.number_input("Capacidad Q", 50.0, 1000.0, 200.0, 25.0)
         fixed = st.number_input("Costo fijo por vehículo", 500.0, 5000.0, 1850.0, 50.0)
         fuel = st.number_input("Precio combustible", 10.0, 60.0, 25.5, .5)
@@ -126,7 +126,7 @@ with st.sidebar:
         peak = st.slider("Factor tráfico pico", 1.0, 1.8, 1.35, .05)
         sinuosity = st.slider("Sinuosidad vial", 1.0, 2.0, 1.25, .05)
 
-    with st.expander("🧬 Hiperparámetros NSGA-II", expanded=False):
+    with st.expander("Hiperparámetros NSGA-II", expanded=False):
         pop = st.slider("Población", 40, 150, 80, 10)
         gens = st.slider("Generaciones", 40, 250, 100, 10)
         pc = st.slider("Probabilidad de cruce", .5, 1.0, .85, .05)
@@ -223,7 +223,7 @@ with tabs[0]:
         st.info("Ajusta los parámetros y ejecuta la optimización para analizar el Frente de Pareto.")
     else:
         points = np.asarray([item.objectives for item in pareto], dtype=float)
-        st.markdown('<div class="section-heading">Decisión ejecutiva multiobjetivo</div>',
+        st.markdown('<div class="section-heading">Decisión multiobjetivo</div>',
                     unsafe_allow_html=True)
         left, right = st.columns([1, 2.2])
         with left:
@@ -292,7 +292,7 @@ with tabs[0]:
 
         profiles = [
             ("Económico", topsis(pareto, WEIGHTS["Económico (CFO)"])),
-            ("Verde (ESG)", topsis(pareto, WEIGHTS["Verde (ESG)"])),
+            ("Verde (ESG)", topsis(pareto, WEIGHTS["Ecologico (ESG)"])),
             ("Servicio (SLA)", topsis(pareto, WEIGHTS["Servicio (SLA)"])),
             ("Balanceado / Knee", knee),
         ]

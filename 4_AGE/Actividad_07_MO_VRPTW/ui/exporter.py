@@ -57,7 +57,7 @@ def export_evidence(
         ax.xaxis.pane.set_facecolor((.96, .97, .98, 1))
         ax.yaxis.pane.set_facecolor((.96, .97, .98, 1))
         ax.zaxis.pane.set_facecolor((.96, .97, .98, 1))
-        ax.set_title("Frente de Pareto Green-VRPTW", color=NAVY, pad=14)
+        ax.set_title("Frente de Pareto VRPTW", color=NAVY, pad=14)
         fig.tight_layout()
         pareto_png = output_path / "pareto_3d_300dpi.png"
         _save_figure(fig, pareto_png)

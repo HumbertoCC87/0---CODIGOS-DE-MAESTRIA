@@ -123,8 +123,8 @@ def render_hero(
     )
     st.markdown(
         '<section class="hero-banner">'
-        '<div class="hero-title">Green-VRPTW Control Tower</div>'
-        '<div class="hero-subtitle">Centro de control de ruteo verde · '
+        '<div class="hero-title">VRPTW Simulador</div>'
+        '<div class="hero-subtitle">Monitor de ruteo · '
         'NSGA-II triobjetivo con ventanas de tiempo</div>'
         f'<div class="hero-pills">{badge_html}</div></section>',
         unsafe_allow_html=True,
